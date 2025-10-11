@@ -1,0 +1,104 @@
+{
+  "ecommerce_sales": [
+    {
+      "sale_id": "ECO-001-2025",
+      "sale_date": "2025-10-01T10:30:00Z",
+      "customer_id": "CUST-1001",
+      "customer_email": "joao.silva@email.com",
+      "sku": "ERP-LAP-001-2024",
+      "quantity": 1,
+      "unit_price": 599.99,
+      "status": "completed"
+    },
+    {
+      "sale_id": "ECO-002-2025",
+      "sale_date": "2025-10-02T14:45:00Z",
+      "customer_id": "CUST-1002", 
+      "customer_email": "ana.rodrigues@email.com",
+      "sku": "ERP-PHONE-002-2024",
+      "quantity": 1,
+      "unit_price": 1199.99,
+      "status": "completed"
+    },
+    {
+      "sale_id": "ECO-003-2025",
+      "sale_date": "2025-10-03T09:15:00Z",
+      "customer_id": "CUST-1003",
+      "customer_email": "carlos.mendes@email.com",
+      "sku": "ERP-TAB-003-2024",
+      "quantity": 2,
+      "unit_price": 1499.99,
+      "status": "completed"
+    },
+    {
+      "sale_id": "ECO-004-2025",
+      "sale_date": "2025-10-04T16:20:00Z",
+      "customer_id": "CUST-1004",
+      "customer_email": "marta.oliveira@email.com",
+      "sku": "ERP-MON-004-2024",
+      "quantity": 1,
+      "unit_price": 449.99,
+      "status": "completed"
+    },
+    {
+      "sale_id": "ECO-005-2025",
+      "sale_date": "2025-10-05T11:30:00Z",
+      "customer_id": "CUST-1005",
+      "customer_email": "rui.gomes@email.com",
+      "sku": "ERP-KEY-005-2024",
+      "quantity": 3,
+      "unit_price": 129.99,
+      "status": "completed"
+    },
+    {
+      "sale_id": "ECO-006-2025",
+      "sale_date": "2025-10-06T13:45:00Z",
+      "customer_id": "CUST-1006",
+      "customer_email": "sofia.costa@email.com",
+      "sku": "ERP-MOU-006-2024", 
+      "quantity": 2,
+      "unit_price": 99.99,
+      "status": "completed"
+    },
+    {
+      "sale_id": "ECO-007-2025",
+      "sale_date": "2025-10-07T15:10:00Z",
+      "customer_id": "CUST-1007",
+      "customer_email": "pedro.fernandes@email.com",
+      "sku": "ERP-LAP-001-2024",
+      "quantity": 1,
+      "unit_price": 599.99,
+      "status": "pending"
+    },
+    {
+      "sale_id": "ECO-008-2025",
+      "sale_date": "2025-10-08T08:45:00Z",
+      "customer_id": "CUST-1008",
+      "customer_email": "ines.santos@email.com",
+      "sku": "ERP-PHONE-002-2024",
+      "quantity": 1,
+      "unit_price": 1199.99,
+      "status": "completed"
+    },
+    {
+      "sale_id": "ECO-009-2025",
+      "sale_date": "2025-10-08T12:20:00Z",
+      "customer_id": "CUST-1009",
+      "customer_email": "miguel.pereira@email.com",
+      "sku": "ERP-KEY-005-2024",
+      "quantity": 2,
+      "unit_price": 129.99,
+      "status": "completed"
+    },
+    {
+      "sale_id": "ECO-010-2025",
+      "sale_date": "2025-10-08T17:35:00Z",
+      "customer_id": "CUST-1010",
+      "customer_email": "catarina.martins@email.com", 
+      "sku": "ERP-TAB-003-2024",
+      "quantity": 1,
+      "unit_price": 1499.99,
+      "status": "processing"
+    }
+  ]
+}
