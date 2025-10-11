@@ -1,0 +1,115 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+
+<warehouses>
+    <warehouse id = "WH-001">
+        <name>Armazem Central - Braga</name>
+        <location>
+            <address>Zona Industrial de Celeirós</address>
+            <city>Braga</city>
+            <postal_code>4705-025</postal_code>
+        </location>
+        <products>
+            <product>
+                <sku>ERP-LAP-001-2024</sku>
+                <internal_code>10001</internal_code>
+                <name>Portátil ASUS VivoBook 15</name>
+                <category>LAPTOPS</category>
+                <quantity>45</quantity>
+                <unit_price>599.99</unit_price>
+                <location_code>A-12-03</location_code>
+                <supplier>ASUS Europe</supplier>
+                <last_restock>2025-09-15</last_restock>
+                <min_stock>10</min_stock>
+                </product>
+
+                <product>
+                    <sku>ERP-TAB-003-2024</sku>
+                    <internal_code>10003</internal_code>
+                    <name>Apple iPad Pro 12.9 512GB</name>
+                    <category>TABLETS</category>
+                    <quantity>8</quantity>
+                    <unit_price>1499.99</unit_price>
+                    <location_code>A-08-15</location_code>
+                    <supplier>Apple Distribution</supplier>
+                    <last_restock>2025-09-20</last_restock>
+                    <min_stock>5</min_stock>
+                </product>
+
+                <product>
+                    <sku>ERP-MON-004-2024</sku>
+                    <internal_code>10004</internal_code>
+                    <name>Monitor LG UltraWide 34"</name>
+                    <category>MONITORS</category>
+                    <quantity>22</quantity>
+                    <unit_price>449.99</unit_price>
+                    <location_code>C-03-07</location_code>
+                    <supplier>LG Electronics</supplier>
+                    <last_restock>2025-09-28</last_restock>
+                    <min_stock>8</min_stock>
+                </product>
+                
+                <product>
+                    <sku>ERP-KEY-005-2024</sku>
+                    <internal_code>10005</internal_code>
+                    <name>Teclado Mecânico Logitech MX Keys</name>
+                    <category>PERIPHERALS</category>
+                    <quantity>65</quantity>
+                    <unit_price>129.99</unit_price>
+                    <location_code>D-11-02</location_code>
+                    <supplier>Logitech Europe</supplier>
+                    <last_restock>2025-10-05</last_restock>
+                    <min_stock>20</min_stock>
+                </product>
+        </products>
+    </warehouse>
+
+    <warehouse id="WH-002">
+            <name>Armazém Norte - Porto</name>
+            <location>
+                <address>Rua da Boavista 1234</address>
+                <city>Porto</city>
+                <postal_code>4100-111</postal_code>
+            </location>
+            <products>
+                <product>
+                    <sku>ERP-LAP-001-2024</sku>
+                    <internal_code>10001</internal_code>
+                    <name>Portátil ASUS VivoBook 15</name>
+                    <category>LAPTOPS</category>
+                    <quantity>28</quantity>
+                    <unit_price>599.99</unit_price>
+                    <location_code>A-01-05</location_code>
+                    <supplier>ASUS Europe</supplier>
+                    <last_restock>2025-09-18</last_restock>
+                    <min_stock>10</min_stock>
+                </product>
+                
+                <product>
+                    <sku>ERP-PHONE-002-2024</sku>
+                    <internal_code>10002</internal_code>
+                    <name>Samsung Galaxy S24 Ultra</name>
+                    <category>SMARTPHONES</category>
+                    <quantity>18</quantity>
+                    <unit_price>1199.99</unit_price>
+                    <location_code>B-02-08</location_code>
+                    <supplier>Samsung Portugal</supplier>
+                    <last_restock>2025-10-03</last_restock>
+                    <min_stock>15</min_stock>
+                </product>
+                
+                <product>
+                    <sku>ERP-MOU-006-2024</sku>
+                    <internal_code>10006</internal_code>
+                    <name>Rato Logitech MX Master 3S</name>
+                    <category>PERIPHERALS</category>
+                    <quantity>42</quantity>
+                    <unit_price>99.99</unit_price>
+                    <location_code>D-05-11</location_code>
+                    <supplier>Logitech Europe</supplier>
+                    <last_restock>2025-10-04</last_restock>
+                    <min_stock>15</min_stock>
+                </product>
+            </products>
+        </warehouse>
+
+</warehouses>

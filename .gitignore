@@ -1,0 +1,21 @@
+# Database
+*.db
+*.sqlite
+
+# KNIME
+.metadata/
+*.knwf.bak
+
+# C#
+bin/
+obj/
+*.user
+*.suo
+
+# IDE
+.vscode/
+.idea/
+
+# Temporários
+*.tmp
+*.log
