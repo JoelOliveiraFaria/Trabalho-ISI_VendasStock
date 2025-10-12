@@ -1,51 +1,51 @@
-warehouse_id,sku,product_name,quantity_available,minimum_level,location,last_updated,supplier
-WH_02,ERP KEY 005 2024,LG UltraWide 34" Monitor  ,150pcs,20,WAREHOUSE A - SECTION 1,05/09/2025,Apple Inc.  
-  WH-01  ,  ERP-MON-004-2024  ,Logitech MX Master 3S  ,257pcs,31,Warehouse B - Zone 2,07-10-2025 10:23:31,  Samsung Electronics
-WH-04  ,ERP--MON--004--2024,Apple iPad Pro 12.9 512GB  ,43 units,24,WAREHOUSE A - SECTION 1,11-09-2025 06:57:24,Apple Inc.
-WH_05,ERP-KEY-005-2024,Logitech MX Keys  ,275,46,Armazém B - Zona 2,06/09/2025 04:11,  Samsung Electronics
-  WH-04,ERP_LAP_001_2024,Logitech MX Keys,404 units,10,Armazém B - Zona 2,03/09/2025 01:00,Logitech  
-WH-03,ERP LAP 001 2024,  Logitech MX Keys,198 units,27,Warehouse B - Zone 2,01/10/2025,Samsung Electronics  
-WH-01,ERP--KEY--005--2024,  Samsung Galaxy S24 Ultra  ,60,38,Warehouse B - Zone 2,2025-09-22T11:15:54Z,  Logitech International
-  WH-04  ,ERP/MOU/006/2024,  LG UltraWide 34" Monitor  ,201pcs,14,Armazém B - Zona 2,30/09/2025 17:12,LG Electronics  
-WH_03,ERP--LAP--001--2024,  LG UltraWide 34" Monitor,182pcs,26,Armazém B - Zona 2,02/10/2025 05:27,Samsung Electronics  
-WH-01,ERP/MOU/006/2024,Apple iPad Pro 12.9 512GB  ,114,34,Armazém B - Zona 2,2025/10/10 23:19,Apple Inc.
-WH-05,ERP--TAB--003--2024,  Apple iPad Pro 12.9 512GB,277,31,Warehouse B - Zone 2,18/09/2025,  Logitech International
-WH_02,ERP--KEY--005--2024,Logitech MX Keys,159pcs,13,Warehouse B - Zone 2,06/09/2025,  LG Electronics  
-  WH-01,ERP/PHONE/002/2024,  Logitech MX Keys  ,403pcs,28,Armazém A - Setor 1,24-09-2025 23:56:39,  Logitech  
-WH_04,ERP_MOU_006_2024,  ASUS VivoBook 15 Laptop,407pcs,30,WAREHOUSE B - ZONE 2,01/10/2025 21:55,  ASUS Inc  
-WH_04,ERP-LAP-001-2024,Logitech MX Keys,62 units,22,Armazém B - Zona 2,25-09-2025 22:41:35,  Logitech
-WH_03,ERP-TAB-003-2024,  LG UltraWide 34" Monitor  ,294 units,22,Warehouse B - Zone 2,01-09-2025 19:30:05,LG Electronics
-WH-04,ERP MON 004 2024,  Logitech MX Master 3S,45,10,Warehouse B - Zone 2,29/09/2025 17:45,  Apple Inc.
-WH_02,ERP-PHONE-002-2024,Apple iPad Pro 12.9 512GB  ,227 units,42,Armazém A - Setor 1,2025-09-03T01:57:38Z,Logitech  
-  WH-03  ,ERP/PHONE/002/2024,Logitech MX Master 3S,453,29,WAREHOUSE B - ZONE 2,01/10/2025 06:22,Apple Inc.  
-WH-05  ,ERP PHONE 002 2024,  ASUS VivoBook 15 Laptop  ,241,13,WAREHOUSE A - SECTION 1,13-09-2025 04:31:31,  Logitech International  
-WH-02,ERP-MOU-006-2024,  LG UltraWide 34" Monitor,400,24,WAREHOUSE B - ZONE 2,2025-09-14T05:04:01Z,  Apple Inc.
-WH-01,ERP/LAP/001/2024,Logitech MX Keys  ,365pcs,17,WAREHOUSE A - SECTION 1,06/10/2025 22:57,Logitech International  
-WH-05,ERP--MOU--006--2024,Samsung Galaxy S24 Ultra  ,233 units,18,Armazém B - Zona 2,10/10/2025,  ASUS Inc  
-WH-04  ,  ERP-MON-004-2024  ,  Samsung Galaxy S24 Ultra  ,417 units,21,Warehouse A - Section 1,2025/10/06 18:12,  Apple Inc.  
-WH-03,ERP_MON_004_2024,Logitech MX Keys  ,3 units,29,WAREHOUSE A - SECTION 1,2025/09/06 03:46,ASUS Inc
-WH_02,ERP_LAP_001_2024,  Apple iPad Pro 12.9 512GB  ,493,13,WAREHOUSE A - SECTION 1,2025-09-02T00:28:36Z,Apple Inc.
-WH_03,  ERP-LAP-001-2024,Apple iPad Pro 12.9 512GB  ,222,21,Armazém A - Setor 1,19/09/2025,ASUS Inc
-  WH-01,ERP--MOU--006--2024,LG UltraWide 34" Monitor  ,370pcs,50,Armazém B - Zona 2,2025/09/20 22:03,Samsung Electronics  
-WH-01,ERP--TAB--003--2024,  Samsung Galaxy S24 Ultra  ,159 units,49,WAREHOUSE A - SECTION 1,05-09-2025 19:41:57,Apple Inc.  
-WH-05,  ERP-LAP-001-2024,ASUS VivoBook 15 Laptop  ,118,36,Warehouse B - Zone 2,05-09-2025 09:18:47,  ASUS Inc  
-WH-05,ERP_TAB_003_2024,  Apple iPad Pro 12.9 512GB,364,21,Warehouse B - Zone 2,29/09/2025,  Logitech International
-  WH-03  ,ERP MOU 006 2024,  Logitech MX Keys,133 units,24,WAREHOUSE A - SECTION 1,2025-10-05T10:26:30Z,Apple Inc.  
-  WH-02  ,ERP_MON_004_2024,Logitech MX Keys,14 units,17,Armazém A - Setor 1,2025/09/30 09:57,  Apple Inc.
-WH-02,ERP--KEY--005--2024,  LG UltraWide 34" Monitor,416 units,27,Warehouse A - Section 1,06/09/2025,Logitech
-  WH-02  ,ERP/KEY/005/2024,  LG UltraWide 34" Monitor,204,31,Armazém A - Setor 1,16-09-2025 15:15:29,  Samsung Electronics
-WH_05,ERP MOU 006 2024,ASUS VivoBook 15 Laptop  ,249 units,46,Armazém B - Zona 2,2025/09/17 22:09,Logitech
-WH-03,ERP_MON_004_2024,  Samsung Galaxy S24 Ultra  ,211pcs,20,Armazém B - Zona 2,2025-09-08T01:41:26Z,ASUS Inc
-WH-04  ,ERP--MOU--006--2024,Samsung Galaxy S24 Ultra  ,142 units,11,Armazém B - Zona 2,07/09/2025,  Logitech International  
-WH-03,ERP_PHONE_002_2024,Logitech MX Keys,206 units,46,Warehouse A - Section 1,08/10/2025 14:14,  Logitech International
-WH-01,ERP_MON_004_2024,Logitech MX Master 3S  ,98 units,12,Warehouse B - Zone 2,14/09/2025 02:46,LG Electronics  
-WH-05,ERP-MOU-006-2024  ,Apple iPad Pro 12.9 512GB,406pcs,37,WAREHOUSE B - ZONE 2,28-09-2025 11:37:29,LG Electronics  
-WH-04  ,ERP KEY 005 2024,Logitech MX Keys  ,439 units,24,WAREHOUSE B - ZONE 2,2025/10/09 23:44,  Apple Inc.  
-  WH-05  ,ERP MOU 006 2024,  Logitech MX Keys  ,141pcs,31,Armazém A - Setor 1,27-09-2025 14:57:59,  Logitech
-WH_04,ERP MON 004 2024,LG UltraWide 34" Monitor,145,26,WAREHOUSE A - SECTION 1,13/09/2025 21:46,Apple Inc.
-WH-01,ERP MOU 006 2024,  Logitech MX Master 3S,34pcs,34,Armazém A - Setor 1,2025/09/26 11:54,Logitech  
-WH_02,ERP KEY 005 2024,  LG UltraWide 34" Monitor  ,379,39,Armazém A - Setor 1,07/09/2025,  Samsung Electronics  
-WH_03,ERP/TAB/003/2024,Samsung Galaxy S24 Ultra,404pcs,18,WAREHOUSE B - ZONE 2,26/09/2025,  Logitech International  
-WH_05,ERP MON 004 2024,Logitech MX Master 3S,233,25,Armazém A - Setor 1,10/10/2025 21:26,  Samsung Electronics
-WH_01,ERP PHONE 002 2024,LG UltraWide 34" Monitor,78pcs,38,WAREHOUSE A - SECTION 1,2025-09-21T19:51:46Z,Logitech International
-WH_01,ERP PHONE 002 2024,  LG UltraWide 34" Monitor  ,368 units,31,Warehouse B - Zone 2,11/10/2025,  ASUS Inc  
+warehouse_id;sku;product_name;quantity_available;minimum_level;location;last_updated;supplier
+  WH-05;ERP--PHONE--002--2024;  Logitech MX Keys  ;374;48;WAREHOUSE B - ZONE 2;24/09/2025 21:03;  ASUS Inc  
+  WH-03;ERP-MON-004-2024  ;Logitech MX Keys  ;468;46;Warehouse A - Section 1;2025-09-08T23:15:11Z;Logitech
+WH-03;ERP_LAP_001_2024;Logitech MX Keys;196;33;Warehouse A - Section 1;06/10/2025;  ASUS Inc
+  WH-04  ;ERP MON 004 2024;  Apple iPad Pro 12.9 512GB;173pcs;29;WAREHOUSE A - SECTION 1;05-10-2025 23:28:18;Apple Inc.
+WH-05;ERP--LAP--001--2024;  Logitech MX Keys;386;10;Armazém A - Setor 1;2025/09/23 23:06;ASUS Inc  
+WH_05;ERP PHONE 002 2024;  Logitech MX Master 3S  ;272 units;21;Warehouse B - Zone 2;11-09-2025 04:38:16;Apple Inc.  
+WH-04;ERP_TAB_003_2024;  ASUS VivoBook 15 Laptop;167;12;Armazém A - Setor 1;2025-10-04T05:24:59Z;  LG Electronics
+WH-05;ERP PHONE 002 2024;Logitech MX Keys  ;405;11;Warehouse B - Zone 2;16-09-2025 01:40:07;  Apple Inc.
+  WH-04;ERP/LAP/001/2024;  Samsung Galaxy S24 Ultra  ;47;16;Armazém A - Setor 1;2025/09/09 22:40;ASUS Inc  
+  WH-05  ;ERP TAB 003 2024;  ASUS VivoBook 15 Laptop  ;365;19;Armazém A - Setor 1;2025/09/05 17:52;  Samsung Electronics  
+  WH-02  ;ERP PHONE 002 2024;  Logitech MX Keys;136pcs;23;Armazém B - Zona 2;2025/10/09 16:05;  Samsung Electronics
+WH_02;ERP--KEY--005--2024;  LG UltraWide 34" Monitor;448 units;36;Warehouse A - Section 1;07-10-2025 17:50:28;  Logitech International  
+WH-02;ERP--LAP--001--2024;  ASUS VivoBook 15 Laptop;380pcs;22;WAREHOUSE A - SECTION 1;24/09/2025 07:47;  Samsung Electronics  
+WH-04;ERP_MOU_006_2024;  Logitech MX Master 3S  ;365;18;WAREHOUSE A - SECTION 1;09/10/2025;Logitech  
+WH-05  ;ERP_MOU_006_2024;  LG UltraWide 34" Monitor;485 units;14;WAREHOUSE A - SECTION 1;2025-10-03T11:17:07Z;Logitech International
+WH_03;ERP--LAP--001--2024;  LG UltraWide 34" Monitor;280pcs;18;WAREHOUSE A - SECTION 1;01-10-2025 18:45:15;ASUS Inc  
+WH_05;ERP_KEY_005_2024;Logitech MX Master 3S  ;109pcs;13;WAREHOUSE B - ZONE 2;04-09-2025 15:00:56;  Apple Inc.  
+  WH-02  ;ERP MON 004 2024;ASUS VivoBook 15 Laptop  ;219;25;WAREHOUSE A - SECTION 1;2025-10-08T19:51:08Z;  Samsung Electronics  
+WH-05;ERP_MOU_006_2024;ASUS VivoBook 15 Laptop;399;44;Armazém B - Zona 2;2025-09-06T20:11:29Z;  ASUS Inc
+WH_03;ERP PHONE 002 2024;  Samsung Galaxy S24 Ultra;57pcs;21;Armazém A - Setor 1;2025-10-09T07:05:09Z;  Samsung Electronics
+WH_02;ERP TAB 003 2024;  Samsung Galaxy S24 Ultra  ;441 units;34;Armazém B - Zona 2;16/09/2025;ASUS Inc
+WH_01;ERP_MOU_006_2024;LG UltraWide 34" Monitor;365;22;Armazém A - Setor 1;2025/10/05 08:43;Logitech International  
+  WH-03;ERP_TAB_003_2024;Logitech MX Keys  ;210 units;13;WAREHOUSE A - SECTION 1;01/10/2025 03:24;  Logitech  
+WH-05;  ERP-KEY-005-2024;Samsung Galaxy S24 Ultra  ;65;44;Warehouse B - Zone 2;09/10/2025 09:12;Logitech
+WH-01;ERP--LAP--001--2024;  Logitech MX Keys;473;43;Armazém A - Setor 1;01/10/2025;Samsung Electronics
+WH-02;ERP--PHONE--002--2024;  Apple iPad Pro 12.9 512GB  ;381pcs;40;Warehouse A - Section 1;15/09/2025;  ASUS Inc
+WH_02;ERP_MOU_006_2024;Apple iPad Pro 12.9 512GB;377 units;49;Armazém A - Setor 1;22-09-2025 03:59:14;LG Electronics
+WH-01  ;ERP--TAB--003--2024;LG UltraWide 34" Monitor  ;257 units;36;WAREHOUSE A - SECTION 1;29-09-2025 15:29:21;  Samsung Electronics
+WH-03  ;ERP--KEY--005--2024;  Samsung Galaxy S24 Ultra  ;88;43;Armazém A - Setor 1;2025/10/01 16:01;  Logitech International
+WH-04;ERP PHONE 002 2024;  Logitech MX Master 3S  ;79 units;30;WAREHOUSE A - SECTION 1;2025/10/04 18:51;Samsung Electronics
+  WH-05  ;ERP--MOU--006--2024;Logitech MX Master 3S  ;381 units;40;Warehouse B - Zone 2;2025-10-09T16:41:13Z;  Logitech  
+WH-03;ERP--PHONE--002--2024;  Samsung Galaxy S24 Ultra;394 units;16;Warehouse B - Zone 2;03/09/2025;  Apple Inc.  
+  WH-05;ERP--TAB--003--2024;  Logitech MX Keys;35pcs;12;Armazém B - Zona 2;03/09/2025;Logitech International
+WH-02  ;ERP_KEY_005_2024;Logitech MX Master 3S;156 units;44;Warehouse B - Zone 2;05/09/2025 17:52;  Logitech  
+WH-05;ERP/MON/004/2024;ASUS VivoBook 15 Laptop  ;304pcs;49;Armazém A - Setor 1;06/09/2025 11:39;Logitech  
+  WH-05;ERP MOU 006 2024;  Samsung Galaxy S24 Ultra;376 units;21;WAREHOUSE A - SECTION 1;26-09-2025 06:55:07;  Samsung Electronics  
+WH-02;ERP-TAB-003-2024;  Logitech MX Keys;354pcs;12;Warehouse A - Section 1;29/09/2025;  Logitech International  
+WH_03;ERP MON 004 2024;  Apple iPad Pro 12.9 512GB  ;181;43;Warehouse A - Section 1;17-09-2025 12:45:46;LG Electronics  
+WH-03;  ERP-MOU-006-2024;ASUS VivoBook 15 Laptop  ;5 units;17;WAREHOUSE A - SECTION 1;20-09-2025 21:42:29;  Apple Inc.
+WH-04;ERP TAB 003 2024;Samsung Galaxy S24 Ultra  ;133pcs;13;Warehouse A - Section 1;11-10-2025 00:30:27;Logitech
+WH_03;ERP--TAB--003--2024;  Apple iPad Pro 12.9 512GB  ;165 units;32;WAREHOUSE B - ZONE 2;23/09/2025 12:33;  Apple Inc.
+WH_03;ERP_KEY_005_2024;LG UltraWide 34" Monitor  ;127;48;WAREHOUSE B - ZONE 2;2025/09/10 09:20;  ASUS Inc
+WH-01;ERP--MOU--006--2024;  Samsung Galaxy S24 Ultra  ;473;31;Armazém B - Zona 2;06-09-2025 23:44:30;Apple Inc.
+WH_01;ERP MOU 006 2024;  Logitech MX Master 3S  ;473;19;WAREHOUSE A - SECTION 1;2025-09-26T09:28:57Z;ASUS Inc
+WH-01;ERP--TAB--003--2024;  Samsung Galaxy S24 Ultra;123pcs;33;Armazém A - Setor 1;05/10/2025 18:23;LG Electronics
+  WH-05  ;ERP_PHONE_002_2024;  ASUS VivoBook 15 Laptop  ;487pcs;24;Warehouse A - Section 1;06/10/2025;Samsung Electronics
+  WH-04;ERP-MOU-006-2024;LG UltraWide 34" Monitor;39;30;WAREHOUSE A - SECTION 1;26/09/2025;ASUS Inc
+WH_03;ERP_KEY_005_2024;  LG UltraWide 34" Monitor  ;66pcs;49;WAREHOUSE A - SECTION 1;11/10/2025 03:43;  Logitech International
+WH-04;ERP_MON_004_2024;  LG UltraWide 34" Monitor  ;127;16;WAREHOUSE A - SECTION 1;22/09/2025;Logitech
+WH_05;  ERP-MOU-006-2024  ;  ASUS VivoBook 15 Laptop;127 units;40;WAREHOUSE B - ZONE 2;2025-09-28T08:34:25Z;  ASUS Inc  

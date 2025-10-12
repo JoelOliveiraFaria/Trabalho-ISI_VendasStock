@@ -37,13 +37,13 @@ namespace DataGenerator.Exporter
             using (var writer = new StreamWriter(filename))
             {
                 // Cabeçalho
-                writer.WriteLine(string.Join(",", System.Linq.Enumerable.Select(properties, p => p.Name)));
+                writer.WriteLine(string.Join(";", System.Linq.Enumerable.Select(properties, p => p.Name)));
 
                 // Dados
                 foreach (var item in data)
                 {
                     var valores = System.Linq.Enumerable.Select(properties, p => p.GetValue(item)?.ToString() ?? "");
-                    writer.WriteLine(string.Join(",", valores));
+                    writer.WriteLine(string.Join(";", valores));
                 }
             }
         }
