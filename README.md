@@ -9,9 +9,8 @@
 ## Descrição
 
 Sistema ETL para integração de dados de vendas e stock entre:
-- ERP Legado (XML)
-- Plataforma E-commerce (JSON)
-- Sistemas POS de lojas físicas (CSV)
+- ERP Legado 
+- Plataforma E-commerce
 
 ## Tecnologias
 
