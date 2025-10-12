@@ -19,3 +19,9 @@ obj/
 # Temporários
 *.tmp
 *.log
+
+.vs/
+*.vsidx
+*.user
+*.suo
+*.db
