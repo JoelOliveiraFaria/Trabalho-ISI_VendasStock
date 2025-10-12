@@ -24,10 +24,10 @@ namespace DataGenerator
                 string stockXml = Path.Combine(DirectoryOutput, "warehouse_stock_dirty.xml");
 
                 Console.WriteLine("A gerar dados");
-                var sells = Generator.SellsGenerator.Generate(200);
+                var sells = Generator.SellsGenerator.Generate(50);
                 Console.WriteLine($"{sells.Count} vendas geradas (com inconsistências)");
 
-                var stock = StockGenerator.Generate(100);
+                var stock = StockGenerator.Generate(50);
                 Console.WriteLine($"✓ {stock.Count} registros de stock gerados (com inconsistências)\n");
 
                 Console.WriteLine("A exportar para JSON...");

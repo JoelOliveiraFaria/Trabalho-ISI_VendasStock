@@ -71,18 +71,6 @@ namespace DataGenerator.Generator
                     var product = f.PickRandom(Products);
                     return DirtyDataFormatter.AddSpaces(product.Name);
                 })
-                .RuleFor(v => v.category, f =>
-                {
-                    var categories = new[]
-                    {
-                        "laptops", "LAPTOPS", "Laptops",
-                        "smartphones", "SMARTPHONES",
-                        "tablets", "TABLETS", "Tablets",
-                        "monitors", "MONITORS",
-                        "peripherals", "PERIPHERALS", "Peripherals"
-                    };
-                    return DirtyDataFormatter.AddSpaces(f.PickRandom(categories));
-                })
                 .RuleFor(v => v.quantity, f =>
                 {
                     var qty = f.Random.Int(1, 3);

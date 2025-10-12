@@ -1,1003 +1,503 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <warehouse_stock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <stock_item>
+    <warehouse_id>WH_02</warehouse_id>
+    <sku>ERP KEY 005 2024</sku>
+    <product_name>LG UltraWide 34" Monitor  </product_name>
+    <quantity_available>150pcs</quantity_available>
+    <minimum_level>20</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>05/09/2025</last_updated>
+    <supplier>Apple Inc.  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>  WH-01  </warehouse_id>
+    <sku>  ERP-MON-004-2024  </sku>
+    <product_name>Logitech MX Master 3S  </product_name>
+    <quantity_available>257pcs</quantity_available>
+    <minimum_level>31</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>07-10-2025 10:23:31</last_updated>
+    <supplier>  Samsung Electronics</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-04  </warehouse_id>
+    <sku>ERP--MON--004--2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity_available>43 units</quantity_available>
+    <minimum_level>24</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>11-09-2025 06:57:24</last_updated>
+    <supplier>Apple Inc.</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH_05</warehouse_id>
+    <sku>ERP-KEY-005-2024</sku>
+    <product_name>Logitech MX Keys  </product_name>
+    <quantity_available>275</quantity_available>
+    <minimum_level>46</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>06/09/2025 04:11</last_updated>
+    <supplier>  Samsung Electronics</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>  WH-04</warehouse_id>
+    <sku>ERP_LAP_001_2024</sku>
+    <product_name>Logitech MX Keys</product_name>
+    <quantity_available>404 units</quantity_available>
+    <minimum_level>10</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>03/09/2025 01:00</last_updated>
+    <supplier>Logitech  </supplier>
+  </stock_item>
+  <stock_item>
     <warehouse_id>WH-03</warehouse_id>
-    <sku>  ERP-MOU-006-2024  </sku>
-    <product_name>  Samsung Galaxy S24 Ultra</product_name>
-    <quantity_available>238 units</quantity_available>
-    <minimum_level>29</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>04/09/2025 21:50</last_updated>
-    <supplier>  Apple Inc.  </supplier>
+    <sku>ERP LAP 001 2024</sku>
+    <product_name>  Logitech MX Keys</product_name>
+    <quantity_available>198 units</quantity_available>
+    <minimum_level>27</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>01/10/2025</last_updated>
+    <supplier>Samsung Electronics  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-01</warehouse_id>
+    <sku>ERP--KEY--005--2024</sku>
+    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
+    <quantity_available>60</quantity_available>
+    <minimum_level>38</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>2025-09-22T11:15:54Z</last_updated>
+    <supplier>  Logitech International</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>  WH-04  </warehouse_id>
+    <sku>ERP/MOU/006/2024</sku>
+    <product_name>  LG UltraWide 34" Monitor  </product_name>
+    <quantity_available>201pcs</quantity_available>
+    <minimum_level>14</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>30/09/2025 17:12</last_updated>
+    <supplier>LG Electronics  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH_03</warehouse_id>
+    <sku>ERP--LAP--001--2024</sku>
+    <product_name>  LG UltraWide 34" Monitor</product_name>
+    <quantity_available>182pcs</quantity_available>
+    <minimum_level>26</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>02/10/2025 05:27</last_updated>
+    <supplier>Samsung Electronics  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-01</warehouse_id>
+    <sku>ERP/MOU/006/2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity_available>114</quantity_available>
+    <minimum_level>34</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>2025/10/10 23:19</last_updated>
+    <supplier>Apple Inc.</supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>WH-05</warehouse_id>
-    <sku>ERP_TAB_003_2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra</product_name>
-    <quantity_available>273</quantity_available>
-    <minimum_level>48</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>2025/10/01 16:54</last_updated>
-    <supplier>Apple Inc.</supplier>
+    <sku>ERP--TAB--003--2024</sku>
+    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
+    <quantity_available>277</quantity_available>
+    <minimum_level>31</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>18/09/2025</last_updated>
+    <supplier>  Logitech International</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH_02</warehouse_id>
+    <sku>ERP--KEY--005--2024</sku>
+    <product_name>Logitech MX Keys</product_name>
+    <quantity_available>159pcs</quantity_available>
+    <minimum_level>13</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>06/09/2025</last_updated>
+    <supplier>  LG Electronics  </supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>  WH-01</warehouse_id>
-    <sku>ERP/KEY/005/2024</sku>
-    <product_name>Logitech MX Master 3S</product_name>
-    <quantity_available>31 units</quantity_available>
-    <minimum_level>15</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>22/09/2025</last_updated>
+    <sku>ERP/PHONE/002/2024</sku>
+    <product_name>  Logitech MX Keys  </product_name>
+    <quantity_available>403pcs</quantity_available>
+    <minimum_level>28</minimum_level>
+    <location>Armazém A - Setor 1</location>
+    <last_updated>24-09-2025 23:56:39</last_updated>
     <supplier>  Logitech  </supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>WH_04</warehouse_id>
-    <sku>ERP/MON/004/2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>198pcs</quantity_available>
-    <minimum_level>48</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>29/09/2025</last_updated>
-    <supplier>Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05  </warehouse_id>
-    <sku>  ERP-LAP-001-2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop</product_name>
-    <quantity_available>342</quantity_available>
-    <minimum_level>24</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025/09/07 17:49</last_updated>
-    <supplier>  ASUS Inc</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>ERP--TAB--003--2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>464 units</quantity_available>
-    <minimum_level>15</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>30-09-2025 15:25:17</last_updated>
-    <supplier>  Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_05</warehouse_id>
-    <sku>ERP/MON/004/2024</sku>
-    <product_name>  Logitech MX Keys  </product_name>
-    <quantity_available>66pcs</quantity_available>
-    <minimum_level>17</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>17/09/2025 04:30</last_updated>
-    <supplier>LG Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
-    <sku>  ERP-LAP-001-2024  </sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>74 units</quantity_available>
-    <minimum_level>18</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>03/09/2025</last_updated>
-    <supplier>  Logitech International</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
-    <sku>ERP PHONE 002 2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity_available>88pcs</quantity_available>
-    <minimum_level>39</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025/09/29 23:30</last_updated>
+    <sku>ERP_MOU_006_2024</sku>
+    <product_name>  ASUS VivoBook 15 Laptop</product_name>
+    <quantity_available>407pcs</quantity_available>
+    <minimum_level>30</minimum_level>
+    <location>WAREHOUSE B - ZONE 2</location>
+    <last_updated>01/10/2025 21:55</last_updated>
     <supplier>  ASUS Inc  </supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-02</warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop</product_name>
-    <quantity_available>394 units</quantity_available>
-    <minimum_level>18</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>06-09-2025 14:13:48</last_updated>
-    <supplier>Logitech</supplier>
-  </stock_item>
-  <stock_item>
     <warehouse_id>WH_04</warehouse_id>
-    <sku>ERP KEY 005 2024</sku>
-    <product_name>LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>130pcs</quantity_available>
-    <minimum_level>45</minimum_level>
+    <sku>ERP-LAP-001-2024</sku>
+    <product_name>Logitech MX Keys</product_name>
+    <quantity_available>62 units</quantity_available>
+    <minimum_level>22</minimum_level>
     <location>Armazém B - Zona 2</location>
-    <last_updated>05/10/2025</last_updated>
-    <supplier>Apple Inc.  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_02</warehouse_id>
-    <sku>ERP TAB 003 2024</sku>
-    <product_name>  LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>246</quantity_available>
-    <minimum_level>32</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>11/10/2025 01:44</last_updated>
-    <supplier>  Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_03</warehouse_id>
-    <sku>ERP-MOU-006-2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra</product_name>
-    <quantity_available>64</quantity_available>
-    <minimum_level>32</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>26/09/2025 00:11</last_updated>
-    <supplier>  Apple Inc.</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>ERP--LAP--001--2024</sku>
-    <product_name>LG UltraWide 34" Monitor</product_name>
-    <quantity_available>1pcs</quantity_available>
-    <minimum_level>27</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>15/09/2025 10:29</last_updated>
-    <supplier>  Apple Inc.  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_01</warehouse_id>
-    <sku>  ERP-KEY-005-2024  </sku>
-    <product_name>  Logitech MX Keys  </product_name>
-    <quantity_available>483</quantity_available>
-    <minimum_level>44</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>09/09/2025</last_updated>
-    <supplier>  Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-01  </warehouse_id>
-    <sku>ERP_PHONE_002_2024</sku>
-    <product_name>  LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>177pcs</quantity_available>
-    <minimum_level>23</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>09/10/2025 20:27</last_updated>
-    <supplier>ASUS Inc  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_02</warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra</product_name>
-    <quantity_available>50</quantity_available>
-    <minimum_level>16</minimum_level>
-    <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>16/09/2025</last_updated>
-    <supplier>Logitech International</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01  </warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>107 units</quantity_available>
-    <minimum_level>24</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025-09-28T16:20:52Z</last_updated>
-    <supplier>LG Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_03</warehouse_id>
-    <sku>ERP_LAP_001_2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>150 units</quantity_available>
-    <minimum_level>23</minimum_level>
-    <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>28/09/2025 11:34</last_updated>
-    <supplier>  Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_03</warehouse_id>
-    <sku>ERP--MON--004--2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>282 units</quantity_available>
-    <minimum_level>46</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>04/10/2025</last_updated>
-    <supplier>  Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-04  </warehouse_id>
-    <sku>ERP-MOU-006-2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>488</quantity_available>
-    <minimum_level>24</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>12/09/2025 20:31</last_updated>
-    <supplier>Apple Inc.  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>ERP_KEY_005_2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity_available>411pcs</quantity_available>
-    <minimum_level>10</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025/10/09 04:21</last_updated>
-    <supplier>Logitech International</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_03</warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>  LG UltraWide 34" Monitor</product_name>
-    <quantity_available>248</quantity_available>
-    <minimum_level>32</minimum_level>
-    <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>18-09-2025 06:15:41</last_updated>
-    <supplier>  LG Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>ERP-KEY-005-2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity_available>239 units</quantity_available>
-    <minimum_level>39</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>27/09/2025 20:25</last_updated>
-    <supplier>LG Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
-    <sku>  ERP-KEY-005-2024  </sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>32pcs</quantity_available>
-    <minimum_level>38</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>2025-10-06T02:19:50Z</last_updated>
-    <supplier>Logitech</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-03  </warehouse_id>
-    <sku>ERP--TAB--003--2024</sku>
-    <product_name>Logitech MX Master 3S  </product_name>
-    <quantity_available>57</quantity_available>
-    <minimum_level>37</minimum_level>
-    <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>2025/09/20 10:06</last_updated>
-    <supplier>ASUS Inc  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-02</warehouse_id>
-    <sku>ERP PHONE 002 2024</sku>
-    <product_name>  Logitech MX Master 3S</product_name>
-    <quantity_available>448 units</quantity_available>
-    <minimum_level>46</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>02/10/2025</last_updated>
-    <supplier>  Logitech  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>  Logitech MX Keys</product_name>
-    <quantity_available>126 units</quantity_available>
-    <minimum_level>10</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025/10/01 10:31</last_updated>
-    <supplier>Logitech</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-03  </warehouse_id>
-    <sku>ERP_TAB_003_2024</sku>
-    <product_name>  Logitech MX Keys</product_name>
-    <quantity_available>176pcs</quantity_available>
-    <minimum_level>26</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>12/09/2025</last_updated>
-    <supplier>LG Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
-    <sku>ERP PHONE 002 2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>284pcs</quantity_available>
-    <minimum_level>35</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>2025-10-07T09:42:39Z</last_updated>
-    <supplier>Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_04</warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity_available>158pcs</quantity_available>
-    <minimum_level>11</minimum_level>
-    <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>2025/09/24 12:00</last_updated>
+    <last_updated>25-09-2025 22:41:35</last_updated>
     <supplier>  Logitech</supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH_04</warehouse_id>
-    <sku>ERP MOU 006 2024</sku>
-    <product_name>  Logitech MX Keys</product_name>
-    <quantity_available>418pcs</quantity_available>
-    <minimum_level>37</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>05/09/2025 07:48</last_updated>
-    <supplier>Samsung Electronics  </supplier>
+    <warehouse_id>WH_03</warehouse_id>
+    <sku>ERP-TAB-003-2024</sku>
+    <product_name>  LG UltraWide 34" Monitor  </product_name>
+    <quantity_available>294 units</quantity_available>
+    <minimum_level>22</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>01-09-2025 19:30:05</last_updated>
+    <supplier>LG Electronics</supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
+    <warehouse_id>WH-04</warehouse_id>
     <sku>ERP MON 004 2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>443 units</quantity_available>
-    <minimum_level>43</minimum_level>
+    <product_name>  Logitech MX Master 3S</product_name>
+    <quantity_available>45</quantity_available>
+    <minimum_level>10</minimum_level>
     <location>Warehouse B - Zone 2</location>
-    <last_updated>22-09-2025 15:22:29</last_updated>
-    <supplier>Logitech</supplier>
+    <last_updated>29/09/2025 17:45</last_updated>
+    <supplier>  Apple Inc.</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH_02</warehouse_id>
+    <sku>ERP-PHONE-002-2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity_available>227 units</quantity_available>
+    <minimum_level>42</minimum_level>
+    <location>Armazém A - Setor 1</location>
+    <last_updated>2025-09-03T01:57:38Z</last_updated>
+    <supplier>Logitech  </supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>  WH-03  </warehouse_id>
-    <sku>ERP--KEY--005--2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity_available>132 units</quantity_available>
-    <minimum_level>15</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>2025-10-03T07:22:06Z</last_updated>
-    <supplier>LG Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-05</warehouse_id>
-    <sku>ERP-MOU-006-2024  </sku>
-    <product_name>LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>492 units</quantity_available>
-    <minimum_level>11</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>2025-09-13T22:47:31Z</last_updated>
-    <supplier>  ASUS Inc  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity_available>257 units</quantity_available>
-    <minimum_level>48</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025-09-28T12:42:50Z</last_updated>
-    <supplier>Logitech</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-03  </warehouse_id>
-    <sku>ERP TAB 003 2024</sku>
-    <product_name>LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>225pcs</quantity_available>
-    <minimum_level>27</minimum_level>
+    <sku>ERP/PHONE/002/2024</sku>
+    <product_name>Logitech MX Master 3S</product_name>
+    <quantity_available>453</quantity_available>
+    <minimum_level>29</minimum_level>
     <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>07-10-2025 07:16:02</last_updated>
-    <supplier>  Apple Inc.  </supplier>
+    <last_updated>01/10/2025 06:22</last_updated>
+    <supplier>Apple Inc.  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-05  </warehouse_id>
+    <sku>ERP PHONE 002 2024</sku>
+    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
+    <quantity_available>241</quantity_available>
+    <minimum_level>13</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>13-09-2025 04:31:31</last_updated>
+    <supplier>  Logitech International  </supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>WH-02</warehouse_id>
-    <sku>ERP_MON_004_2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity_available>213pcs</quantity_available>
+    <sku>ERP-MOU-006-2024</sku>
+    <product_name>  LG UltraWide 34" Monitor</product_name>
+    <quantity_available>400</quantity_available>
     <minimum_level>24</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>03/10/2025 17:37</last_updated>
-    <supplier>  Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>  ERP-LAP-001-2024  </sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>137pcs</quantity_available>
-    <minimum_level>38</minimum_level>
     <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>19/09/2025 14:41</last_updated>
-    <supplier>Samsung Electronics</supplier>
+    <last_updated>2025-09-14T05:04:01Z</last_updated>
+    <supplier>  Apple Inc.</supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>WH-01</warehouse_id>
     <sku>ERP/LAP/001/2024</sku>
     <product_name>Logitech MX Keys  </product_name>
-    <quantity_available>164 units</quantity_available>
-    <minimum_level>12</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>2025-09-09T00:41:46Z</last_updated>
-    <supplier>Samsung Electronics</supplier>
+    <quantity_available>365pcs</quantity_available>
+    <minimum_level>17</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>06/10/2025 22:57</last_updated>
+    <supplier>Logitech International  </supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH_01</warehouse_id>
-    <sku>ERP-MOU-006-2024</sku>
-    <product_name>Logitech MX Keys</product_name>
-    <quantity_available>204</quantity_available>
-    <minimum_level>27</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025-09-23T10:32:30Z</last_updated>
+    <warehouse_id>WH-05</warehouse_id>
+    <sku>ERP--MOU--006--2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra  </product_name>
+    <quantity_available>233 units</quantity_available>
+    <minimum_level>18</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>10/10/2025</last_updated>
+    <supplier>  ASUS Inc  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-04  </warehouse_id>
+    <sku>  ERP-MON-004-2024  </sku>
+    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
+    <quantity_available>417 units</quantity_available>
+    <minimum_level>21</minimum_level>
+    <location>Warehouse A - Section 1</location>
+    <last_updated>2025/10/06 18:12</last_updated>
+    <supplier>  Apple Inc.  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-03</warehouse_id>
+    <sku>ERP_MON_004_2024</sku>
+    <product_name>Logitech MX Keys  </product_name>
+    <quantity_available>3 units</quantity_available>
+    <minimum_level>29</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>2025/09/06 03:46</last_updated>
+    <supplier>ASUS Inc</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH_02</warehouse_id>
+    <sku>ERP_LAP_001_2024</sku>
+    <product_name>  Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity_available>493</quantity_available>
+    <minimum_level>13</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>2025-09-02T00:28:36Z</last_updated>
     <supplier>Apple Inc.</supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>ERP--KEY--005--2024</sku>
-    <product_name>  Logitech MX Master 3S</product_name>
-    <quantity_available>350 units</quantity_available>
-    <minimum_level>36</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025-09-09T15:16:56Z</last_updated>
-    <supplier>  Logitech International  </supplier>
+    <warehouse_id>WH_03</warehouse_id>
+    <sku>  ERP-LAP-001-2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity_available>222</quantity_available>
+    <minimum_level>21</minimum_level>
+    <location>Armazém A - Setor 1</location>
+    <last_updated>19/09/2025</last_updated>
+    <supplier>ASUS Inc</supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-02  </warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>33pcs</quantity_available>
-    <minimum_level>16</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>14/09/2025</last_updated>
+    <warehouse_id>  WH-01</warehouse_id>
+    <sku>ERP--MOU--006--2024</sku>
+    <product_name>LG UltraWide 34" Monitor  </product_name>
+    <quantity_available>370pcs</quantity_available>
+    <minimum_level>50</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>2025/09/20 22:03</last_updated>
     <supplier>Samsung Electronics  </supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-03  </warehouse_id>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>9 units</quantity_available>
-    <minimum_level>32</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>2025/09/03 08:54</last_updated>
-    <supplier>Apple Inc.</supplier>
+    <warehouse_id>WH-01</warehouse_id>
+    <sku>ERP--TAB--003--2024</sku>
+    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
+    <quantity_available>159 units</quantity_available>
+    <minimum_level>49</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>05-09-2025 19:41:57</last_updated>
+    <supplier>Apple Inc.  </supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>ERP_PHONE_002_2024</sku>
+    <warehouse_id>WH-05</warehouse_id>
+    <sku>  ERP-LAP-001-2024</sku>
+    <product_name>ASUS VivoBook 15 Laptop  </product_name>
+    <quantity_available>118</quantity_available>
+    <minimum_level>36</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>05-09-2025 09:18:47</last_updated>
+    <supplier>  ASUS Inc  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-05</warehouse_id>
+    <sku>ERP_TAB_003_2024</sku>
     <product_name>  Apple iPad Pro 12.9 512GB</product_name>
+    <quantity_available>364</quantity_available>
+    <minimum_level>21</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>29/09/2025</last_updated>
+    <supplier>  Logitech International</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>  WH-03  </warehouse_id>
+    <sku>ERP MOU 006 2024</sku>
+    <product_name>  Logitech MX Keys</product_name>
+    <quantity_available>133 units</quantity_available>
+    <minimum_level>24</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>2025-10-05T10:26:30Z</last_updated>
+    <supplier>Apple Inc.  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>  WH-02  </warehouse_id>
+    <sku>ERP_MON_004_2024</sku>
+    <product_name>Logitech MX Keys</product_name>
+    <quantity_available>14 units</quantity_available>
+    <minimum_level>17</minimum_level>
+    <location>Armazém A - Setor 1</location>
+    <last_updated>2025/09/30 09:57</last_updated>
+    <supplier>  Apple Inc.</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-02</warehouse_id>
+    <sku>ERP--KEY--005--2024</sku>
+    <product_name>  LG UltraWide 34" Monitor</product_name>
+    <quantity_available>416 units</quantity_available>
+    <minimum_level>27</minimum_level>
+    <location>Warehouse A - Section 1</location>
+    <last_updated>06/09/2025</last_updated>
+    <supplier>Logitech</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>  WH-02  </warehouse_id>
+    <sku>ERP/KEY/005/2024</sku>
+    <product_name>  LG UltraWide 34" Monitor</product_name>
+    <quantity_available>204</quantity_available>
+    <minimum_level>31</minimum_level>
+    <location>Armazém A - Setor 1</location>
+    <last_updated>16-09-2025 15:15:29</last_updated>
+    <supplier>  Samsung Electronics</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH_05</warehouse_id>
+    <sku>ERP MOU 006 2024</sku>
+    <product_name>ASUS VivoBook 15 Laptop  </product_name>
     <quantity_available>249 units</quantity_available>
+    <minimum_level>46</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>2025/09/17 22:09</last_updated>
+    <supplier>Logitech</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-03</warehouse_id>
+    <sku>ERP_MON_004_2024</sku>
+    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
+    <quantity_available>211pcs</quantity_available>
     <minimum_level>20</minimum_level>
     <location>Armazém B - Zona 2</location>
-    <last_updated>2025-09-08T00:15:28Z</last_updated>
-    <supplier>Apple Inc.</supplier>
+    <last_updated>2025-09-08T01:41:26Z</last_updated>
+    <supplier>ASUS Inc</supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-04  </warehouse_id>
+    <sku>ERP--MOU--006--2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra  </product_name>
+    <quantity_available>142 units</quantity_available>
+    <minimum_level>11</minimum_level>
+    <location>Armazém B - Zona 2</location>
+    <last_updated>07/09/2025</last_updated>
+    <supplier>  Logitech International  </supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>WH-03</warehouse_id>
     <sku>ERP_PHONE_002_2024</sku>
-    <product_name>Logitech MX Keys  </product_name>
-    <quantity_available>101pcs</quantity_available>
-    <minimum_level>38</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025/09/29 20:27</last_updated>
-    <supplier>  Apple Inc.  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_05</warehouse_id>
-    <sku>ERP_MON_004_2024</sku>
-    <product_name>  Logitech MX Master 3S  </product_name>
-    <quantity_available>379pcs</quantity_available>
+    <product_name>Logitech MX Keys</product_name>
+    <quantity_available>206 units</quantity_available>
     <minimum_level>46</minimum_level>
-    <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>15-09-2025 03:46:02</last_updated>
-    <supplier>  LG Electronics  </supplier>
+    <location>Warehouse A - Section 1</location>
+    <last_updated>08/10/2025 14:14</last_updated>
+    <supplier>  Logitech International</supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>ERP/LAP/001/2024</sku>
+    <warehouse_id>WH-01</warehouse_id>
+    <sku>ERP_MON_004_2024</sku>
     <product_name>Logitech MX Master 3S  </product_name>
-    <quantity_available>223 units</quantity_available>
-    <minimum_level>41</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>2025-09-14T02:23:38Z</last_updated>
-    <supplier>  LG Electronics  </supplier>
+    <quantity_available>98 units</quantity_available>
+    <minimum_level>12</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>14/09/2025 02:46</last_updated>
+    <supplier>LG Electronics  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-05</warehouse_id>
+    <sku>ERP-MOU-006-2024  </sku>
+    <product_name>Apple iPad Pro 12.9 512GB</product_name>
+    <quantity_available>406pcs</quantity_available>
+    <minimum_level>37</minimum_level>
+    <location>WAREHOUSE B - ZONE 2</location>
+    <last_updated>28-09-2025 11:37:29</last_updated>
+    <supplier>LG Electronics  </supplier>
+  </stock_item>
+  <stock_item>
+    <warehouse_id>WH-04  </warehouse_id>
+    <sku>ERP KEY 005 2024</sku>
+    <product_name>Logitech MX Keys  </product_name>
+    <quantity_available>439 units</quantity_available>
+    <minimum_level>24</minimum_level>
+    <location>WAREHOUSE B - ZONE 2</location>
+    <last_updated>2025/10/09 23:44</last_updated>
+    <supplier>  Apple Inc.  </supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>  WH-05  </warehouse_id>
-    <sku>ERP/LAP/001/2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>330</quantity_available>
-    <minimum_level>12</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>2025/10/03 06:58</last_updated>
-    <supplier>  ASUS Inc</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-03</warehouse_id>
-    <sku>ERP LAP 001 2024</sku>
-    <product_name>  Logitech MX Keys</product_name>
-    <quantity_available>332</quantity_available>
-    <minimum_level>15</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>29/09/2025 22:23</last_updated>
-    <supplier>  Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-04  </warehouse_id>
-    <sku>ERP_MON_004_2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>358pcs</quantity_available>
-    <minimum_level>20</minimum_level>
-    <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>10/09/2025</last_updated>
-    <supplier>ASUS Inc  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>ERP/TAB/003/2024</sku>
-    <product_name>  Logitech MX Master 3S</product_name>
-    <quantity_available>164 units</quantity_available>
-    <minimum_level>43</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>01-10-2025 20:16:52</last_updated>
-    <supplier>Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_04</warehouse_id>
-    <sku>ERP_TAB_003_2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop</product_name>
-    <quantity_available>452</quantity_available>
-    <minimum_level>40</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>2025/09/14 00:15</last_updated>
-    <supplier>  Logitech International</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_05</warehouse_id>
-    <sku>ERP/MON/004/2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>293 units</quantity_available>
-    <minimum_level>15</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>2025-09-06T22:19:18Z</last_updated>
-    <supplier>  LG Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_05</warehouse_id>
-    <sku>ERP MON 004 2024</sku>
+    <sku>ERP MOU 006 2024</sku>
     <product_name>  Logitech MX Keys  </product_name>
-    <quantity_available>184</quantity_available>
-    <minimum_level>30</minimum_level>
+    <quantity_available>141pcs</quantity_available>
+    <minimum_level>31</minimum_level>
     <location>Armazém A - Setor 1</location>
-    <last_updated>2025-09-24T04:46:57Z</last_updated>
-    <supplier>Logitech</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_04</warehouse_id>
-    <sku>ERP_KEY_005_2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>277</quantity_available>
-    <minimum_level>10</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>13/09/2025 00:46</last_updated>
+    <last_updated>27-09-2025 14:57:59</last_updated>
     <supplier>  Logitech</supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>  WH-01  </warehouse_id>
-    <sku>ERP TAB 003 2024</sku>
-    <product_name>  Logitech MX Keys</product_name>
-    <quantity_available>86</quantity_available>
-    <minimum_level>36</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>06-09-2025 11:59:27</last_updated>
-    <supplier>  Apple Inc.</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_01</warehouse_id>
-    <sku>ERP_KEY_005_2024</sku>
-    <product_name>Logitech MX Keys  </product_name>
-    <quantity_available>340</quantity_available>
-    <minimum_level>21</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>12-09-2025 16:28:21</last_updated>
+    <warehouse_id>WH_04</warehouse_id>
+    <sku>ERP MON 004 2024</sku>
+    <product_name>LG UltraWide 34" Monitor</product_name>
+    <quantity_available>145</quantity_available>
+    <minimum_level>26</minimum_level>
+    <location>WAREHOUSE A - SECTION 1</location>
+    <last_updated>13/09/2025 21:46</last_updated>
     <supplier>Apple Inc.</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
-    <sku>ERP TAB 003 2024</sku>
-    <product_name>Logitech MX Master 3S  </product_name>
-    <quantity_available>296</quantity_available>
-    <minimum_level>41</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>2025/09/26 15:11</last_updated>
-    <supplier>  Apple Inc.</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_01</warehouse_id>
-    <sku>ERP--KEY--005--2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra  </product_name>
-    <quantity_available>297</quantity_available>
-    <minimum_level>36</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>30-09-2025 14:35:04</last_updated>
-    <supplier>Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-03</warehouse_id>
-    <sku>ERP--MOU--006--2024</sku>
-    <product_name>Logitech MX Master 3S</product_name>
-    <quantity_available>157</quantity_available>
-    <minimum_level>14</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>2025/09/06 10:50</last_updated>
-    <supplier>Logitech International  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-03</warehouse_id>
-    <sku>  ERP-MON-004-2024  </sku>
-    <product_name>  LG UltraWide 34" Monitor</product_name>
-    <quantity_available>371pcs</quantity_available>
-    <minimum_level>19</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025/09/20 23:40</last_updated>
-    <supplier>LG Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_03</warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra</product_name>
-    <quantity_available>468 units</quantity_available>
-    <minimum_level>35</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>13-09-2025 19:50:34</last_updated>
-    <supplier>ASUS Inc</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
-    <sku>ERP_LAP_001_2024</sku>
-    <product_name>Logitech MX Keys</product_name>
-    <quantity_available>287 units</quantity_available>
-    <minimum_level>29</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>22/09/2025</last_updated>
-    <supplier>  Logitech International  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>  Logitech MX Master 3S</product_name>
-    <quantity_available>490</quantity_available>
-    <minimum_level>42</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>29/09/2025 10:14</last_updated>
-    <supplier>Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>ERP KEY 005 2024</sku>
-    <product_name>  Logitech MX Keys</product_name>
-    <quantity_available>51pcs</quantity_available>
-    <minimum_level>25</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025-09-28T18:32:48Z</last_updated>
-    <supplier>Logitech</supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>WH-01</warehouse_id>
     <sku>ERP MOU 006 2024</sku>
-    <product_name>  LG UltraWide 34" Monitor</product_name>
-    <quantity_available>341 units</quantity_available>
-    <minimum_level>11</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025-09-13T17:18:08Z</last_updated>
-    <supplier>  Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-03</warehouse_id>
-    <sku>ERP--LAP--001--2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop</product_name>
-    <quantity_available>235</quantity_available>
-    <minimum_level>23</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>21-09-2025 16:51:42</last_updated>
-    <supplier>Logitech International</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_05</warehouse_id>
-    <sku>ERP/MOU/006/2024</sku>
     <product_name>  Logitech MX Master 3S</product_name>
-    <quantity_available>2 units</quantity_available>
-    <minimum_level>47</minimum_level>
+    <quantity_available>34pcs</quantity_available>
+    <minimum_level>34</minimum_level>
     <location>Armazém A - Setor 1</location>
-    <last_updated>2025/09/03 09:23</last_updated>
+    <last_updated>2025/09/26 11:54</last_updated>
     <supplier>Logitech  </supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>WH_02</warehouse_id>
-    <sku>ERP_PHONE_002_2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity_available>421 units</quantity_available>
-    <minimum_level>12</minimum_level>
+    <sku>ERP KEY 005 2024</sku>
+    <product_name>  LG UltraWide 34" Monitor  </product_name>
+    <quantity_available>379</quantity_available>
+    <minimum_level>39</minimum_level>
     <location>Armazém A - Setor 1</location>
-    <last_updated>2025/10/07 05:10</last_updated>
-    <supplier>  Apple Inc.</supplier>
+    <last_updated>07/09/2025</last_updated>
+    <supplier>  Samsung Electronics  </supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH_04</warehouse_id>
-    <sku>ERP-KEY-005-2024  </sku>
-    <product_name>Logitech MX Keys</product_name>
-    <quantity_available>29pcs</quantity_available>
-    <minimum_level>30</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025-09-17T22:28:39Z</last_updated>
-    <supplier>  LG Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-03</warehouse_id>
-    <sku>ERP/LAP/001/2024</sku>
-    <product_name>  LG UltraWide 34" Monitor</product_name>
-    <quantity_available>39</quantity_available>
-    <minimum_level>48</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>05/09/2025</last_updated>
-    <supplier>  ASUS Inc  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-04  </warehouse_id>
-    <sku>ERP/MON/004/2024</sku>
+    <warehouse_id>WH_03</warehouse_id>
+    <sku>ERP/TAB/003/2024</sku>
     <product_name>Samsung Galaxy S24 Ultra</product_name>
-    <quantity_available>451pcs</quantity_available>
-    <minimum_level>19</minimum_level>
+    <quantity_available>404pcs</quantity_available>
+    <minimum_level>18</minimum_level>
     <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025/09/05 02:18</last_updated>
-    <supplier>  ASUS Inc</supplier>
+    <last_updated>26/09/2025</last_updated>
+    <supplier>  Logitech International  </supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>  ERP-TAB-003-2024  </sku>
-    <product_name>LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>122 units</quantity_available>
+    <warehouse_id>WH_05</warehouse_id>
+    <sku>ERP MON 004 2024</sku>
+    <product_name>Logitech MX Master 3S</product_name>
+    <quantity_available>233</quantity_available>
     <minimum_level>25</minimum_level>
     <location>Armazém A - Setor 1</location>
-    <last_updated>2025/09/07 09:20</last_updated>
-    <supplier>Apple Inc.  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-02  </warehouse_id>
-    <sku>  ERP-PHONE-002-2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra</product_name>
-    <quantity_available>259pcs</quantity_available>
-    <minimum_level>36</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>2025-10-05T19:53:40Z</last_updated>
-    <supplier>Logitech  </supplier>
+    <last_updated>10/10/2025 21:26</last_updated>
+    <supplier>  Samsung Electronics</supplier>
   </stock_item>
   <stock_item>
     <warehouse_id>WH_01</warehouse_id>
-    <sku>ERP MON 004 2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity_available>459pcs</quantity_available>
-    <minimum_level>14</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>09-10-2025 09:55:45</last_updated>
-    <supplier>  Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-04  </warehouse_id>
     <sku>ERP PHONE 002 2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>302 units</quantity_available>
-    <minimum_level>19</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>23-09-2025 09:18:50</last_updated>
-    <supplier>  Apple Inc.  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01  </warehouse_id>
-    <sku>ERP/PHONE/002/2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>349pcs</quantity_available>
-    <minimum_level>18</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>2025-09-18T04:30:38Z</last_updated>
-    <supplier>Logitech  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>ERP_TAB_003_2024</sku>
-    <product_name>Logitech MX Master 3S  </product_name>
-    <quantity_available>178 units</quantity_available>
-    <minimum_level>35</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>11-10-2025 16:20:27</last_updated>
-    <supplier>Logitech International  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05  </warehouse_id>
-    <sku>ERP--MON--004--2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>399pcs</quantity_available>
-    <minimum_level>33</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>2025/09/13 13:48</last_updated>
-    <supplier>Logitech International  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_05</warehouse_id>
-    <sku>ERP/PHONE/002/2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity_available>431</quantity_available>
-    <minimum_level>46</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>14/09/2025</last_updated>
-    <supplier>  Apple Inc.</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-03</warehouse_id>
-    <sku>ERP LAP 001 2024</sku>
-    <product_name>  Logitech MX Keys</product_name>
-    <quantity_available>489 units</quantity_available>
-    <minimum_level>14</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>07/09/2025</last_updated>
-    <supplier>  Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-02  </warehouse_id>
-    <sku>ERP PHONE 002 2024</sku>
-    <product_name>LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>15</quantity_available>
-    <minimum_level>35</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025-09-20T02:16:23Z</last_updated>
-    <supplier>ASUS Inc</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-02</warehouse_id>
-    <sku>ERP_MON_004_2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>230pcs</quantity_available>
-    <minimum_level>11</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025/09/01 09:47</last_updated>
-    <supplier>  ASUS Inc  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-01  </warehouse_id>
-    <sku>ERP--TAB--003--2024</sku>
-    <product_name>Logitech MX Keys</product_name>
-    <quantity_available>26pcs</quantity_available>
-    <minimum_level>37</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>11/10/2025 11:24</last_updated>
-    <supplier>  LG Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-01  </warehouse_id>
-    <sku>ERP_MOU_006_2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra</product_name>
-    <quantity_available>155</quantity_available>
-    <minimum_level>19</minimum_level>
-    <location>Armazém A - Setor 1</location>
-    <last_updated>07/10/2025</last_updated>
-    <supplier>Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_02</warehouse_id>
-    <sku>ERP--LAP--001--2024</sku>
-    <product_name>  LG UltraWide 34" Monitor</product_name>
-    <quantity_available>300pcs</quantity_available>
-    <minimum_level>16</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>10-10-2025 09:17:30</last_updated>
-    <supplier>  Logitech</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH_04</warehouse_id>
-    <sku>ERP/PHONE/002/2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity_available>247</quantity_available>
-    <minimum_level>13</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>2025/09/20 08:11</last_updated>
-    <supplier>  Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-04</warehouse_id>
-    <sku>ERP LAP 001 2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>192pcs</quantity_available>
-    <minimum_level>37</minimum_level>
-    <location>Armazém B - Zona 2</location>
-    <last_updated>11/09/2025 10:40</last_updated>
-    <supplier>Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-04  </warehouse_id>
-    <sku>ERP--KEY--005--2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity_available>468pcs</quantity_available>
-    <minimum_level>24</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025-10-03T15:24:30Z</last_updated>
-    <supplier>Apple Inc.  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-03  </warehouse_id>
-    <sku>ERP_MOU_006_2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity_available>277</quantity_available>
-    <minimum_level>49</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>2025-09-28T15:28:06Z</last_updated>
-    <supplier>  Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05  </warehouse_id>
-    <sku>ERP--MON--004--2024</sku>
-    <product_name>  LG UltraWide 34" Monitor</product_name>
-    <quantity_available>46pcs</quantity_available>
-    <minimum_level>41</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>2025-09-10T04:07:02Z</last_updated>
-    <supplier>Logitech International  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-02  </warehouse_id>
-    <sku>ERP--MOU--006--2024</sku>
-    <product_name>  LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>323 units</quantity_available>
-    <minimum_level>26</minimum_level>
-    <location>WAREHOUSE B - ZONE 2</location>
-    <last_updated>29-09-2025 18:09:00</last_updated>
-    <supplier>Samsung Electronics  </supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>ERP--LAP--001--2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>437 units</quantity_available>
-    <minimum_level>49</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025-10-11T13:35:24Z</last_updated>
-    <supplier>  ASUS Inc</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-05</warehouse_id>
-    <sku>ERP_KEY_005_2024</sku>
-    <product_name>LG UltraWide 34" Monitor  </product_name>
-    <quantity_available>418pcs</quantity_available>
-    <minimum_level>32</minimum_level>
+    <product_name>LG UltraWide 34" Monitor</product_name>
+    <quantity_available>78pcs</quantity_available>
+    <minimum_level>38</minimum_level>
     <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>2025-10-10T00:41:50Z</last_updated>
-    <supplier>ASUS Inc</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-04  </warehouse_id>
-    <sku>ERP--KEY--005--2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity_available>285 units</quantity_available>
-    <minimum_level>43</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>10-10-2025 00:54:43</last_updated>
-    <supplier>  Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-02</warehouse_id>
-    <sku>ERP--KEY--005--2024</sku>
-    <product_name>Logitech MX Keys</product_name>
-    <quantity_available>104 units</quantity_available>
-    <minimum_level>23</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>2025-09-22T13:24:01Z</last_updated>
-    <supplier>  Samsung Electronics</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>ERP-MOU-006-2024</sku>
-    <product_name>  Logitech MX Master 3S  </product_name>
-    <quantity_available>197 units</quantity_available>
-    <minimum_level>27</minimum_level>
-    <location>Warehouse B - Zone 2</location>
-    <last_updated>05-09-2025 03:03:47</last_updated>
+    <last_updated>2025-09-21T19:51:46Z</last_updated>
     <supplier>Logitech International</supplier>
   </stock_item>
   <stock_item>
-    <warehouse_id>WH-01</warehouse_id>
-    <sku>ERP-MOU-006-2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity_available>456</quantity_available>
-    <minimum_level>33</minimum_level>
-    <location>WAREHOUSE A - SECTION 1</location>
-    <last_updated>05/09/2025</last_updated>
-    <supplier>Logitech</supplier>
-  </stock_item>
-  <stock_item>
-    <warehouse_id>  WH-02</warehouse_id>
-    <sku>ERP_LAP_001_2024</sku>
-    <product_name>Logitech MX Master 3S  </product_name>
-    <quantity_available>41pcs</quantity_available>
-    <minimum_level>47</minimum_level>
-    <location>Warehouse A - Section 1</location>
-    <last_updated>01-10-2025 02:59:02</last_updated>
-    <supplier>  LG Electronics</supplier>
+    <warehouse_id>WH_01</warehouse_id>
+    <sku>ERP PHONE 002 2024</sku>
+    <product_name>  LG UltraWide 34" Monitor  </product_name>
+    <quantity_available>368 units</quantity_available>
+    <minimum_level>31</minimum_level>
+    <location>Warehouse B - Zone 2</location>
+    <last_updated>11/10/2025</last_updated>
+    <supplier>  ASUS Inc  </supplier>
   </stock_item>
 </warehouse_stock>

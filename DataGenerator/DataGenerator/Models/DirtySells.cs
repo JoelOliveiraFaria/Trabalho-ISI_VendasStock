@@ -28,9 +28,6 @@ namespace DataGenerator.Models
         [XmlElement("product_name")]
         public string product_name { get; set; }
 
-        [XmlElement("category")]
-        public string category { get; set; }
-
         [XmlElement("quantity")]
         public string quantity { get; set; }
 
