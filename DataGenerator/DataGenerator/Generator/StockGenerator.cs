@@ -24,8 +24,8 @@ namespace DataGenerator.Generator
 
         private static readonly string[] Locations = new[]
         {
-            "Warehouse A - Section 1", "WAREHOUSE A - SECTION 1", "Armazém A - Setor 1",
-            "Warehouse B - Zone 2", "WAREHOUSE B - ZONE 2", "Armazém B - Zona 2"
+            "Warehouse A - Section 1", "WAREHOUSE A - SECTION 1",
+            "Warehouse B - Section 2", "WAREHOUSE B - SECTION 2",
         };
 
         public static List<DirtyStock> Generate(int quantity)
