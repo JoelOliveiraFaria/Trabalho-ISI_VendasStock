@@ -1,0 +1,506 @@
+{
+    "warehouse_stock": [
+        [
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "Apple iPad Pro 12.9 512GB",
+                "quantity_available": "262",
+                "minimum_level": "19",
+                "location": "warehouse b - section 2",
+                "last_updated": "07/10/2025",
+                "supplier": "Apple Inc."
+            },
+            {
+                "warehouse_id": "WH-03",
+                "sku": "ERP-TAB-003-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "293",
+                "minimum_level": "31",
+                "location": "warehouse b - section 2",
+                "last_updated": "06/10/2025",
+                "supplier": "ASUS Inc"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-LAP-001-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "154",
+                "minimum_level": "41",
+                "location": "warehouse b - section 2",
+                "last_updated": "20/09/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "265",
+                "minimum_level": "32",
+                "location": "warehouse a - section 1",
+                "last_updated": "30/09/2025",
+                "supplier": "ASUS Inc"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-PHONE-002-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "353",
+                "minimum_level": "31",
+                "location": "warehouse b - section 2",
+                "last_updated": "07/09/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-PHONE-002-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "330",
+                "minimum_level": "12",
+                "location": "warehouse b - section 2",
+                "last_updated": "04/09/2025",
+                "supplier": "Apple Inc."
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "333",
+                "minimum_level": "39",
+                "location": "warehouse b - section 2",
+                "last_updated": "09/10/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-02",
+                "sku": "ERP-TAB-003-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "220",
+                "minimum_level": "50",
+                "location": "warehouse b - section 2",
+                "last_updated": "04/09/2025",
+                "supplier": "ASUS Inc"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "285",
+                "minimum_level": "36",
+                "location": "warehouse b - section 2",
+                "last_updated": "07/10/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "241",
+                "minimum_level": "18",
+                "location": "warehouse b - section 2",
+                "last_updated": "14/09/2025",
+                "supplier": "ASUS Inc"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "128",
+                "minimum_level": "17",
+                "location": "warehouse a - section 1",
+                "last_updated": "13/09/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-02",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Logitech MX Master 3S",
+                "quantity_available": "465",
+                "minimum_level": "14",
+                "location": "warehouse a - section 1",
+                "last_updated": "07/10/2025",
+                "supplier": "ASUS Inc"
+            },
+            {
+                "warehouse_id": "WH-02",
+                "sku": "ERP-PHONE-002-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "391",
+                "minimum_level": "17",
+                "location": "warehouse b - section 2",
+                "last_updated": "08/09/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Logitech MX Master 3S",
+                "quantity_available": "187",
+                "minimum_level": "17",
+                "location": "warehouse a - section 1",
+                "last_updated": "15/09/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "395",
+                "minimum_level": "35",
+                "location": "warehouse b - section 2",
+                "last_updated": "11/09/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "340",
+                "minimum_level": "22",
+                "location": "warehouse a - section 1",
+                "last_updated": "12/09/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-03",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "178",
+                "minimum_level": "26",
+                "location": "warehouse b - section 2",
+                "last_updated": "11/09/2025",
+                "supplier": "Samsung Electronics"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "472",
+                "minimum_level": "19",
+                "location": "warehouse b - section 2",
+                "last_updated": "20/09/2025",
+                "supplier": "Apple Inc."
+            },
+            {
+                "warehouse_id": "WH-02",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "Logitech MX Master 3S",
+                "quantity_available": "278",
+                "minimum_level": "11",
+                "location": "warehouse a - section 1",
+                "last_updated": "10/10/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "LG UltraWide 34\" Monitor",
+                "quantity_available": "403",
+                "minimum_level": "17",
+                "location": "warehouse a - section 1",
+                "last_updated": "25/09/2025",
+                "supplier": "Samsung Electronics"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "Logitech MX Master 3S",
+                "quantity_available": "17",
+                "minimum_level": "19",
+                "location": "warehouse a - section 1",
+                "last_updated": "12/09/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-02",
+                "sku": "ERP-PHONE-002-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "188",
+                "minimum_level": "20",
+                "location": "warehouse b - section 2",
+                "last_updated": "25/09/2025",
+                "supplier": "Apple Inc."
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "122",
+                "minimum_level": "31",
+                "location": "warehouse b - section 2",
+                "last_updated": "12/09/2025",
+                "supplier": "Samsung Electronics"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Apple iPad Pro 12.9 512GB",
+                "quantity_available": "58",
+                "minimum_level": "36",
+                "location": "warehouse b - section 2",
+                "last_updated": "12/09/2025",
+                "supplier": "Samsung Electronics"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "LG UltraWide 34\" Monitor",
+                "quantity_available": "77",
+                "minimum_level": "11",
+                "location": "warehouse a - section 1",
+                "last_updated": "09/10/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Logitech MX Master 3S",
+                "quantity_available": "378",
+                "minimum_level": "18",
+                "location": "warehouse b - section 2",
+                "last_updated": "05/09/2025",
+                "supplier": "Apple Inc."
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-LAP-001-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "312",
+                "minimum_level": "11",
+                "location": "warehouse b - section 2",
+                "last_updated": "10/09/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "212",
+                "minimum_level": "25",
+                "location": "warehouse b - section 2",
+                "last_updated": "25/09/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-03",
+                "sku": "ERP-TAB-003-2024",
+                "product_name": "Logitech MX Master 3S",
+                "quantity_available": "18",
+                "minimum_level": "29",
+                "location": "warehouse b - section 2",
+                "last_updated": "04/09/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "LG UltraWide 34\" Monitor",
+                "quantity_available": "83",
+                "minimum_level": "19",
+                "location": "warehouse a - section 1",
+                "last_updated": "14/09/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-TAB-003-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "427",
+                "minimum_level": "19",
+                "location": "warehouse a - section 1",
+                "last_updated": "10/10/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-LAP-001-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "293",
+                "minimum_level": "36",
+                "location": "warehouse a - section 1",
+                "last_updated": "16/09/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-TAB-003-2024",
+                "product_name": "Apple iPad Pro 12.9 512GB",
+                "quantity_available": "106",
+                "minimum_level": "12",
+                "location": "warehouse b - section 2",
+                "last_updated": "11/09/2025",
+                "supplier": "Samsung Electronics"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "LG UltraWide 34\" Monitor",
+                "quantity_available": "87",
+                "minimum_level": "49",
+                "location": "warehouse a - section 1",
+                "last_updated": "03/10/2025",
+                "supplier": "ASUS Inc"
+            },
+            {
+                "warehouse_id": "WH-03",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "187",
+                "minimum_level": "16",
+                "location": "warehouse b - section 2",
+                "last_updated": "08/10/2025",
+                "supplier": "ASUS Inc"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-TAB-003-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "84",
+                "minimum_level": "28",
+                "location": "warehouse a - section 1",
+                "last_updated": "08/10/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-03",
+                "sku": "ERP-LAP-001-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "199",
+                "minimum_level": "16",
+                "location": "warehouse b - section 2",
+                "last_updated": "11/09/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-LAP-001-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "300",
+                "minimum_level": "37",
+                "location": "warehouse b - section 2",
+                "last_updated": "08/10/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "61",
+                "minimum_level": "32",
+                "location": "warehouse a - section 1",
+                "last_updated": "23/09/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-05",
+                "sku": "ERP-LAP-001-2024",
+                "product_name": "Apple iPad Pro 12.9 512GB",
+                "quantity_available": "10",
+                "minimum_level": "14",
+                "location": "warehouse b - section 2",
+                "last_updated": "07/09/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "ASUS VivoBook 15 Laptop",
+                "quantity_available": "106",
+                "minimum_level": "14",
+                "location": "warehouse a - section 1",
+                "last_updated": "02/10/2025",
+                "supplier": "Apple Inc."
+            },
+            {
+                "warehouse_id": "WH-03",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "440",
+                "minimum_level": "45",
+                "location": "warehouse b - section 2",
+                "last_updated": "11/09/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-LAP-001-2024",
+                "product_name": "LG UltraWide 34\" Monitor",
+                "quantity_available": "65",
+                "minimum_level": "47",
+                "location": "warehouse b - section 2",
+                "last_updated": "01/09/2025",
+                "supplier": "Logitech International"
+            },
+            {
+                "warehouse_id": "WH-03",
+                "sku": "ERP-TAB-003-2024",
+                "product_name": "Logitech MX Master 3S",
+                "quantity_available": "74",
+                "minimum_level": "16",
+                "location": "warehouse a - section 1",
+                "last_updated": "02/09/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-01",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "67",
+                "minimum_level": "24",
+                "location": "warehouse b - section 2",
+                "last_updated": "27/09/2025",
+                "supplier": "Samsung Electronics"
+            },
+            {
+                "warehouse_id": "WH-03",
+                "sku": "ERP-KEY-005-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "43",
+                "minimum_level": "33",
+                "location": "warehouse b - section 2",
+                "last_updated": "15/09/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-MON-004-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "430",
+                "minimum_level": "26",
+                "location": "warehouse a - section 1",
+                "last_updated": "15/09/2025",
+                "supplier": "Logitech"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-TAB-003-2024",
+                "product_name": "Logitech MX Master 3S",
+                "quantity_available": "299",
+                "minimum_level": "44",
+                "location": "warehouse a - section 1",
+                "last_updated": "24/09/2025",
+                "supplier": "Apple Inc."
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "Logitech MX Keys",
+                "quantity_available": "236",
+                "minimum_level": "31",
+                "location": "warehouse b - section 2",
+                "last_updated": "13/09/2025",
+                "supplier": "LG Electronics"
+            },
+            {
+                "warehouse_id": "WH-04",
+                "sku": "ERP-MOU-006-2024",
+                "product_name": "Samsung Galaxy S24 Ultra",
+                "quantity_available": "433",
+                "minimum_level": "16",
+                "location": "warehouse b - section 2",
+                "last_updated": "16/09/2025",
+                "supplier": "Logitech International"
+            }
+        ]
+    ]
+}
