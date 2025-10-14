@@ -24,7 +24,7 @@ namespace DataGenerator
                 string stockXml = Path.Combine(DirectoryOutput, "warehouse_stock_dirty.xml");
 
                 Console.WriteLine("A gerar dados");
-                var sells = Generator.SellsGenerator.Generate(50);
+                var sells = Generator.SellsGenerator.Generate(100);
                 Console.WriteLine($"{sells.Count} vendas geradas (com inconsistências)");
 
                 var stock = StockGenerator.Generate(50);

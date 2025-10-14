@@ -1,51 +1,101 @@
 sale_id;sale_date;customer_id;customer_email;sku;product_name;quantity;unit_price;total_amount;status
-ECO0012025;08-10-2025 05:53:35;CUST 1001;nicole.simoes@yahoo.com;ERP/PHONE/002/2024;Logitech MX Keys Mechanical Keyboard  ;2 un;EUR 1061,10;2506,20;PENDING
-ECO0022025;2025/10/01 05:53;CUST 1002;valter.amorim@portugalmail.pt;ERP_MON_004_2024;  ASUS VivoBook 15 Laptop;1 un;374,96€;2553,86 EUR;completed
-ECO0032025;03/10/2025;CUST_1003;olivia_soares40@yahoo.com;ERP--PHONE--002--2024;  LG UltraWide 34" Monitor  ;2 un.;204,26 EUR;€729,25;processing
-ECO0042025;09/10/2025 09:19;CUST_1004;catarina.reis@mail.pt;ERP/MOU/006/2024;Logitech MX Keys Mechanical Keyboard  ;1 un.;926,82;1780,94;completed
-ECO -005 -2025;2025-10-05T15:12:03Z;CUST 1005;pilar16@hotmail.com;  ERP-LAP-001-2024;  Apple iPad Pro 12.9 512GB  ;1 unidade;654,17€;695,52 EUR;PENDING
-ECO-006-2025;2025/10/07 21:37;CUST_1006;vasco_simoes..aeiou.pt;ERP/LAP/001/2024;Samsung Galaxy S24 Ultra;3 un;EUR 1146,32;€817,85;processing
-ECO-007-2025;09/10/2025;CUST-1007;aurora.rodrigues1@portugalmail.pt;ERP--PHONE--002--2024;  Logitech MX Master 3S Mouse  ;1;1151,05€;1142,58 EUR;completed
-ECO-008-2025;2025-10-07T22:40:21Z;CUST-1008;vicente.saraiva@sapo.pt  ;ERP_MOU_006_2024;  Logitech MX Keys Mechanical Keyboard;2 un.;€703,80;€507,17;pending
-ECO0092025;02/10/2025;CUST_1009;manuel.baptista@mail.pt;ERP_TAB_003_2024;  ASUS VivoBook 15 Laptop;2 un;1025,11€;1050,83 EUR;COMPLETED
-ECO -010 -2025;07/10/2025 22:55;CUST 1010;aurora_melo32@sapo.pt;ERP/MON/004/2024;  Logitech MX Keys Mechanical Keyboard;3 un.;EUR 224,69;869,65 EUR;Completed
-ECO-011-2025;2025/10/01 23:13;CUST_1011;cecilia_reis14..aeiou.pt;ERP/TAB/003/2024;  Logitech MX Keys Mechanical Keyboard;3 un;EUR 888,20;EUR 934,04;pending
-ECO0122025;04-10-2025 07:10:37;CUST 1012;leonardo_costa@aeiou.pt  ;ERP_LAP_001_2024;  Logitech MX Keys Mechanical Keyboard;1 un;€272,97;2839,85 EUR;pending
-ECO0132025;07/10/2025 12:25;CUST 1013;elisa.paiva..live.com;ERP_LAP_001_2024;Logitech MX Keys Mechanical Keyboard;3 un.;EUR 862,97;€2440,78;Completed
-ECO-014-2025;04-10-2025 11:51:46;CUST-1014;gabriel5@sapo.pt;ERP/TAB/003/2024;Apple iPad Pro 12.9 512GB  ;2 un.;689,38 EUR;426,42€;COMPLETED
-ECO0152025;05/10/2025 13:18;CUST_1015;marcelo.soares..mail.pt;ERP/TAB/003/2024;  ASUS VivoBook 15 Laptop  ;1 un.;€506,94;€2550,44;Completed
-ECO-016-2025;2025-10-09T14:31:20Z;CUST-1016;alexandre.figueiredo26..sapo.pt;ERP_PHONE_002_2024;  LG UltraWide 34" Monitor;2;EUR 482,75;223,02;COMPLETED
-ECO-017-2025;2025/10/09 14:04;CUST_1017;leonardo.leite23@mail.pt;ERP/LAP/001/2024;LG UltraWide 34" Monitor;2 un.;1303,66 EUR;€1004,70;Completed
-ECO -018 -2025;2025/10/06 08:31;CUST_1018;olivia_brito@portugalmail.pt;ERP/TAB/003/2024;Samsung Galaxy S24 Ultra;1 unidade;552,48 EUR;2665,54;COMPLETED
-ECO-019-2025;09/10/2025 12:38;CUST-1019;elias.nascimento@live.com;ERP/TAB/003/2024;  Samsung Galaxy S24 Ultra  ;1 un;799,90€;€2306,17;completed
-ECO -020 -2025;07-10-2025 01:04:45;CUST-1020;helio.baptista71..sapo.pt;ERP_PHONE_002_2024;Apple iPad Pro 12.9 512GB  ;3 un;515,20;€327,58;processing
-ECO0212025;07/10/2025 13:00;CUST-1021;clara_barros@sapo.pt;ERP TAB 003 2024;ASUS VivoBook 15 Laptop  ;3 unidades;€785,55;1505,11;Completed
-ECO -022 -2025;02/10/2025 14:45;CUST 1022;silvia37@gmail.com;ERP_MOU_006_2024;Logitech MX Master 3S Mouse;1 un.;853,78;2729,85€;Completed
-ECO -023 -2025;08/10/2025 05:40;CUST 1023;  vicente97@sapo.pt;ERP--LAP--001--2024;ASUS VivoBook 15 Laptop  ;1 un;386,12 EUR;1742,57€;processing
-ECO-024-2025;2025-10-05T17:14:21Z;CUST-1024;valter.valente..outlook.com;ERP--KEY--005--2024;ASUS VivoBook 15 Laptop;3 un;909,72 EUR;EUR 2585,32;pending
-ECO-025-2025;2025/10/09 22:42;CUST_1025;iris.mendes28..live.com;ERP_MON_004_2024;ASUS VivoBook 15 Laptop;1 un.;1412,92€;EUR 784,55;PENDING
-ECO-026-2025;02/10/2025;CUST-1026;daniela44@outlook.com  ;  ERP-MON-004-2024  ;  Apple iPad Pro 12.9 512GB  ;3 un.;1207,51€;2300,68;processing
-ECO-027-2025;07/10/2025 04:59;CUST 1027;juliana78@sapo.pt;ERP/MON/004/2024;Logitech MX Master 3S Mouse  ;3 un.;EUR 694,53;EUR 444,07;pending
-ECO-028-2025  ;07-10-2025 01:24:03;CUST 1028;henrique.freitas28@hotmail.com;ERP--LAP--001--2024;LG UltraWide 34" Monitor;3 un;1131,46€;987,76 EUR;pending
-ECO0292025;06/10/2025 17:55;CUST_1029;joana.nunes32..gmail.com;ERP LAP 001 2024;  LG UltraWide 34" Monitor  ;2 un.;EUR 225,57;EUR 2474,23;PENDING
-ECO0302025;2025-10-03T17:12:03Z;CUST 1030;martim.cardoso..outlook.com;ERP_MOU_006_2024;LG UltraWide 34" Monitor  ;2 un.;€936,46;1493,05 EUR;completed
-ECO-031-2025;2025-10-02T12:27:03Z;CUST-1031;henrique.fonseca76..hotmail.com;ERP PHONE 002 2024;  Logitech MX Keys Mechanical Keyboard;1 un;510,07 EUR;520,70€;processing
-ECO-032-2025  ;06/10/2025 01:44;CUST-1032;diana_lima29@portugalmail.pt;  ERP-LAP-001-2024  ;  Apple iPad Pro 12.9 512GB  ;3 un;347,25 EUR;€1981,49;processing
-ECO0332025;01/10/2025;CUST 1033;  laura17@sapo.pt  ;  ERP-MON-004-2024;  Apple iPad Pro 12.9 512GB;2 un;442,37€;€457,87;PENDING
-ECO -034 -2025;02-10-2025 08:04:53;CUST-1034;  xavier.baptista@yahoo.com  ;  ERP-LAP-001-2024;Apple iPad Pro 12.9 512GB;2;EUR 737,18;839,53;COMPLETED
-ECO-035-2025  ;01-10-2025 18:09:49;CUST-1035;safira_pereira54@sapo.pt;ERP KEY 005 2024;  Apple iPad Pro 12.9 512GB;1 unidade;501,70€;€884,63;pending
-ECO -036 -2025;03/10/2025;CUST 1036;daniel_araujo93@aeiou.pt;ERP MOU 006 2024;Logitech MX Master 3S Mouse  ;2 un;380,01;€635,26;PENDING
-ECO-037-2025  ;03-10-2025 00:17:26;CUST_1037;marta_pereira28..hotmail.com;ERP/LAP/001/2024;LG UltraWide 34" Monitor  ;2 unidades;847,37€;EUR 1557,41;completed
-ECO -038 -2025;2025/10/05 11:35;CUST_1038;benjamim.sousa..outlook.com;ERP-PHONE-002-2024;  LG UltraWide 34" Monitor;2;EUR 1438,04;€610,11;COMPLETED
-ECO-039-2025;2025/10/06 23:14;CUST 1039;jose_batista38..gmail.com;ERP--KEY--005--2024;  LG UltraWide 34" Monitor;1;457,60;261,14 EUR;processing
-ECO -040 -2025;09-10-2025 16:02:58;CUST 1040;rafael.loureiro46..yahoo.com;ERP/PHONE/002/2024;  Samsung Galaxy S24 Ultra;2 unidades;647,27 EUR;€2191,79;PENDING
-ECO0412025;06/10/2025 12:20;CUST-1041;  ariana_simoes25@sapo.pt;ERP--MOU--006--2024;Apple iPad Pro 12.9 512GB  ;1 un;458,22;€306,08;processing
-ECO0422025;09-10-2025 11:22:05;CUST_1042;benedita56@mail.pt;ERP--TAB--003--2024;Samsung Galaxy S24 Ultra  ;2 unidades;1047,50€;1589,44€;PENDING
-ECO-043-2025;2025-10-02T19:04:28Z;CUST_1043;filipa.neto..portugalmail.pt;ERP--KEY--005--2024;  LG UltraWide 34" Monitor;1 unidade;947,30€;EUR 846,64;pending
-ECO -044 -2025;2025-10-06T19:53:56Z;CUST 1044;clara60@gmail.com;ERP LAP 001 2024;LG UltraWide 34" Monitor  ;3 un.;EUR 217,36;EUR 680,75;COMPLETED
-ECO-045-2025;01/10/2025 17:21;CUST_1045;  gabriela_amaral@gmail.com  ;  ERP-MON-004-2024  ;  LG UltraWide 34" Monitor;2 unidades;€136,34;EUR 1786,06;pending
-ECO -046 -2025;08/10/2025;CUST 1046;amelia.machado64..sapo.pt;ERP LAP 001 2024;Apple iPad Pro 12.9 512GB  ;3 un.;603,08€;€2931,46;processing
-ECO -047 -2025;06/10/2025;CUST_1047;bernardo97@sapo.pt;ERP LAP 001 2024;  Apple iPad Pro 12.9 512GB  ;1;616,87 EUR;2038,77 EUR;Completed
-ECO0482025;2025/10/04 11:24;CUST 1048;ema_amorim..hotmail.com;ERP MON 004 2024;  Logitech MX Master 3S Mouse  ;3;1001,05 EUR;€718,79;Completed
-ECO -049 -2025;2025/10/06 02:09;CUST 1049;  aurora_barros@sapo.pt  ;ERP/TAB/003/2024;  Logitech MX Master 3S Mouse;2 un;EUR 893,86;220,52;Completed
-ECO -050 -2025;04/10/2025;CUST-1050;mafalda11..portugalmail.pt;ERP_LAP_001_2024;ASUS VivoBook 15 Laptop;1 un.;1170,25;EUR 2259,64;Completed
+ECO0012025;05-10-2025 06:03:06;CUST-1001;miguel.pereira@mail.pt;ERP--MOU--006--2024;Logitech MX Keys Mechanical Keyboard;3 un;343,67;865,39 EUR;Completed
+ECO -002 -2025;03/10/2025 22:55;CUST_1002;  alice.leal@sapo.pt;ERP-LAP-001-2024  ;Logitech MX Keys Mechanical Keyboard;3 unidades;EUR 1151,14;€1503,24;Completed
+ECO -003 -2025;05-10-2025 19:17:55;CUST 1003;eduarda.cardoso@gmail.com;ERP_MON_004_2024;Apple iPad Pro 12.9 512GB;1 unidade;1435,56;EUR 748,24;Completed
+ECO -004 -2025;2025-10-03T03:01:40Z;CUST_1004;maria.batista@gmail.com;  ERP-LAP-001-2024;  Apple iPad Pro 12.9 512GB  ;2 un;351,78€;2350,02€;Completed
+ECO -005 -2025;2025/10/04 07:53;CUST_1005;paulo_santos@hotmail.com;ERP--MON--004--2024;  Apple iPad Pro 12.9 512GB  ;2 unidades;201,52€;2524,51;COMPLETED
+ECO0062025;2025-10-07T19:05:54Z;CUST_1006;elias_alves@yahoo.com;ERP TAB 003 2024;Apple iPad Pro 12.9 512GB;2 unidades;1062,76€;106,08;completed
+ECO -007 -2025;09/10/2025 02:28;CUST_1007;francisco_matias84..live.com;ERP/MOU/006/2024;  Logitech MX Master 3S Mouse  ;2;EUR 605,37;1138,88 EUR;Completed
+ECO-008-2025;2025/10/06 00:27;CUST 1008;jaime13@aeiou.pt;ERP LAP 001 2024;ASUS VivoBook 15 Laptop  ;2;1077,56€;€2211,49;processing
+ECO -009 -2025;08/10/2025;CUST-1009;erica_figueiredo8@portugalmail.pt;  ERP-LAP-001-2024  ;Samsung Galaxy S24 Ultra  ;1 un.;€635,13;€2572,45;completed
+ECO-010-2025;01/10/2025;CUST-1010;rafaela_garcia..gmail.com;ERP/KEY/005/2024;  ASUS VivoBook 15 Laptop;2;160,14 EUR;1866,03 EUR;PENDING
+ECO -011 -2025;06/10/2025 14:22;CUST 1011;aurora_costa@mail.pt;ERP--LAP--001--2024;  Samsung Galaxy S24 Ultra  ;3;965,50 EUR;EUR 877,78;COMPLETED
+ECO0122025;08/10/2025;CUST_1012;carla.magalhaes..outlook.com;ERP PHONE 002 2024;  Samsung Galaxy S24 Ultra;3 un.;313,82;€2468,04;completed
+ECO -013 -2025;05/10/2025 08:44;CUST 1013;constanca.lima..aeiou.pt;ERP-PHONE-002-2024;  Logitech MX Master 3S Mouse;2 un;340,19 EUR;€325,97;PENDING
+ECO -014 -2025;07/10/2025;CUST-1014;  alice.simoes11@hotmail.com;ERP_TAB_003_2024;  Apple iPad Pro 12.9 512GB;1;607,73 EUR;€947,57;COMPLETED
+ECO-015-2025;05-10-2025 22:46:24;CUST-1015;artur_teixeira21@mail.pt;ERP_KEY_005_2024;  Logitech MX Master 3S Mouse  ;1 unidade;€1345,16;€2892,48;processing
+ECO -016 -2025;05-10-2025 19:40:30;CUST-1016;leticia37..hotmail.com;ERP-MOU-006-2024;Apple iPad Pro 12.9 512GB;3 un.;743,87€;2020,11 EUR;COMPLETED
+ECO-017-2025;09/10/2025 21:59;CUST_1017;diogo34..outlook.com;  ERP-MOU-006-2024;  Samsung Galaxy S24 Ultra;1 un;€420,85;€934,31;processing
+ECO -018 -2025;08/10/2025;CUST 1018;jessica.valente..mail.pt;ERP_TAB_003_2024;ASUS VivoBook 15 Laptop;3 unidades;616,46 EUR;EUR 2233,54;PENDING
+ECO-019-2025;2025/10/09 07:05;CUST 1019;julia.vicente31@live.com;ERP_MOU_006_2024;  Logitech MX Keys Mechanical Keyboard  ;2 un.;214,00 EUR;EUR 2488,88;completed
+ECO0202025;05/10/2025 01:37;CUST-1020;gil.raposo36@portugalmail.pt;  ERP-LAP-001-2024  ;  Apple iPad Pro 12.9 512GB;1 unidade;EUR 1031,40;1702,65 EUR;COMPLETED
+ECO -021 -2025;05/10/2025 12:59;CUST-1021;leonor_abreu@yahoo.com  ;  ERP-LAP-001-2024  ;  Logitech MX Master 3S Mouse;3 unidades;522,08€;1800,88;Completed
+ECO-022-2025;2025/10/06 01:52;CUST_1022;leandro.branco@live.com;ERP_PHONE_002_2024;Logitech MX Keys Mechanical Keyboard;3 unidades;836,08;€2388,78;processing
+ECO-023-2025;01/10/2025 01:05;CUST_1023;  manuel.lourenco@mail.pt;ERP--MON--004--2024;  Samsung Galaxy S24 Ultra  ;2 unidades;711,04€;2841,09€;pending
+ECO-024-2025;08/10/2025;CUST-1024;julia.melo77@sapo.pt;ERP LAP 001 2024;  Apple iPad Pro 12.9 512GB;1 un.;551,13 EUR;1455,72;completed
+ECO0252025;02-10-2025 18:26:55;CUST_1025;  irina_fernandes69@gmail.com  ;  ERP-LAP-001-2024  ;  Logitech MX Master 3S Mouse;2 un.;427,42 EUR;2597,27 EUR;completed
+ECO -026 -2025;05/10/2025;CUST-1026;aurora61..gmail.com;ERP TAB 003 2024;  ASUS VivoBook 15 Laptop;1 unidade;355,02€;750,74 EUR;PENDING
+ECO0272025;2025/10/07 16:37;CUST 1027;francisco78..portugalmail.pt;ERP_LAP_001_2024;  Logitech MX Master 3S Mouse;3 unidades;517,44 EUR;€1589,99;Completed
+  ECO-028-2025  ;2025/10/04 08:19;CUST_1028;  helio_soares@yahoo.com  ;ERP/MON/004/2024;  Logitech MX Master 3S Mouse;2 un.;EUR 1409,40;EUR 1005,00;processing
+  ECO-029-2025;04-10-2025 03:32:23;CUST_1029;ema.cunha5@hotmail.com;ERP/KEY/005/2024;  LG UltraWide 34" Monitor  ;1 un.;756,70;EUR 1285,05;PENDING
+ECO0302025;07/10/2025;CUST-1030;  luna.valente54@mail.pt  ;ERP--MON--004--2024;ASUS VivoBook 15 Laptop;2 un.;1331,88€;EUR 2866,00;pending
+  ECO-031-2025;01/10/2025;CUST_1031;francisco_campos@gmail.com;ERP_KEY_005_2024;Apple iPad Pro 12.9 512GB;1;1261,88;99,45;PENDING
+ECO0322025;04/10/2025 23:57;CUST-1032;feliciano.figueiredo..portugalmail.pt;ERP-TAB-003-2024  ;  Apple iPad Pro 12.9 512GB  ;2 unidades;EUR 807,13;€232,91;completed
+ECO -033 -2025;06/10/2025 18:53;CUST-1033;luana_borges36@gmail.com;ERP MOU 006 2024;ASUS VivoBook 15 Laptop;3 un;1032,38 EUR;197,55€;completed
+ECO-034-2025;02-10-2025 01:41:38;CUST 1034;santiago.cunha70@aeiou.pt  ;ERP LAP 001 2024;  LG UltraWide 34" Monitor  ;2;446,28 EUR;EUR 1653,19;completed
+ECO -035 -2025;2025/10/01 01:17;CUST-1035;fabiana8..mail.pt;ERP--KEY--005--2024;Logitech MX Keys Mechanical Keyboard  ;3 un.;EUR 584,83;850,50;completed
+ECO -036 -2025;2025-10-05T07:57:20Z;CUST 1036;feliciano76..hotmail.com;  ERP-LAP-001-2024;  LG UltraWide 34" Monitor;2 un.;410,42 EUR;€2917,51;completed
+ECO -037 -2025;04-10-2025 13:57:42;CUST_1037;vasco54@mail.pt;ERP MOU 006 2024;  Logitech MX Master 3S Mouse;3;293,07€;EUR 2293,88;COMPLETED
+ECO -038 -2025;02/10/2025 00:27;CUST-1038;rodrigo85..aeiou.pt;ERP/LAP/001/2024;Samsung Galaxy S24 Ultra  ;3 un.;1306,10€;€854,15;completed
+ECO -039 -2025;09/10/2025;CUST-1039;martim.vaz52..aeiou.pt;ERP_PHONE_002_2024;Logitech MX Master 3S Mouse  ;3 un.;EUR 641,99;EUR 2870,19;completed
+ECO-040-2025;04/10/2025;CUST-1040;  diana_mota@gmail.com;  ERP-MOU-006-2024  ;  Apple iPad Pro 12.9 512GB  ;2 un;€295,75;142,73€;completed
+ECO -041 -2025;2025-10-03T00:00:44Z;CUST-1041;rafaela.branco31@gmail.com;ERP_PHONE_002_2024;  Logitech MX Keys Mechanical Keyboard  ;1 unidade;193,15;EUR 480,11;PENDING
+ECO-042-2025;2025-10-04T17:10:16Z;CUST 1042;alexandra.neves@hotmail.com;ERP/MON/004/2024;ASUS VivoBook 15 Laptop;2 unidades;€290,99;€2433,96;COMPLETED
+ECO-043-2025;2025/10/02 20:25;CUST 1043;romeu_batista44@yahoo.com;ERP/LAP/001/2024;  Logitech MX Master 3S Mouse;3 unidades;€464,88;1897,93;completed
+ECO-044-2025;05/10/2025;CUST-1044;frederica98@outlook.com;ERP_MOU_006_2024;Logitech MX Master 3S Mouse  ;1;EUR 792,13;2526,90 EUR;PENDING
+ECO -045 -2025;01/10/2025;CUST-1045;  nicole_correia61@outlook.com;ERP--KEY--005--2024;  Logitech MX Keys Mechanical Keyboard  ;1 un;EUR 197,56;2947,84€;completed
+ECO0462025;07-10-2025 07:12:30;CUST_1046;lia_pinho85@sapo.pt;ERP--PHONE--002--2024;Apple iPad Pro 12.9 512GB;2 un;EUR 1169,89;€1094,46;processing
+ECO-047-2025;07-10-2025 23:58:43;CUST 1047;  camila.faria65@mail.pt;ERP-KEY-005-2024  ;  Samsung Galaxy S24 Ultra;1 un;221,34 EUR;EUR 1085,26;completed
+ECO0482025;07-10-2025 14:09:58;CUST-1048;xavier_azevedo86@aeiou.pt;ERP_KEY_005_2024;  LG UltraWide 34" Monitor;3;1233,28 EUR;141,23 EUR;completed
+ECO -049 -2025;02-10-2025 09:46:46;CUST_1049;  soraia.vicente@mail.pt  ;ERP MOU 006 2024;Logitech MX Keys Mechanical Keyboard  ;2 unidades;906,23;1606,98 EUR;Completed
+ECO-050-2025;09/10/2025 08:40;CUST-1050;constanca.henriques@mail.pt;ERP-TAB-003-2024;ASUS VivoBook 15 Laptop;3 unidades;559,29€;1240,37€;COMPLETED
+ECO-051-2025;2025-10-05T19:39:12Z;CUST_1051;salvador81@hotmail.com;ERP/MON/004/2024;  Samsung Galaxy S24 Ultra  ;3 unidades;177,87 EUR;2367,91€;Completed
+ECO0522025;08-10-2025 23:04:53;CUST 1052;romeu_lopes..aeiou.pt;ERP-PHONE-002-2024  ;Samsung Galaxy S24 Ultra  ;3 un.;850,22€;1336,26;completed
+ECO -053 -2025;2025/10/03 03:44;CUST_1053;daniel15..outlook.com;ERP--MOU--006--2024;  ASUS VivoBook 15 Laptop;2 un;€550,81;1269,69€;Completed
+  ECO-054-2025;05-10-2025 14:04:27;CUST-1054;nicole.gomes46@gmail.com;ERP/TAB/003/2024;  Logitech MX Master 3S Mouse;2 unidades;€659,53;2028,48 EUR;COMPLETED
+ECO-055-2025;2025/10/08 05:20;CUST_1055;ariana.branco..gmail.com;ERP PHONE 002 2024;  Apple iPad Pro 12.9 512GB  ;3 unidades;833,17;EUR 2148,26;PENDING
+ECO -056 -2025;2025/10/04 00:33;CUST_1056;matias.monteiro@hotmail.com;ERP_PHONE_002_2024;  Apple iPad Pro 12.9 512GB;1 unidade;1298,40€;€2434,95;pending
+  ECO-057-2025  ;2025-10-07T22:35:07Z;CUST-1057;melissa.amorim5..gmail.com;ERP TAB 003 2024;Logitech MX Master 3S Mouse  ;2 un;1447,16;2086,70€;PENDING
+ECO0582025;2025-10-06T16:31:13Z;CUST 1058;  micael64@aeiou.pt;ERP--MON--004--2024;Samsung Galaxy S24 Ultra  ;2 unidades;EUR 1280,86;1245,53 EUR;completed
+ECO -059 -2025;07/10/2025;CUST-1059;rui.lourenco97@yahoo.com;ERP--PHONE--002--2024;Apple iPad Pro 12.9 512GB  ;3 un;1332,31 EUR;€2512,84;Completed
+ECO -060 -2025;07/10/2025;CUST_1060;  antonio11@hotmail.com;ERP-KEY-005-2024  ;Samsung Galaxy S24 Ultra  ;3 un.;773,59 EUR;2241,77;completed
+  ECO-061-2025  ;2025-10-06T13:34:18Z;CUST-1061;vitor.araujo@mail.pt;ERP/KEY/005/2024;Logitech MX Master 3S Mouse  ;1;€1063,95;1905,94 EUR;completed
+ECO -062 -2025;04/10/2025 18:31;CUST-1062;sofia_miranda@sapo.pt;ERP--MON--004--2024;Logitech MX Keys Mechanical Keyboard;1;208,93€;€1175,87;completed
+ECO0632025;03-10-2025 04:47:31;CUST-1063;caetana.sa62@mail.pt  ;ERP TAB 003 2024;Samsung Galaxy S24 Ultra;1;€1161,87;2085,08 EUR;completed
+ECO -064 -2025;03/10/2025;CUST 1064;vitoria.silva@sapo.pt;ERP-KEY-005-2024  ;Logitech MX Keys Mechanical Keyboard;2;621,12€;2985,36;COMPLETED
+  ECO-065-2025;01-10-2025 01:59:15;CUST_1065;mateus_santos@aeiou.pt  ;ERP/KEY/005/2024;  Apple iPad Pro 12.9 512GB;2 un;EUR 680,59;790,09 EUR;pending
+ECO -066 -2025;06-10-2025 06:01:04;CUST_1066;teresa99@live.com;ERP-LAP-001-2024;  LG UltraWide 34" Monitor  ;1 unidade;EUR 880,19;EUR 997,56;Completed
+ECO -067 -2025;2025/10/03 19:35;CUST-1067;cristiano40..live.com;ERP PHONE 002 2024;  Logitech MX Keys Mechanical Keyboard;2 un.;671,26€;€1091,21;PENDING
+  ECO-068-2025;08/10/2025 17:04;CUST 1068;raul67@live.com;ERP-PHONE-002-2024;Apple iPad Pro 12.9 512GB;1 un.;706,76;EUR 482,36;PENDING
+  ECO-069-2025;2025-10-02T04:50:47Z;CUST-1069;afonso_barros23..live.com;ERP/LAP/001/2024;  Apple iPad Pro 12.9 512GB  ;2 un.;EUR 1207,44;€1356,11;PENDING
+ECO-070-2025;05/10/2025;CUST-1070;amelia_barbosa..yahoo.com;ERP/PHONE/002/2024;  Samsung Galaxy S24 Ultra  ;1 un;743,11 EUR;1541,36 EUR;pending
+ECO0712025;01/10/2025;CUST_1071;caetana.raposo@yahoo.com;ERP_KEY_005_2024;  ASUS VivoBook 15 Laptop;2 un.;€895,27;EUR 2709,45;Completed
+ECO-072-2025;01/10/2025 04:53;CUST-1072;igor9@sapo.pt  ;ERP-PHONE-002-2024;  Samsung Galaxy S24 Ultra  ;2;637,13;€291,91;pending
+ECO -073 -2025;2025-10-08T17:22:20Z;CUST-1073;adriana.tavares..outlook.com;ERP--MON--004--2024;ASUS VivoBook 15 Laptop  ;2 un.;1385,36€;2677,67 EUR;Completed
+ECO0742025;08/10/2025;CUST 1074;igor11@mail.pt;ERP/TAB/003/2024;Logitech MX Master 3S Mouse  ;3;433,61€;€2622,67;pending
+ECO-075-2025;09/10/2025;CUST 1075;carlota_vicente..sapo.pt;ERP/TAB/003/2024;ASUS VivoBook 15 Laptop;2;448,23;1833,64;Completed
+ECO-076-2025;2025/10/05 05:49;CUST-1076;romeu_martins55@yahoo.com  ;ERP_MOU_006_2024;  ASUS VivoBook 15 Laptop;3;1283,76;2803,21;COMPLETED
+ECO-077-2025;2025/10/01 11:00;CUST 1077;beatriz.jesus..hotmail.com;ERP--KEY--005--2024;Logitech MX Master 3S Mouse;1 un.;413,23 EUR;749,75 EUR;completed
+ECO0782025;06/10/2025 13:38;CUST-1078;benjamim.fonseca..yahoo.com;  ERP-TAB-003-2024  ;LG UltraWide 34" Monitor  ;3 unidades;139,81;133,02;PENDING
+ECO-079-2025;06-10-2025 03:19:56;CUST-1079;martim_saraiva@outlook.com;ERP/TAB/003/2024;Samsung Galaxy S24 Ultra  ;1 unidade;EUR 577,96;EUR 287,43;PENDING
+  ECO-080-2025  ;03-10-2025 13:04:52;CUST-1080;  fabiana.pinheiro@aeiou.pt  ;ERP--MON--004--2024;  Samsung Galaxy S24 Ultra;1 unidade;1420,78 EUR;1151,67;completed
+ECO0812025;2025/10/02 01:06;CUST 1081;jose_barros43..portugalmail.pt;ERP/PHONE/002/2024;ASUS VivoBook 15 Laptop  ;3 unidades;€363,94;EUR 698,01;pending
+ECO -082 -2025;2025/10/02 06:40;CUST 1082;teresa_raposo..gmail.com;ERP--PHONE--002--2024;LG UltraWide 34" Monitor  ;2 unidades;435,90 EUR;€812,63;completed
+ECO0832025;07/10/2025 07:11;CUST 1083;irina94@portugalmail.pt  ;ERP--KEY--005--2024;Apple iPad Pro 12.9 512GB;1;1304,48€;€1603,46;Completed
+  ECO-084-2025;01/10/2025;CUST 1084;miguel68@mail.pt;ERP--MOU--006--2024;Logitech MX Keys Mechanical Keyboard  ;2 unidades;1373,58;174,36 EUR;completed
+ECO -085 -2025;04/10/2025 14:47;CUST 1085;leticia_anjos..outlook.com;ERP--KEY--005--2024;LG UltraWide 34" Monitor;2 unidades;1174,62€;2055,08;COMPLETED
+  ECO-086-2025  ;03/10/2025 20:38;CUST_1086;juliana.nascimento..outlook.com;ERP/PHONE/002/2024;Logitech MX Master 3S Mouse  ;2 unidades;EUR 393,74;EUR 1757,07;Completed
+ECO-087-2025;09/10/2025 13:27;CUST 1087;vitor.cruz88..gmail.com;ERP/KEY/005/2024;Logitech MX Master 3S Mouse;3 unidades;1097,55 EUR;EUR 1748,01;pending
+ECO0882025;02-10-2025 22:28:16;CUST-1088;jose.miranda..hotmail.com;ERP_LAP_001_2024;  Samsung Galaxy S24 Ultra;1 un;€753,78;EUR 2451,64;processing
+ECO0892025;2025/10/06 12:33;CUST_1089;debora.rodrigues6..aeiou.pt;ERP_MOU_006_2024;  Samsung Galaxy S24 Ultra  ;2;1058,64;EUR 514,20;completed
+ECO-090-2025  ;02-10-2025 00:48:45;CUST 1090;  mario_loureiro@mail.pt  ;ERP KEY 005 2024;  ASUS VivoBook 15 Laptop;2 un.;1177,50;EUR 1367,74;processing
+ECO-091-2025;2025-10-06T22:37:04Z;CUST-1091;antonio_garcia@outlook.com;ERP_MON_004_2024;  Logitech MX Master 3S Mouse  ;2;1297,37;2032,13€;COMPLETED
+ECO0922025;03-10-2025 13:47:31;CUST 1092;vitoria_pereira..portugalmail.pt;ERP--KEY--005--2024;  Logitech MX Keys Mechanical Keyboard  ;1 un.;€227,04;1278,92;processing
+  ECO-093-2025;2025/10/04 16:29;CUST_1093;duarte85@hotmail.com;ERP_PHONE_002_2024;  Logitech MX Keys Mechanical Keyboard;1;EUR 1060,15;1484,23;completed
+  ECO-094-2025;07/10/2025 10:21;CUST 1094;manuel_nascimento@hotmail.com;ERP/MON/004/2024;Samsung Galaxy S24 Ultra;3 un;776,46€;300,90€;processing
+ECO0952025;07-10-2025 16:05:52;CUST 1095;fernando.vieira89@portugalmail.pt;ERP-LAP-001-2024  ;  Apple iPad Pro 12.9 512GB;1 unidade;EUR 338,38;2859,39;pending
+ECO-096-2025;07/10/2025 11:02;CUST 1096;  irina38@live.com  ;ERP--PHONE--002--2024;LG UltraWide 34" Monitor;3 un;1130,89;€1560,12;Completed
+ECO0972025;2025-10-09T00:53:08Z;CUST 1097;vicente_oliveira57@mail.pt;ERP-KEY-005-2024;  LG UltraWide 34" Monitor  ;2;EUR 563,83;€1964,02;processing
+  ECO-098-2025  ;09/10/2025 05:28;CUST-1098;henrique_sousa54@outlook.com;ERP/MON/004/2024;  Samsung Galaxy S24 Ultra  ;3 un;EUR 1475,81;EUR 283,93;completed
+ECO0992025;02/10/2025;CUST 1099;josue_braga76..outlook.com;  ERP-MON-004-2024  ;Apple iPad Pro 12.9 512GB  ;3 un.;EUR 452,88;€354,16;Completed
+ECO -100 -2025;02/10/2025;CUST_1100;elisa.silva@portugalmail.pt;ERP--PHONE--002--2024;Samsung Galaxy S24 Ultra  ;3 un.;194,44;1902,75;processing
