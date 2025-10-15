@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <entry key="scriptImports" type="xstring" value="%%00010"/>
+        <entry key="scriptFields" type="xstring" value="%%00010"/>
+        <entry key="scriptBody" type="xstring" value="String sku = c_sku;%%00010String product_name = c_product_name;%%00010String warehouse_id = c_warehouse_id;%%00010String location = c_location;%%00010double quantity = c_quantity_available;%%00010double minimum = c_minimum_level;%%00010String prediction = c_prediction;%%00010%%00010out_email_body = &quot;ALERTA DE STOCK BAIXO\n\n&quot; +%%00010    &quot;Produto necessita reposição URGENTE:\n\n&quot; +%%00010    &quot;================================\n&quot; +%%00010    &quot;SKU: &quot; + sku + &quot;\n&quot; +%%00010    &quot;Nome: &quot; + product_name + &quot;\n&quot; +%%00010    &quot;Warehouse: &quot; + warehouse_id + &quot;\n&quot; +%%00010    &quot;Localização: &quot; + location + &quot;\n&quot; +%%00010    &quot;================================\n\n&quot; +%%00010    &quot;STOCK ATUAL:\n&quot; +%%00010    &quot;   Quantidade disponível: &quot; + quantity + &quot; unidades\n&quot; +%%00010    &quot;   Mínimo necessário: &quot; + minimum + &quot; unidades\n\n&quot; +%%00010    &quot;STATUS: &quot; + prediction + &quot;\n\n&quot; +%%00010    &quot;Por favor, proceda com encomenda imediata ao fornecedor.\n\n&quot; +%%00010    &quot;--------------------------------\n&quot; +%%00010    &quot;Email automático - Sistema de Gestão de Stock&quot;;%%00010%%00010"/>
+        <config key="jarFiles">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="outCols">
+            <entry key="array-size" type="xint" value="1"/>
+            <config key="0">
+                <entry key="Name" type="xstring" value="email_body"/>
+                <entry key="JavaName" type="xstring" value="out_email_body"/>
+                <entry key="JavaType" type="xstring" value="java.lang.String"/>
+                <config key="Type">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+                <entry key="replaceExisting" type="xboolean" value="false"/>
+            </config>
+        </config>
+        <config key="outVars">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="inCols">
+            <entry key="array-size" type="xint" value="7"/>
+            <config key="0">
+                <entry key="Name" type="xstring" value="sku"/>
+                <entry key="JavaName" type="xstring" value="c_sku"/>
+                <entry key="JavaType" type="xstring" value="java.lang.String"/>
+                <config key="Type">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.convert.java.SimpleDataCellToJavaConverterFactory(StringValue,class java.lang.String,String)"/>
+            </config>
+            <config key="1">
+                <entry key="Name" type="xstring" value="product_name"/>
+                <entry key="JavaName" type="xstring" value="c_product_name"/>
+                <entry key="JavaType" type="xstring" value="java.lang.String"/>
+                <config key="Type">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.convert.java.SimpleDataCellToJavaConverterFactory(StringValue,class java.lang.String,String)"/>
+            </config>
+            <config key="2">
+                <entry key="Name" type="xstring" value="warehouse_id"/>
+                <entry key="JavaName" type="xstring" value="c_warehouse_id"/>
+                <entry key="JavaType" type="xstring" value="java.lang.String"/>
+                <config key="Type">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.convert.java.SimpleDataCellToJavaConverterFactory(StringValue,class java.lang.String,String)"/>
+            </config>
+            <config key="3">
+                <entry key="Name" type="xstring" value="location"/>
+                <entry key="JavaName" type="xstring" value="c_location"/>
+                <entry key="JavaType" type="xstring" value="java.lang.String"/>
+                <config key="Type">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.convert.java.SimpleDataCellToJavaConverterFactory(StringValue,class java.lang.String,String)"/>
+            </config>
+            <config key="4">
+                <entry key="Name" type="xstring" value="quantity_available"/>
+                <entry key="JavaName" type="xstring" value="c_quantity_available"/>
+                <entry key="JavaType" type="xstring" value="java.lang.Double"/>
+                <config key="Type">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.convert.java.SimpleDataCellToJavaConverterFactory(DoubleValue,class java.lang.Double,Double)"/>
+            </config>
+            <config key="5">
+                <entry key="Name" type="xstring" value="minimum_level"/>
+                <entry key="JavaName" type="xstring" value="c_minimum_level"/>
+                <entry key="JavaType" type="xstring" value="java.lang.Double"/>
+                <config key="Type">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.convert.java.SimpleDataCellToJavaConverterFactory(DoubleValue,class java.lang.Double,Double)"/>
+            </config>
+            <config key="6">
+                <entry key="Name" type="xstring" value="prediction"/>
+                <entry key="JavaName" type="xstring" value="c_prediction"/>
+                <entry key="JavaType" type="xstring" value="java.lang.String"/>
+                <config key="Type">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="ConverterFactory" type="xstring" value="org.knime.core.data.convert.java.SimpleDataCellToJavaConverterFactory(StringValue,class java.lang.String,String)"/>
+            </config>
+        </config>
+        <config key="inVars">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <entry key="version" type="xstring" value="version 1.x"/>
+        <entry key="templateUUID" type="xstring" isnull="true" value=""/>
+        <entry key="runOnExecute" type="xboolean" value="false"/>
+        <config key="bundles">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+    </config>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.jsnippet.JavaSnippetNodeFactory"/>
+    <entry key="node-name" type="xstring" value="Java Snippet"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Java Snippet Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.jsnippets"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.7.0.v202508211821"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Javasnippet"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.javasnippet.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.7.0.v202508211821"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Java Snippet"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 3, Cols: 10"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="837a0054-8dfd-46f6-87cb-c1375ae78b94"/>
+    </config>
+</config>
