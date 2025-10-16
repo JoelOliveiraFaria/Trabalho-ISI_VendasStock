@@ -17,7 +17,3 @@ Sistema ETL para integração de dados de vendas e stock entre:
 - KNIME Analytics Platform 5.x
 - C# (.NET 8)
 - Microsoft SQL Server
-
-## Estrutura
-
-Ver [docs/arquitetura.md](docs/arquitetura.md)
