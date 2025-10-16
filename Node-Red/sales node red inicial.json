@@ -1,0 +1,231 @@
+[
+    {
+        "id": "b3b08e7abe70b543",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e07be432f080dd5d",
+        "type": "inject",
+        "z": "b3b08e7abe70b543",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": "10",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 240,
+        "wires": [
+            [
+                "dd7f74d033909d56"
+            ]
+        ]
+    },
+    {
+        "id": "dd7f74d033909d56",
+        "type": "file in",
+        "z": "b3b08e7abe70b543",
+        "name": "Read Sales JSON",
+        "filename": "C:\\Users\\joelo_k10i33y\\Documents\\GitHub\\Trabalho-ISI_VendasStock\\Knime\\data\\output\\ecommerce_sales_clean.json",
+        "filenameType": "str",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 410,
+        "y": 240,
+        "wires": [
+            [
+                "787390178a123dbe"
+            ]
+        ]
+    },
+    {
+        "id": "787390178a123dbe",
+        "type": "json",
+        "z": "b3b08e7abe70b543",
+        "name": "Parse JSON",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 670,
+        "y": 240,
+        "wires": [
+            [
+                "2e678394b4014c3d",
+                "2052c78322d88136"
+            ]
+        ]
+    },
+    {
+        "id": "2e678394b4014c3d",
+        "type": "function",
+        "z": "b3b08e7abe70b543",
+        "name": "Process Data",
+        "func": "// =============================================\n// PROCESSA DADOS REAIS DO KNIME - SALES\n// =============================================\n\nlet rawData = msg.payload;\n\n// 1. Extrai o array de dados (resolve array duplo)\nlet data;\nif (rawData.ecommerce_sales) {\n    // Se vier com estrutura {\"ecommerce_sales\": [[...]]}\n    data = rawData.ecommerce_sales[0];\n} else if (Array.isArray(rawData)) {\n    // Se vier como array direto\n    data = rawData;\n} else {\n    msg.payload = [{\n        \"series\": [\"Erro\"],\n        \"data\": [[0]],\n        \"labels\": [\"Formato inválido\"]\n    }];\n    node.error(\"❌ Formato de dados não reconhecido!\");\n    return msg;\n}\n\n// 2. Verifica se há dados\nif (!Array.isArray(data) || data.length === 0) {\n    msg.payload = [{\n        \"series\": [\"Aviso\"],\n        \"data\": [[0]],\n        \"labels\": [\"Sem dados\"]\n    }];\n    node.warn(\"⚠️ Array de dados vazio\");\n    return msg;\n}\n\n// 3. PROCESSA: Conta vendas por produto (TOP 10)\nlet produtosCount = {};\n\ndata.forEach(row => {\n    let produto = row.product_name || \"Desconhecido\";\n    produtosCount[produto] = (produtosCount[produto] || 0) + 1;\n});\n\n// 4. Ordena e pega os TOP 10 produtos mais vendidos\nlet sorted = Object.entries(produtosCount)\n    .sort((a, b) => b[1] - a[1])\n    .slice(0, 10);\n\n// 5. Prepara dados para o gráfico de barras\nmsg.payload = [{\n    \"series\": [\"Vendas\"],\n    \"data\": [sorted.map(item => item[1])],\n    \"labels\": sorted.map(item => item[0])\n}];\n\n// 6. Log para debug\nnode.warn(\"✅ Processados \" + data.length + \" registos\");\nnode.warn(\"📊 TOP 10 produtos: \" + sorted.map(p => p[0] + \":\" + p[1]).join(\", \"));\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 240,
+        "wires": [
+            [
+                "4b054b32b475ae7e"
+            ]
+        ]
+    },
+    {
+        "id": "4b054b32b475ae7e",
+        "type": "ui_chart",
+        "z": "b3b08e7abe70b543",
+        "name": "",
+        "group": "7e43c3920c0cce9b",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "label": "Total de Registros",
+        "chartType": "bar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1190,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a38b237063174a47",
+        "type": "ui_chart",
+        "z": "b3b08e7abe70b543",
+        "name": "Status",
+        "group": "7e43c3920c0cce9b",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "Status",
+        "chartType": "bar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1190,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2052c78322d88136",
+        "type": "function",
+        "z": "b3b08e7abe70b543",
+        "name": "Process Data",
+        "func": "let rawData = msg.payload;\nlet data = rawData.ecommerce_sales ? rawData.ecommerce_sales[0] : rawData;\n\nif (!Array.isArray(data) || data.length === 0) {\n    msg.payload = [{\"series\": [\"Sem dados\"], \"data\": [[0]], \"labels\": [\"N/A\"]}];\n    return msg;\n}\n\n// Conta vendas por status\nlet statusCount = {};\ndata.forEach(row => {\n    let status = row.status || \"unknown\";\n    // Traduz para português\n    let statusPT = {\n        \"completed\": \"Concluído\",\n        \"pending\": \"Pendente\", \n        \"cancelled\": \"Cancelado\"\n    }[status] || status;\n    \n    statusCount[statusPT] = (statusCount[statusPT] || 0) + 1;\n});\n\n// Ordena por quantidade\nlet sorted = Object.entries(statusCount).sort((a, b) => b[1] - a[1]);\n\nmsg.payload = [{\n    \"series\": [\"Status\"],\n    \"data\": [sorted.map(item => item[1])],\n    \"labels\": sorted.map(item => item[0])\n}];\n\nnode.warn(\"✅ Status: \" + JSON.stringify(Object.fromEntries(sorted)));\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 500,
+        "wires": [
+            [
+                "a38b237063174a47"
+            ]
+        ]
+    },
+    {
+        "id": "7e43c3920c0cce9b",
+        "type": "ui_group",
+        "name": "Sales Analytics",
+        "tab": "57592cce1d3f857a",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "57592cce1d3f857a",
+        "type": "ui_tab",
+        "name": "Dashboard",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "a04a5886b085846d",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6"
+        }
+    }
+]

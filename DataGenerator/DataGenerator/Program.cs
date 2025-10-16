@@ -12,7 +12,7 @@ namespace DataGenerator
             Console.WriteLine("  Trabalho Prático ISI 2025/26");
             Console.WriteLine("═══════════════════════════════════════════════════════════\n");
 
-            string DirectoryOutput = @"C:\Users\joelo_k10i33y\Documents\GitHub\Trabalho-ISI_VendasStock\data\input";
+            string DirectoryOutput = @"C:\Users\joelo_k10i33y\Documents\GitHub\Trabalho-ISI_VendasStock\Knime\data\input";
 
             try
             {
@@ -24,7 +24,7 @@ namespace DataGenerator
                 string stockXml = Path.Combine(DirectoryOutput, "warehouse_stock_dirty.xml");
 
                 Console.WriteLine("A gerar dados");
-                var sells = Generator.SellsGenerator.Generate(100);
+                var sells = Generator.SellsGenerator.Generate(70);
                 Console.WriteLine($"{sells.Count} vendas geradas (com inconsistências)");
 
                 var stock = StockGenerator.Generate(50);
