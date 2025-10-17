@@ -41,38 +41,103 @@ namespace SalesAPI.Controllers
         [HttpGet("stats")]
         public async Task<ActionResult> GetStats()
         {
-            var sales = await _context.Sales.ToListAsync();
-
-            var totalSales = sales.Count;
-            var totalRevenue = sales.Sum(s => s.TotalAmountDecimal);
-            var avgTicket = totalSales > 0 ? sales.Average(s => s.TotalAmountDecimal) : 0;
-
-            return Ok(new
+            try
             {
-                totalSales,
-                totalRevenue,
-                avgTicket
-            });
+                var allSales = await _context.Sales.ToListAsync();
+
+                var totalSales = allSales.Count;
+
+                var totalRevenue = allSales.Sum(s =>
+                {
+                    try
+                    {
+                        var priceStr = (s.UnitPrice ?? "0")
+                            .Replace("$", "")
+                            .Replace("€", "")
+                            .Replace(",", "")
+                            .Trim();
+
+                        var price = decimal.TryParse(priceStr, out var p) ? p : 0m;
+
+                        return price * s.Quantity;
+                    }
+                    catch
+                    {
+                        return 0m;
+                    }
+                });
+
+                var avgTicket = totalSales > 0 ? totalRevenue / totalSales : 0;
+
+                return Ok(new
+                {
+                    totalSales,
+                    totalRevenue,
+                    avgTicket
+                });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { error = ex.Message });
+            }
         }
 
         // GET: api/sales/by-product
         [HttpGet("by-product")]
-        public async Task<ActionResult> GetSalesByProduct()
+        public async Task<ActionResult> GetTopProductsByRevenue()
         {
-            var sales = await _context.Sales.ToListAsync();
+            try
+            {
+                // Pega TODOS os dados
+                var allSales = await _context.Sales.ToListAsync();
 
-            var data = sales
-                .GroupBy(s => s.ProductName)
-                .Select(g => new {
-                    product = g.Key,
-                    revenue = g.Sum(s => s.TotalAmountDecimal)
-                })
-                .OrderByDescending(x => x.revenue)
-                .Take(10)
-                .ToList();
+                // Agrupa e calcula receita EM MEMÓRIA
+                var topProducts = allSales
+                    .GroupBy(s => s.ProductName)
+                    .Select(g => new
+                    {
+                        product = g.Key ?? "Unknown",
+                        revenue = g.Sum(s =>
+                        {
+                            try
+                            {
+                                // Só precisa converter o UnitPrice (Quantity já é int!)
+                                var priceStr = (s.UnitPrice ?? "0")
+                                    .Replace("$", "")
+                                    .Replace("€", "")
+                                    .Replace(",", "")
+                                    .Trim();
 
-            return Ok(data);
+                                var price = decimal.TryParse(priceStr, out var p) ? p : 0m;
+
+                                return price * s.Quantity;  // Quantity já é int!
+                            }
+                            catch
+                            {
+                                return 0m;
+                            }
+                        }),
+                        totalQuantity = g.Sum(s => s.Quantity),  // Direto!
+                        totalSales = g.Count()
+                    })
+                    .Where(p => p.revenue > 0)  // Só produtos com receita > 0
+                    .OrderByDescending(p => p.revenue)
+                    .Take(10)
+                    .ToList();
+
+                return Ok(topProducts);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new
+                {
+                    error = ex.Message,
+                    stackTrace = ex.StackTrace,
+                    innerException = ex.InnerException?.Message
+                });
+            }
         }
+
 
         // GET: api/sales/{id}
         [HttpGet("{id}")]
