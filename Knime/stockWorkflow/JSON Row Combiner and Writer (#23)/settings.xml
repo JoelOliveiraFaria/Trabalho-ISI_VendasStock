@@ -23,7 +23,7 @@
         <entry key="objectKeyRowID" type="xboolean" value="true"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
     <entry key="factory" type="xstring" value="org.knime.json.node.combine.row.CombineAndWriteJsonNodeFactory"/>
     <entry key="node-name" type="xstring" value="JSON Row Combiner and Writer"/>
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
@@ -36,11 +36,11 @@
     <entry key="node-feature-version" type="xstring" value="5.6.0.v202507151411"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="JSON Row Combiner and Writer"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="8492adf1-daaf-4b3d-afcc-e79e5da49a7e"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>
