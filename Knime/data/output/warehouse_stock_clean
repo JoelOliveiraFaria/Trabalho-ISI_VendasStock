@@ -2,9 +2,9 @@
 <warehouse_stock>
     <warehouse_stock>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>381</quantity_available>
             <minimum_level>50</minimum_level>
             <location>warehouse a - section 1</location>
@@ -12,9 +12,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>81</quantity_available>
             <minimum_level>48</minimum_level>
             <location>warehouse b - section 2</location>
@@ -22,9 +22,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>288</quantity_available>
             <minimum_level>40</minimum_level>
             <location>warehouse b - section 2</location>
@@ -32,9 +32,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>68</quantity_available>
             <minimum_level>13</minimum_level>
             <location>warehouse b - section 2</location>
@@ -42,9 +42,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>6</quantity_available>
             <minimum_level>33</minimum_level>
             <location>warehouse b - section 2</location>
@@ -52,9 +52,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>375</quantity_available>
             <minimum_level>42</minimum_level>
             <location>warehouse b - section 2</location>
@@ -62,9 +62,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>291</quantity_available>
             <minimum_level>48</minimum_level>
             <location>warehouse b - section 2</location>
@@ -72,9 +72,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>3.9E+2</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse b - section 2</location>
@@ -82,9 +82,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>4.6E+2</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse b - section 2</location>
@@ -92,9 +92,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>17</quantity_available>
             <minimum_level>10</minimum_level>
             <location>warehouse a - section 1</location>
@@ -102,9 +102,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>3.3E+2</quantity_available>
             <minimum_level>42</minimum_level>
             <location>warehouse a - section 1</location>
@@ -112,9 +112,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>286</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse a - section 1</location>
@@ -122,9 +122,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>404</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse b - section 2</location>
@@ -132,9 +132,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>87</quantity_available>
             <minimum_level>49</minimum_level>
             <location>warehouse b - section 2</location>
@@ -142,9 +142,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>466</quantity_available>
             <minimum_level>23</minimum_level>
             <location>warehouse a - section 1</location>
@@ -152,9 +152,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>475</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse a - section 1</location>
@@ -162,9 +162,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>142</quantity_available>
             <minimum_level>26</minimum_level>
             <location>warehouse b - section 2</location>
@@ -172,9 +172,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>0</quantity_available>
             <minimum_level>19</minimum_level>
             <location>warehouse b - section 2</location>
@@ -182,9 +182,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>351</quantity_available>
             <minimum_level>35</minimum_level>
             <location>warehouse a - section 1</location>
@@ -192,9 +192,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>208</quantity_available>
             <minimum_level>47</minimum_level>
             <location>warehouse a - section 1</location>
@@ -202,9 +202,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>323</quantity_available>
             <minimum_level>18</minimum_level>
             <location>warehouse b - section 2</location>
@@ -212,9 +212,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>432</quantity_available>
             <minimum_level>15</minimum_level>
             <location>warehouse b - section 2</location>
@@ -222,9 +222,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>428</quantity_available>
             <minimum_level>29</minimum_level>
             <location>warehouse a - section 1</location>
@@ -232,9 +232,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>483</quantity_available>
             <minimum_level>43</minimum_level>
             <location>warehouse a - section 1</location>
@@ -242,9 +242,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>348</quantity_available>
             <minimum_level>18</minimum_level>
             <location>warehouse b - section 2</location>
@@ -252,9 +252,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>272</quantity_available>
             <minimum_level>40</minimum_level>
             <location>warehouse a - section 1</location>
@@ -262,9 +262,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>5E+1</quantity_available>
             <minimum_level>25</minimum_level>
             <location>warehouse b - section 2</location>
@@ -272,9 +272,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>349</quantity_available>
             <minimum_level>46</minimum_level>
             <location>warehouse a - section 1</location>
@@ -282,9 +282,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>207</quantity_available>
             <minimum_level>47</minimum_level>
             <location>warehouse b - section 2</location>
@@ -292,9 +292,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>332</quantity_available>
             <minimum_level>13</minimum_level>
             <location>warehouse a - section 1</location>
@@ -302,9 +302,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>37</quantity_available>
             <minimum_level>37</minimum_level>
             <location>warehouse b - section 2</location>
@@ -312,9 +312,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>2.2E+2</quantity_available>
             <minimum_level>23</minimum_level>
             <location>warehouse b - section 2</location>
@@ -322,9 +322,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>165</quantity_available>
             <minimum_level>43</minimum_level>
             <location>warehouse b - section 2</location>
@@ -332,9 +332,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>76</quantity_available>
             <minimum_level>10</minimum_level>
             <location>warehouse a - section 1</location>
@@ -342,9 +342,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>145</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse a - section 1</location>
@@ -352,9 +352,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>28</quantity_available>
             <minimum_level>21</minimum_level>
             <location>warehouse a - section 1</location>
@@ -362,9 +362,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>111</quantity_available>
             <minimum_level>50</minimum_level>
             <location>warehouse a - section 1</location>
@@ -372,9 +372,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>397</quantity_available>
             <minimum_level>10</minimum_level>
             <location>warehouse a - section 1</location>
@@ -382,9 +382,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>86</quantity_available>
             <minimum_level>11</minimum_level>
             <location>warehouse b - section 2</location>
@@ -392,9 +392,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>188</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse b - section 2</location>
@@ -402,9 +402,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>3E+1</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse a - section 1</location>
@@ -412,9 +412,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>2.9E+2</quantity_available>
             <minimum_level>40</minimum_level>
             <location>warehouse b - section 2</location>
@@ -422,9 +422,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>14</quantity_available>
             <minimum_level>38</minimum_level>
             <location>warehouse a - section 1</location>
@@ -432,9 +432,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>72</quantity_available>
             <minimum_level>16</minimum_level>
             <location>warehouse a - section 1</location>
@@ -442,9 +442,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>356</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse a - section 1</location>
@@ -452,9 +452,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>93</quantity_available>
             <minimum_level>10</minimum_level>
             <location>warehouse a - section 1</location>
@@ -462,9 +462,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>489</quantity_available>
             <minimum_level>31</minimum_level>
             <location>warehouse b - section 2</location>
@@ -472,9 +472,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>459</quantity_available>
             <minimum_level>36</minimum_level>
             <location>warehouse a - section 1</location>
@@ -482,9 +482,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>447</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse b - section 2</location>
@@ -492,9 +492,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>429</quantity_available>
             <minimum_level>11</minimum_level>
             <location>warehouse b - section 2</location>
@@ -502,9 +502,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>381</quantity_available>
             <minimum_level>5E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -512,9 +512,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>81</quantity_available>
             <minimum_level>48</minimum_level>
             <location>warehouse b - section 2</location>
@@ -522,9 +522,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>288</quantity_available>
             <minimum_level>4E+1</minimum_level>
             <location>warehouse b - section 2</location>
@@ -532,9 +532,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>68</quantity_available>
             <minimum_level>13</minimum_level>
             <location>warehouse b - section 2</location>
@@ -542,9 +542,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>6</quantity_available>
             <minimum_level>33</minimum_level>
             <location>warehouse b - section 2</location>
@@ -552,9 +552,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>375</quantity_available>
             <minimum_level>42</minimum_level>
             <location>warehouse b - section 2</location>
@@ -562,9 +562,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>291</quantity_available>
             <minimum_level>48</minimum_level>
             <location>warehouse b - section 2</location>
@@ -572,9 +572,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>3.9E+2</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse b - section 2</location>
@@ -582,9 +582,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>4.6E+2</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse b - section 2</location>
@@ -592,9 +592,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>17</quantity_available>
             <minimum_level>1E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -602,9 +602,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>3.3E+2</quantity_available>
             <minimum_level>42</minimum_level>
             <location>warehouse a - section 1</location>
@@ -612,9 +612,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>286</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse a - section 1</location>
@@ -622,9 +622,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>404</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse b - section 2</location>
@@ -632,9 +632,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>87</quantity_available>
             <minimum_level>49</minimum_level>
             <location>warehouse b - section 2</location>
@@ -642,9 +642,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>466</quantity_available>
             <minimum_level>23</minimum_level>
             <location>warehouse a - section 1</location>
@@ -652,9 +652,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>475</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse a - section 1</location>
@@ -662,9 +662,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>142</quantity_available>
             <minimum_level>26</minimum_level>
             <location>warehouse b - section 2</location>
@@ -672,9 +672,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>0</quantity_available>
             <minimum_level>19</minimum_level>
             <location>warehouse b - section 2</location>
@@ -682,9 +682,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>351</quantity_available>
             <minimum_level>35</minimum_level>
             <location>warehouse a - section 1</location>
@@ -692,9 +692,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>208</quantity_available>
             <minimum_level>47</minimum_level>
             <location>warehouse a - section 1</location>
@@ -702,9 +702,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>323</quantity_available>
             <minimum_level>18</minimum_level>
             <location>warehouse b - section 2</location>
@@ -712,9 +712,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>432</quantity_available>
             <minimum_level>15</minimum_level>
             <location>warehouse b - section 2</location>
@@ -722,9 +722,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>428</quantity_available>
             <minimum_level>29</minimum_level>
             <location>warehouse a - section 1</location>
@@ -732,9 +732,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>483</quantity_available>
             <minimum_level>43</minimum_level>
             <location>warehouse a - section 1</location>
@@ -742,9 +742,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>348</quantity_available>
             <minimum_level>18</minimum_level>
             <location>warehouse b - section 2</location>
@@ -752,9 +752,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>272</quantity_available>
             <minimum_level>4E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -762,9 +762,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>5E+1</quantity_available>
             <minimum_level>25</minimum_level>
             <location>warehouse b - section 2</location>
@@ -772,9 +772,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>349</quantity_available>
             <minimum_level>46</minimum_level>
             <location>warehouse a - section 1</location>
@@ -782,9 +782,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>207</quantity_available>
             <minimum_level>47</minimum_level>
             <location>warehouse b - section 2</location>
@@ -792,9 +792,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>332</quantity_available>
             <minimum_level>13</minimum_level>
             <location>warehouse a - section 1</location>
@@ -802,9 +802,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>37</quantity_available>
             <minimum_level>37</minimum_level>
             <location>warehouse b - section 2</location>
@@ -812,9 +812,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>2.2E+2</quantity_available>
             <minimum_level>23</minimum_level>
             <location>warehouse b - section 2</location>
@@ -822,9 +822,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>165</quantity_available>
             <minimum_level>43</minimum_level>
             <location>warehouse b - section 2</location>
@@ -832,9 +832,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>76</quantity_available>
             <minimum_level>1E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -842,9 +842,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>145</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse a - section 1</location>
@@ -852,9 +852,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>28</quantity_available>
             <minimum_level>21</minimum_level>
             <location>warehouse a - section 1</location>
@@ -862,9 +862,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>111</quantity_available>
             <minimum_level>5E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -872,9 +872,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>397</quantity_available>
             <minimum_level>1E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -882,9 +882,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>86</quantity_available>
             <minimum_level>11</minimum_level>
             <location>warehouse b - section 2</location>
@@ -892,9 +892,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>188</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse b - section 2</location>
@@ -902,9 +902,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>3E+1</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse a - section 1</location>
@@ -912,9 +912,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>2.9E+2</quantity_available>
             <minimum_level>4E+1</minimum_level>
             <location>warehouse b - section 2</location>
@@ -922,9 +922,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>14</quantity_available>
             <minimum_level>38</minimum_level>
             <location>warehouse a - section 1</location>
@@ -932,9 +932,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>72</quantity_available>
             <minimum_level>16</minimum_level>
             <location>warehouse a - section 1</location>
@@ -942,9 +942,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>356</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse a - section 1</location>
@@ -952,9 +952,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>93</quantity_available>
             <minimum_level>1E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -962,9 +962,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>489</quantity_available>
             <minimum_level>31</minimum_level>
             <location>warehouse b - section 2</location>
@@ -972,9 +972,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>459</quantity_available>
             <minimum_level>36</minimum_level>
             <location>warehouse a - section 1</location>
@@ -982,9 +982,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>447</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse b - section 2</location>
@@ -992,9 +992,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>429</quantity_available>
             <minimum_level>11</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1002,9 +1002,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>381</quantity_available>
             <minimum_level>5E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1012,9 +1012,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>81</quantity_available>
             <minimum_level>48</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1022,9 +1022,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>288</quantity_available>
             <minimum_level>4E+1</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1032,9 +1032,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>68</quantity_available>
             <minimum_level>13</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1042,9 +1042,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>6</quantity_available>
             <minimum_level>33</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1052,9 +1052,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>375</quantity_available>
             <minimum_level>42</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1062,9 +1062,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>291</quantity_available>
             <minimum_level>48</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1072,9 +1072,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>3.9E+2</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1082,9 +1082,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>4.6E+2</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1092,9 +1092,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>17</quantity_available>
             <minimum_level>1E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1102,9 +1102,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>3.3E+2</quantity_available>
             <minimum_level>42</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1112,9 +1112,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>286</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1122,9 +1122,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>404</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1132,9 +1132,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>87</quantity_available>
             <minimum_level>49</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1142,9 +1142,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>466</quantity_available>
             <minimum_level>23</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1152,9 +1152,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>475</quantity_available>
             <minimum_level>32</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1162,9 +1162,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>142</quantity_available>
             <minimum_level>26</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1172,9 +1172,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>0</quantity_available>
             <minimum_level>19</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1182,9 +1182,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>351</quantity_available>
             <minimum_level>35</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1192,9 +1192,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>208</quantity_available>
             <minimum_level>47</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1202,9 +1202,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>323</quantity_available>
             <minimum_level>18</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1212,9 +1212,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>432</quantity_available>
             <minimum_level>15</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1222,9 +1222,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>428</quantity_available>
             <minimum_level>29</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1232,9 +1232,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>483</quantity_available>
             <minimum_level>43</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1242,9 +1242,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-PHONE-002-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>348</quantity_available>
             <minimum_level>18</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1252,9 +1252,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>272</quantity_available>
             <minimum_level>4E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1262,9 +1262,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>5E+1</quantity_available>
             <minimum_level>25</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1272,9 +1272,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>349</quantity_available>
             <minimum_level>46</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1282,9 +1282,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>207</quantity_available>
             <minimum_level>47</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1292,9 +1292,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>332</quantity_available>
             <minimum_level>13</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1302,9 +1302,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>37</quantity_available>
             <minimum_level>37</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1312,9 +1312,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>2.2E+2</quantity_available>
             <minimum_level>23</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1322,9 +1322,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>165</quantity_available>
             <minimum_level>43</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1332,9 +1332,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>76</quantity_available>
             <minimum_level>1E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1342,9 +1342,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>145</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1352,9 +1352,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>28</quantity_available>
             <minimum_level>21</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1362,9 +1362,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-KEY-005-2024</sku>
             <product_name>Apple iPad Pro 12.9 512GB</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>111</quantity_available>
             <minimum_level>5E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1372,9 +1372,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Keys</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>397</quantity_available>
             <minimum_level>1E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1382,9 +1382,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>86</quantity_available>
             <minimum_level>11</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1392,9 +1392,9 @@
             <supplier>Logitech</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>188</quantity_available>
             <minimum_level>34</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1402,9 +1402,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>3E+1</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1412,9 +1412,9 @@
             <supplier>Samsung Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>2.9E+2</quantity_available>
             <minimum_level>4E+1</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1422,9 +1422,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-03</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-03</warehouse_id>
             <quantity_available>14</quantity_available>
             <minimum_level>38</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1432,9 +1432,9 @@
             <supplier>Apple Inc.</supplier>
         </item>
         <item>
+            <warehouse_id>WH-05</warehouse_id>
             <sku>ERP-LAP-001-2024</sku>
             <product_name>LG UltraWide 34" Monitor</product_name>
-            <warehouse_id>WH-05</warehouse_id>
             <quantity_available>72</quantity_available>
             <minimum_level>16</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1442,9 +1442,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>356</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1452,9 +1452,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>93</quantity_available>
             <minimum_level>1E+1</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1462,9 +1462,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Samsung Galaxy S24 Ultra</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>489</quantity_available>
             <minimum_level>31</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1472,9 +1472,9 @@
             <supplier>Logitech International</supplier>
         </item>
         <item>
+            <warehouse_id>WH-01</warehouse_id>
             <sku>ERP-MON-004-2024</sku>
             <product_name>ASUS VivoBook 15 Laptop</product_name>
-            <warehouse_id>WH-01</warehouse_id>
             <quantity_available>459</quantity_available>
             <minimum_level>36</minimum_level>
             <location>warehouse a - section 1</location>
@@ -1482,9 +1482,9 @@
             <supplier>LG Electronics</supplier>
         </item>
         <item>
+            <warehouse_id>WH-02</warehouse_id>
             <sku>ERP-TAB-003-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-02</warehouse_id>
             <quantity_available>447</quantity_available>
             <minimum_level>39</minimum_level>
             <location>warehouse b - section 2</location>
@@ -1492,9 +1492,9 @@
             <supplier>ASUS Inc</supplier>
         </item>
         <item>
+            <warehouse_id>WH-04</warehouse_id>
             <sku>ERP-MOU-006-2024</sku>
             <product_name>Logitech MX Master 3S</product_name>
-            <warehouse_id>WH-04</warehouse_id>
             <quantity_available>429</quantity_available>
             <minimum_level>11</minimum_level>
             <location>warehouse b - section 2</location>
