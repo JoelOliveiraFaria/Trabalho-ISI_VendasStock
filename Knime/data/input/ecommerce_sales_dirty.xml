@@ -1,843 +1,843 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ecommerce_sales xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <sale>
-    <sale_id>ECO-001-2025</sale_id>
-    <sale_date>06-10-2025 21:45:35</sale_date>
-    <customer_id>CUST_1001</customer_id>
-    <customer_email>marcelo71@yahoo.com</customer_email>
-    <sku>ERP--MON--004--2024</sku>
-    <product_name>Logitech MX Master 3S Mouse</product_name>
-    <quantity>3 unidades</quantity>
-    <unit_price>1117,69€</unit_price>
-    <total_amount>EUR 2026,23</total_amount>
-    <status>completed</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-002-2025</sale_id>
-    <sale_date>02/10/2025 14:28</sale_date>
-    <customer_id>CUST_1002</customer_id>
-    <customer_email>lucas.matos93@hotmail.com</customer_email>
-    <sku>ERP LAP 001 2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra</product_name>
-    <quantity>2 un</quantity>
-    <unit_price>€1400,35</unit_price>
-    <total_amount>2362,28 EUR</total_amount>
+    <sale_id>ECO0012025</sale_id>
+    <sale_date>2025-10-04T02:41:26Z</sale_date>
+    <customer_id>CUST 1001</customer_id>
+    <customer_email>diana16@portugalmail.pt</customer_email>
+    <sku>ERP/LAP/001/2024</sku>
+    <product_name>  Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity>1 un</quantity>
+    <unit_price>189,85€</unit_price>
+    <total_amount>1726,12€</total_amount>
     <status>PENDING</status>
   </sale>
   <sale>
-    <sale_id>ECO-003-2025</sale_id>
-    <sale_date>2025-10-03T08:51:33Z</sale_date>
-    <customer_id>CUST-1003</customer_id>
-    <customer_email>mario.neto@yahoo.com</customer_email>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>  Logitech MX Master 3S Mouse</product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>735,82</unit_price>
-    <total_amount>2297,83</total_amount>
+    <sale_id>ECO -002 -2025</sale_id>
+    <sale_date>04/10/2025</sale_date>
+    <customer_id>CUST 1002</customer_id>
+    <customer_email>elisa38..live.com</customer_email>
+    <sku>ERP-MOU-006-2024  </sku>
+    <product_name>  Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity>3</quantity>
+    <unit_price>284,67€</unit_price>
+    <total_amount>EUR 2133,67</total_amount>
     <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>ECO-004-2025</sale_id>
-    <sale_date>03/10/2025</sale_date>
-    <customer_id>CUST 1004</customer_id>
-    <customer_email>vania.assuncao@hotmail.com</customer_email>
-    <sku>ERP_LAP_001_2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity>2 un.</quantity>
-    <unit_price>€471,49</unit_price>
-    <total_amount>€2277,03</total_amount>
-    <status>PENDING</status>
+    <sale_id>ECO -003 -2025</sale_id>
+    <sale_date>2025/10/04 08:52</sale_date>
+    <customer_id>CUST-1003</customer_id>
+    <customer_email>tiago_martins33@hotmail.com  </customer_email>
+    <sku>ERP/TAB/003/2024</sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard</product_name>
+    <quantity>2</quantity>
+    <unit_price>354,67</unit_price>
+    <total_amount>616,39€</total_amount>
+    <status>processing</status>
+  </sale>
+  <sale>
+    <sale_id>ECO -004 -2025</sale_id>
+    <sale_date>09-10-2025 02:36:30</sale_date>
+    <customer_id>CUST-1004</customer_id>
+    <customer_email>moises_leal59..yahoo.com</customer_email>
+    <sku>ERP/KEY/005/2024</sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard  </product_name>
+    <quantity>3 un.</quantity>
+    <unit_price>585,13€</unit_price>
+    <total_amount>2355,14€</total_amount>
+    <status>completed</status>
   </sale>
   <sale>
     <sale_id>ECO0052025</sale_id>
-    <sale_date>06/10/2025</sale_date>
-    <customer_id>CUST_1005</customer_id>
-    <customer_email>vasco3@sapo.pt</customer_email>
-    <sku>  ERP-PHONE-002-2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity>3</quantity>
-    <unit_price>€1090,20</unit_price>
-    <total_amount>€1201,64</total_amount>
+    <sale_date>2025-10-03T01:46:48Z</sale_date>
+    <customer_id>CUST 1005</customer_id>
+    <customer_email>  artur.pereira@gmail.com  </customer_email>
+    <sku>ERP--TAB--003--2024</sku>
+    <product_name>ASUS VivoBook 15 Laptop</product_name>
+    <quantity>3 un.</quantity>
+    <unit_price>EUR 990,29</unit_price>
+    <total_amount>EUR 1610,22</total_amount>
     <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>ECO-006-2025</sale_id>
-    <sale_date>2025-10-07T20:09:37Z</sale_date>
+    <sale_id>ECO0062025</sale_id>
+    <sale_date>2025/10/05 17:04</sale_date>
     <customer_id>CUST-1006</customer_id>
-    <customer_email>dinis.simoes33@mail.pt</customer_email>
-    <sku>  ERP-PHONE-002-2024</sku>
-    <product_name>  Logitech MX Master 3S Mouse  </product_name>
-    <quantity>3</quantity>
-    <unit_price>1347,65 EUR</unit_price>
-    <total_amount>424,91€</total_amount>
-    <status>completed</status>
+    <customer_email>flor_goncalves@live.com</customer_email>
+    <sku>ERP_MOU_006_2024</sku>
+    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
+    <quantity>1 un.</quantity>
+    <unit_price>€1265,04</unit_price>
+    <total_amount>874,30</total_amount>
+    <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>ECO -007 -2025</sale_id>
-    <sale_date>2025-10-02T08:06:13Z</sale_date>
+    <sale_id>ECO-007-2025</sale_id>
+    <sale_date>03/10/2025</sale_date>
     <customer_id>CUST_1007</customer_id>
-    <customer_email>adriana62..sapo.pt</customer_email>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra  </product_name>
-    <quantity>1 unidade</quantity>
-    <unit_price>1187,14€</unit_price>
-    <total_amount>EUR 553,37</total_amount>
-    <status>completed</status>
+    <customer_email>diogo.barros77@gmail.com</customer_email>
+    <sku>ERP_MOU_006_2024</sku>
+    <product_name>Logitech MX Master 3S Mouse  </product_name>
+    <quantity>1 un</quantity>
+    <unit_price>€1464,98</unit_price>
+    <total_amount>2451,35</total_amount>
+    <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>ECO -008 -2025</sale_id>
-    <sale_date>04/10/2025</sale_date>
-    <customer_id>CUST 1008</customer_id>
-    <customer_email>  martim_saraiva@outlook.com  </customer_email>
-    <sku>  ERP-KEY-005-2024  </sku>
-    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
-    <quantity>2 un.</quantity>
-    <unit_price>688,56€</unit_price>
-    <total_amount>EUR 1963,01</total_amount>
-    <status>pending</status>
+    <sale_id>ECO-008-2025</sale_id>
+    <sale_date>02/10/2025 22:23</sale_date>
+    <customer_id>CUST-1008</customer_id>
+    <customer_email>eduardo41..portugalmail.pt</customer_email>
+    <sku>ERP--MOU--006--2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB</product_name>
+    <quantity>1 un</quantity>
+    <unit_price>1165,40€</unit_price>
+    <total_amount>EUR 2556,18</total_amount>
+    <status>completed</status>
   </sale>
   <sale>
     <sale_id>ECO-009-2025</sale_id>
-    <sale_date>01-10-2025 22:33:22</sale_date>
-    <customer_id>CUST 1009</customer_id>
-    <customer_email>feliciano.figueiredo..live.com</customer_email>
-    <sku>ERP/KEY/005/2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB</product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>627,96€</unit_price>
-    <total_amount>EUR 1243,43</total_amount>
-    <status>Completed</status>
+    <sale_date>07/10/2025</sale_date>
+    <customer_id>CUST-1009</customer_id>
+    <customer_email>  ruben_carvalho29@sapo.pt  </customer_email>
+    <sku>ERP_KEY_005_2024</sku>
+    <product_name>  Logitech MX Master 3S Mouse  </product_name>
+    <quantity>2 un</quantity>
+    <unit_price>495,23€</unit_price>
+    <total_amount>1193,98</total_amount>
+    <status>processing</status>
   </sale>
   <sale>
-    <sale_id>ECO-010-2025</sale_id>
-    <sale_date>01-10-2025 14:17:13</sale_date>
+    <sale_id>ECO -010 -2025</sale_id>
+    <sale_date>2025/10/01 20:29</sale_date>
     <customer_id>CUST-1010</customer_id>
-    <customer_email>mateus2..gmail.com</customer_email>
-    <sku>ERP_LAP_001_2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity>3 unidades</quantity>
-    <unit_price>EUR 799,32</unit_price>
-    <total_amount>419,92 EUR</total_amount>
-    <status>Completed</status>
+    <customer_email>mateus.machado..aeiou.pt</customer_email>
+    <sku>ERP-PHONE-002-2024  </sku>
+    <product_name>LG UltraWide 34" Monitor</product_name>
+    <quantity>1 un</quantity>
+    <unit_price>EUR 1120,12</unit_price>
+    <total_amount>EUR 1755,05</total_amount>
+    <status>COMPLETED</status>
   </sale>
   <sale>
     <sale_id>ECO-011-2025</sale_id>
-    <sale_date>2025/10/03 18:40</sale_date>
+    <sale_date>09-10-2025 06:59:44</sale_date>
     <customer_id>CUST-1011</customer_id>
-    <customer_email>  daniel.silva@sapo.pt  </customer_email>
-    <sku>ERP/MON/004/2024</sku>
-    <product_name>  LG UltraWide 34" Monitor</product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>€1398,54</unit_price>
-    <total_amount>2636,10 EUR</total_amount>
-    <status>processing</status>
-  </sale>
-  <sale>
-    <sale_id>ECO -012 -2025</sale_id>
-    <sale_date>02/10/2025 11:08</sale_date>
-    <customer_id>CUST_1012</customer_id>
-    <customer_email>cristiano6..mail.pt</customer_email>
-    <sku>ERP_PHONE_002_2024</sku>
+    <customer_email>luna.oliveira@hotmail.com</customer_email>
+    <sku>ERP--MOU--006--2024</sku>
     <product_name>LG UltraWide 34" Monitor  </product_name>
-    <quantity>2 un</quantity>
-    <unit_price>EUR 401,01</unit_price>
-    <total_amount>1988,81 EUR</total_amount>
-    <status>COMPLETED</status>
+    <quantity>2 unidades</quantity>
+    <unit_price>871,07€</unit_price>
+    <total_amount>2690,43</total_amount>
+    <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>  ECO-013-2025  </sale_id>
-    <sale_date>2025/10/04 07:23</sale_date>
-    <customer_id>CUST 1013</customer_id>
-    <customer_email>mara84@sapo.pt  </customer_email>
-    <sku>ERP--KEY--005--2024</sku>
-    <product_name>Logitech MX Keys Mechanical Keyboard  </product_name>
-    <quantity>3</quantity>
-    <unit_price>1263,53</unit_price>
-    <total_amount>2827,59 EUR</total_amount>
+    <sale_id>ECO-012-2025</sale_id>
+    <sale_date>08/10/2025</sale_date>
+    <customer_id>CUST_1012</customer_id>
+    <customer_email>jessica_simoes..aeiou.pt</customer_email>
+    <sku>ERP_LAP_001_2024</sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard</product_name>
+    <quantity>1</quantity>
+    <unit_price>€121,32</unit_price>
+    <total_amount>€933,46</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO-013-2025</sale_id>
+    <sale_date>09/10/2025</sale_date>
+    <customer_id>CUST_1013</customer_id>
+    <customer_email>ofelia.raposo39@hotmail.com</customer_email>
+    <sku>ERP--TAB--003--2024</sku>
+    <product_name>  LG UltraWide 34" Monitor</product_name>
+    <quantity>3 un</quantity>
+    <unit_price>1418,71 EUR</unit_price>
+    <total_amount>EUR 2801,00</total_amount>
+    <status>pending</status>
+  </sale>
+  <sale>
+    <sale_id>ECO-014-2025</sale_id>
+    <sale_date>08/10/2025 01:08</sale_date>
+    <customer_id>CUST 1014</customer_id>
+    <customer_email>marta_neto57@sapo.pt  </customer_email>
+    <sku>ERP_LAP_001_2024</sku>
+    <product_name>LG UltraWide 34" Monitor  </product_name>
+    <quantity>2 un.</quantity>
+    <unit_price>1014,76</unit_price>
+    <total_amount>EUR 2241,16</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>  ECO-015-2025</sale_id>
+    <sale_date>2025/10/02 19:11</sale_date>
+    <customer_id>CUST-1015</customer_id>
+    <customer_email>julio18@sapo.pt</customer_email>
+    <sku>ERP-LAP-001-2024</sku>
+    <product_name>ASUS VivoBook 15 Laptop</product_name>
+    <quantity>3 unidades</quantity>
+    <unit_price>295,84 EUR</unit_price>
+    <total_amount>591,63€</total_amount>
     <status>PENDING</status>
   </sale>
   <sale>
-    <sale_id>ECO0142025</sale_id>
-    <sale_date>09/10/2025</sale_date>
-    <customer_id>CUST-1014</customer_id>
-    <customer_email>bernardo.nogueira39@hotmail.com</customer_email>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>  Logitech MX Keys Mechanical Keyboard  </product_name>
-    <quantity>1</quantity>
-    <unit_price>967,62</unit_price>
-    <total_amount>€216,23</total_amount>
-    <status>pending</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-015-2025</sale_id>
-    <sale_date>2025-10-04T07:42:55Z</sale_date>
-    <customer_id>CUST-1015</customer_id>
-    <customer_email>lara.campos67@hotmail.com</customer_email>
-    <sku>  ERP-TAB-003-2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity>1 unidade</quantity>
-    <unit_price>EUR 815,72</unit_price>
-    <total_amount>2353,44 EUR</total_amount>
-    <status>pending</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-016-2025</sale_id>
-    <sale_date>06-10-2025 00:45:42</sale_date>
-    <customer_id>CUST-1016</customer_id>
-    <customer_email>benjamim.soares..sapo.pt</customer_email>
-    <sku>  ERP-MON-004-2024  </sku>
-    <product_name>  Logitech MX Master 3S Mouse</product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>447,32€</unit_price>
-    <total_amount>1665,87€</total_amount>
-    <status>COMPLETED</status>
+    <sale_id>ECO0162025</sale_id>
+    <sale_date>07-10-2025 09:14:18</sale_date>
+    <customer_id>CUST_1016</customer_id>
+    <customer_email>igor.oliveira..mail.pt</customer_email>
+    <sku>  ERP-LAP-001-2024  </sku>
+    <product_name>  ASUS VivoBook 15 Laptop</product_name>
+    <quantity>2 un</quantity>
+    <unit_price>940,75</unit_price>
+    <total_amount>1419,95 EUR</total_amount>
+    <status>Completed</status>
   </sale>
   <sale>
     <sale_id>ECO-017-2025</sale_id>
-    <sale_date>01-10-2025 23:36:27</sale_date>
-    <customer_id>CUST_1017</customer_id>
-    <customer_email>bruna.cunha82..gmail.com</customer_email>
-    <sku>ERP/TAB/003/2024</sku>
+    <sale_date>05/10/2025 09:59</sale_date>
+    <customer_id>CUST 1017</customer_id>
+    <customer_email>  carminho.soares32@outlook.com  </customer_email>
+    <sku>ERP-TAB-003-2024  </sku>
     <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>670,97 EUR</unit_price>
-    <total_amount>1383,57 EUR</total_amount>
-    <status>PENDING</status>
+    <quantity>2 un</quantity>
+    <unit_price>EUR 104,80</unit_price>
+    <total_amount>2299,39</total_amount>
+    <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>ECO-018-2025</sale_id>
-    <sale_date>2025-10-09T21:50:45Z</sale_date>
+    <sale_id>ECO -018 -2025</sale_id>
+    <sale_date>02/10/2025 20:46</sale_date>
     <customer_id>CUST 1018</customer_id>
-    <customer_email>catarina82..outlook.com</customer_email>
-    <sku>ERP_MON_004_2024</sku>
-    <product_name>Logitech MX Keys Mechanical Keyboard  </product_name>
-    <quantity>1</quantity>
-    <unit_price>1297,23</unit_price>
-    <total_amount>1131,29 EUR</total_amount>
-    <status>PENDING</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-019-2025</sale_id>
-    <sale_date>2025/10/01 11:57</sale_date>
-    <customer_id>CUST-1019</customer_id>
-    <customer_email>xavier.paiva59@mail.pt</customer_email>
-    <sku>ERP--MON--004--2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity>3</quantity>
-    <unit_price>767,03</unit_price>
-    <total_amount>€1335,84</total_amount>
-    <status>pending</status>
-  </sale>
-  <sale>
-    <sale_id>ECO0202025</sale_id>
-    <sale_date>04/10/2025 10:36</sale_date>
-    <customer_id>CUST_1020</customer_id>
-    <customer_email>henrique.brito93@outlook.com</customer_email>
-    <sku>ERP MOU 006 2024</sku>
-    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
+    <customer_email>matilde.borges@portugalmail.pt</customer_email>
+    <sku>  ERP-LAP-001-2024  </sku>
+    <product_name>  LG UltraWide 34" Monitor  </product_name>
     <quantity>3 unidades</quantity>
-    <unit_price>EUR 980,37</unit_price>
-    <total_amount>EUR 1084,71</total_amount>
-    <status>completed</status>
+    <unit_price>1267,30€</unit_price>
+    <total_amount>EUR 1014,55</total_amount>
+    <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>ECO -021 -2025</sale_id>
-    <sale_date>04-10-2025 15:07:57</sale_date>
-    <customer_id>CUST_1021</customer_id>
-    <customer_email>maria.guerreiro74..sapo.pt</customer_email>
+    <sale_id>ECO -019 -2025</sale_id>
+    <sale_date>09/10/2025 22:36</sale_date>
+    <customer_id>CUST 1019</customer_id>
+    <customer_email>tomas70@sapo.pt</customer_email>
+    <sku>ERP--KEY--005--2024</sku>
+    <product_name>  LG UltraWide 34" Monitor</product_name>
+    <quantity>2 unidades</quantity>
+    <unit_price>EUR 779,65</unit_price>
+    <total_amount>EUR 579,99</total_amount>
+    <status>COMPLETED</status>
+  </sale>
+  <sale>
+    <sale_id>ECO-020-2025</sale_id>
+    <sale_date>07/10/2025 02:30</sale_date>
+    <customer_id>CUST_1020</customer_id>
+    <customer_email>ofelia_figueiredo..portugalmail.pt</customer_email>
     <sku>ERP/KEY/005/2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop</product_name>
-    <quantity>1 unidade</quantity>
-    <unit_price>€920,67</unit_price>
-    <total_amount>1534,31€</total_amount>
-    <status>PENDING</status>
+    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
+    <quantity>2 unidades</quantity>
+    <unit_price>285,02</unit_price>
+    <total_amount>1181,93</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0212025</sale_id>
+    <sale_date>2025-10-05T11:58:40Z</sale_date>
+    <customer_id>CUST_1021</customer_id>
+    <customer_email>  madalena_matos87@yahoo.com</customer_email>
+    <sku>ERP--PHONE--002--2024</sku>
+    <product_name>LG UltraWide 34" Monitor</product_name>
+    <quantity>3</quantity>
+    <unit_price>605,59</unit_price>
+    <total_amount>1826,31€</total_amount>
+    <status>COMPLETED</status>
   </sale>
   <sale>
     <sale_id>ECO0222025</sale_id>
-    <sale_date>02/10/2025 00:03</sale_date>
-    <customer_id>CUST_1022</customer_id>
-    <customer_email>diana77@gmail.com</customer_email>
-    <sku>ERP MOU 006 2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra  </product_name>
-    <quantity>1 unidade</quantity>
-    <unit_price>€1119,76</unit_price>
-    <total_amount>€2406,27</total_amount>
+    <sale_date>08/10/2025 08:25</sale_date>
+    <customer_id>CUST 1022</customer_id>
+    <customer_email>igor.barbosa47..yahoo.com</customer_email>
+    <sku>ERP-MON-004-2024</sku>
+    <product_name>ASUS VivoBook 15 Laptop</product_name>
+    <quantity>3 un</quantity>
+    <unit_price>€1496,47</unit_price>
+    <total_amount>2862,17 EUR</total_amount>
     <status>PENDING</status>
   </sale>
   <sale>
-    <sale_id>ECO0232025</sale_id>
-    <sale_date>07/10/2025</sale_date>
+    <sale_id>ECO-023-2025</sale_id>
+    <sale_date>01/10/2025</sale_date>
     <customer_id>CUST_1023</customer_id>
-    <customer_email>joana73@live.com</customer_email>
-    <sku>ERP_LAP_001_2024</sku>
-    <product_name>  Logitech MX Master 3S Mouse</product_name>
-    <quantity>2 un.</quantity>
-    <unit_price>€844,83</unit_price>
-    <total_amount>2053,07€</total_amount>
+    <customer_email>mara79@yahoo.com</customer_email>
+    <sku>ERP PHONE 002 2024</sku>
+    <product_name>  LG UltraWide 34" Monitor  </product_name>
+    <quantity>3</quantity>
+    <unit_price>€330,64</unit_price>
+    <total_amount>2107,16€</total_amount>
+    <status>processing</status>
+  </sale>
+  <sale>
+    <sale_id>ECO-024-2025</sale_id>
+    <sale_date>02/10/2025 12:45</sale_date>
+    <customer_id>CUST_1024</customer_id>
+    <customer_email>madalena_fernandes@live.com</customer_email>
+    <sku>ERP-MOU-006-2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity>2 un</quantity>
+    <unit_price>932,02</unit_price>
+    <total_amount>879,84</total_amount>
     <status>completed</status>
   </sale>
   <sale>
-    <sale_id>ECO0242025</sale_id>
-    <sale_date>2025/10/05 02:29</sale_date>
-    <customer_id>CUST 1024</customer_id>
-    <customer_email>luana.brito@live.com</customer_email>
-    <sku>ERP_TAB_003_2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity>3</quantity>
-    <unit_price>EUR 1236,92</unit_price>
-    <total_amount>2014,61</total_amount>
-    <status>COMPLETED</status>
-  </sale>
-  <sale>
-    <sale_id>ECO0252025</sale_id>
-    <sale_date>02-10-2025 06:45:23</sale_date>
-    <customer_id>CUST 1025</customer_id>
-    <customer_email>miriam74..outlook.com</customer_email>
-    <sku>ERP KEY 005 2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity>3</quantity>
-    <unit_price>EUR 102,52</unit_price>
-    <total_amount>708,73€</total_amount>
-    <status>COMPLETED</status>
-  </sale>
-  <sale>
-    <sale_id>  ECO-026-2025  </sale_id>
-    <sale_date>09/10/2025 09:16</sale_date>
-    <customer_id>CUST_1026</customer_id>
-    <customer_email>teresa82..yahoo.com</customer_email>
-    <sku>ERP/TAB/003/2024</sku>
-    <product_name>Logitech MX Master 3S Mouse  </product_name>
+    <sale_id>ECO-025-2025</sale_id>
+    <sale_date>04-10-2025 14:28:55</sale_date>
+    <customer_id>CUST_1025</customer_id>
+    <customer_email>  filipa83@live.com</customer_email>
+    <sku>ERP_KEY_005_2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra</product_name>
     <quantity>2 un.</quantity>
-    <unit_price>EUR 120,08</unit_price>
-    <total_amount>580,10</total_amount>
+    <unit_price>€1372,37</unit_price>
+    <total_amount>EUR 484,12</total_amount>
     <status>pending</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0262025</sale_id>
+    <sale_date>01/10/2025</sale_date>
+    <customer_id>CUST_1026</customer_id>
+    <customer_email>carlota81@sapo.pt</customer_email>
+    <sku>  ERP-LAP-001-2024  </sku>
+    <product_name>ASUS VivoBook 15 Laptop</product_name>
+    <quantity>2 un.</quantity>
+    <unit_price>957,17 EUR</unit_price>
+    <total_amount>1358,34 EUR</total_amount>
+    <status>completed</status>
   </sale>
   <sale>
     <sale_id>ECO-027-2025</sale_id>
-    <sale_date>09/10/2025 18:04</sale_date>
-    <customer_id>CUST-1027</customer_id>
-    <customer_email>melissa.raposo@mail.pt</customer_email>
-    <sku>ERP LAP 001 2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra</product_name>
-    <quantity>3 un</quantity>
-    <unit_price>EUR 114,19</unit_price>
-    <total_amount>2445,45 EUR</total_amount>
-    <status>completed</status>
+    <sale_date>2025/10/08 17:31</sale_date>
+    <customer_id>CUST_1027</customer_id>
+    <customer_email>  natalia74@outlook.com</customer_email>
+    <sku>  ERP-MON-004-2024  </sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard</product_name>
+    <quantity>2</quantity>
+    <unit_price>276,94</unit_price>
+    <total_amount>1715,36 EUR</total_amount>
+    <status>pending</status>
   </sale>
   <sale>
     <sale_id>ECO -028 -2025</sale_id>
-    <sale_date>2025/10/08 06:16</sale_date>
-    <customer_id>CUST-1028</customer_id>
-    <customer_email>bruno_amaral81@outlook.com</customer_email>
-    <sku>  ERP-LAP-001-2024  </sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity>1 un</quantity>
-    <unit_price>€623,99</unit_price>
-    <total_amount>€996,59</total_amount>
-    <status>COMPLETED</status>
+    <sale_date>07-10-2025 21:06:58</sale_date>
+    <customer_id>CUST 1028</customer_id>
+    <customer_email>jessica.coelho@portugalmail.pt  </customer_email>
+    <sku>ERP-PHONE-002-2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB</product_name>
+    <quantity>2</quantity>
+    <unit_price>€503,82</unit_price>
+    <total_amount>1569,71€</total_amount>
+    <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>ECO -029 -2025</sale_id>
-    <sale_date>01/10/2025 06:49</sale_date>
+    <sale_id>  ECO-029-2025</sale_id>
+    <sale_date>09/10/2025 13:39</sale_date>
     <customer_id>CUST-1029</customer_id>
-    <customer_email>ivan_oliveira@gmail.com</customer_email>
-    <sku>ERP PHONE 002 2024</sku>
+    <customer_email>valter_raposo28@mail.pt</customer_email>
+    <sku>ERP_LAP_001_2024</sku>
     <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity>1 un</quantity>
-    <unit_price>1061,64</unit_price>
-    <total_amount>986,76</total_amount>
-    <status>PENDING</status>
+    <quantity>3</quantity>
+    <unit_price>€1258,56</unit_price>
+    <total_amount>EUR 2512,60</total_amount>
+    <status>completed</status>
   </sale>
   <sale>
     <sale_id>ECO-030-2025</sale_id>
-    <sale_date>02/10/2025</sale_date>
-    <customer_id>CUST 1030</customer_id>
-    <customer_email>constanca59..gmail.com</customer_email>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop</product_name>
-    <quantity>1 unidade</quantity>
-    <unit_price>584,40 EUR</unit_price>
-    <total_amount>€1011,37</total_amount>
-    <status>Completed</status>
-  </sale>
-  <sale>
-    <sale_id>ECO -031 -2025</sale_id>
-    <sale_date>08/10/2025</sale_date>
-    <customer_id>CUST-1031</customer_id>
-    <customer_email>marco_abreu69@hotmail.com</customer_email>
-    <sku>ERP TAB 003 2024</sku>
-    <product_name>Logitech MX Keys Mechanical Keyboard  </product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>420,59€</unit_price>
-    <total_amount>1619,24€</total_amount>
-    <status>Completed</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-032-2025  </sale_id>
-    <sale_date>01/10/2025 18:07</sale_date>
-    <customer_id>CUST-1032</customer_id>
-    <customer_email>duarte_maia@mail.pt</customer_email>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>Logitech MX Master 3S Mouse</product_name>
-    <quantity>1 un</quantity>
-    <unit_price>1191,08</unit_price>
-    <total_amount>€806,58</total_amount>
-    <status>pending</status>
-  </sale>
-  <sale>
-    <sale_id>ECO0332025</sale_id>
-    <sale_date>2025/10/09 08:06</sale_date>
-    <customer_id>CUST 1033</customer_id>
-    <customer_email>samuel_esteves@gmail.com</customer_email>
-    <sku>ERP_TAB_003_2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
+    <sale_date>2025-10-02T10:19:31Z</sale_date>
+    <customer_id>CUST-1030</customer_id>
+    <customer_email>  nuno23@yahoo.com</customer_email>
+    <sku>ERP_MOU_006_2024</sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard</product_name>
     <quantity>3 unidades</quantity>
-    <unit_price>685,40</unit_price>
-    <total_amount>€598,20</total_amount>
-    <status>PENDING</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-034-2025  </sale_id>
-    <sale_date>06-10-2025 21:36:12</sale_date>
-    <customer_id>CUST-1034</customer_id>
-    <customer_email>cesar82..mail.pt</customer_email>
-    <sku>ERP--MON--004--2024</sku>
-    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
-    <quantity>1 un</quantity>
-    <unit_price>773,07€</unit_price>
-    <total_amount>2579,78</total_amount>
-    <status>PENDING</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-035-2025</sale_id>
-    <sale_date>07/10/2025 02:52</sale_date>
-    <customer_id>CUST-1035</customer_id>
-    <customer_email>marta80..mail.pt</customer_email>
-    <sku>ERP-TAB-003-2024  </sku>
-    <product_name>  LG UltraWide 34" Monitor  </product_name>
-    <quantity>3 unidades</quantity>
-    <unit_price>EUR 1246,73</unit_price>
-    <total_amount>1689,92€</total_amount>
+    <unit_price>110,99</unit_price>
+    <total_amount>1589,46</total_amount>
     <status>COMPLETED</status>
   </sale>
   <sale>
-    <sale_id>ECO -036 -2025</sale_id>
-    <sale_date>04/10/2025</sale_date>
-    <customer_id>CUST 1036</customer_id>
-    <customer_email>rafaela_valente81@sapo.pt  </customer_email>
-    <sku>ERP--LAP--001--2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra</product_name>
-    <quantity>2 un.</quantity>
-    <unit_price>125,66 EUR</unit_price>
-    <total_amount>EUR 435,40</total_amount>
-    <status>completed</status>
-  </sale>
-  <sale>
-    <sale_id>  ECO-037-2025</sale_id>
-    <sale_date>04/10/2025 19:46</sale_date>
-    <customer_id>CUST 1037</customer_id>
-    <customer_email>marcia66..mail.pt</customer_email>
-    <sku>ERP/KEY/005/2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity>1</quantity>
-    <unit_price>148,25€</unit_price>
-    <total_amount>2336,43 EUR</total_amount>
+    <sale_id>ECO0312025</sale_id>
+    <sale_date>09/10/2025 06:44</sale_date>
+    <customer_id>CUST-1031</customer_id>
+    <customer_email>  frederica.maia19@mail.pt  </customer_email>
+    <sku>ERP MON 004 2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB</product_name>
+    <quantity>1 un.</quantity>
+    <unit_price>EUR 882,98</unit_price>
+    <total_amount>718,02€</total_amount>
     <status>PENDING</status>
   </sale>
   <sale>
-    <sale_id>ECO -038 -2025</sale_id>
-    <sale_date>03-10-2025 16:31:19</sale_date>
-    <customer_id>CUST_1038</customer_id>
-    <customer_email>amelia_loureiro51@portugalmail.pt</customer_email>
-    <sku>  ERP-LAP-001-2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity>3 un</quantity>
-    <unit_price>1258,72 EUR</unit_price>
-    <total_amount>2125,32</total_amount>
+    <sale_id>ECO0322025</sale_id>
+    <sale_date>01/10/2025</sale_date>
+    <customer_id>CUST-1032</customer_id>
+    <customer_email>tome77..gmail.com</customer_email>
+    <sku>ERP LAP 001 2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra</product_name>
+    <quantity>1</quantity>
+    <unit_price>608,26</unit_price>
+    <total_amount>EUR 1050,69</total_amount>
+    <status>processing</status>
+  </sale>
+  <sale>
+    <sale_id>ECO -033 -2025</sale_id>
+    <sale_date>2025/10/08 22:10</sale_date>
+    <customer_id>CUST_1033</customer_id>
+    <customer_email>cesar_garcia@gmail.com  </customer_email>
+    <sku>ERP_LAP_001_2024</sku>
+    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
+    <quantity>1 un</quantity>
+    <unit_price>€377,82</unit_price>
+    <total_amount>1240,71€</total_amount>
+    <status>pending</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0342025</sale_id>
+    <sale_date>2025/10/03 04:43</sale_date>
+    <customer_id>CUST_1034</customer_id>
+    <customer_email>frederico.araujo30@aeiou.pt  </customer_email>
+    <sku>ERP--TAB--003--2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra</product_name>
+    <quantity>2 unidades</quantity>
+    <unit_price>973,43€</unit_price>
+    <total_amount>2981,25 EUR</total_amount>
+    <status>pending</status>
+  </sale>
+  <sale>
+    <sale_id>ECO -035 -2025</sale_id>
+    <sale_date>06/10/2025</sale_date>
+    <customer_id>CUST-1035</customer_id>
+    <customer_email>luis.faria@portugalmail.pt</customer_email>
+    <sku>ERP/PHONE/002/2024</sku>
+    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
+    <quantity>2 un</quantity>
+    <unit_price>1171,65</unit_price>
+    <total_amount>2267,43</total_amount>
+    <status>PENDING</status>
+  </sale>
+  <sale>
+    <sale_id>ECO-036-2025</sale_id>
+    <sale_date>06-10-2025 16:03:08</sale_date>
+    <customer_id>CUST 1036</customer_id>
+    <customer_email>  cecilia65@hotmail.com</customer_email>
+    <sku>ERP-PHONE-002-2024</sku>
+    <product_name>  Logitech MX Master 3S Mouse  </product_name>
+    <quantity>3 un.</quantity>
+    <unit_price>1249,23€</unit_price>
+    <total_amount>1621,18</total_amount>
     <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO -037 -2025</sale_id>
+    <sale_date>2025/10/06 23:37</sale_date>
+    <customer_id>CUST-1037</customer_id>
+    <customer_email>mario_sousa..hotmail.com</customer_email>
+    <sku>ERP_MON_004_2024</sku>
+    <product_name>  Logitech MX Master 3S Mouse  </product_name>
+    <quantity>2 unidades</quantity>
+    <unit_price>€1074,71</unit_price>
+    <total_amount>2338,20</total_amount>
+    <status>completed</status>
+  </sale>
+  <sale>
+    <sale_id>  ECO-038-2025  </sale_id>
+    <sale_date>05/10/2025</sale_date>
+    <customer_id>CUST 1038</customer_id>
+    <customer_email>olivia34@live.com</customer_email>
+    <sku>ERP_LAP_001_2024</sku>
+    <product_name>Logitech MX Master 3S Mouse  </product_name>
+    <quantity>2 un.</quantity>
+    <unit_price>930,73€</unit_price>
+    <total_amount>1698,35</total_amount>
+    <status>completed</status>
   </sale>
   <sale>
     <sale_id>ECO0392025</sale_id>
-    <sale_date>09-10-2025 00:03:28</sale_date>
+    <sale_date>2025/10/08 03:19</sale_date>
     <customer_id>CUST-1039</customer_id>
-    <customer_email>julia_cunha@hotmail.com</customer_email>
-    <sku>ERP PHONE 002 2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>EUR 1060,50</unit_price>
-    <total_amount>1864,31€</total_amount>
-    <status>Completed</status>
+    <customer_email>julia.ramos@yahoo.com</customer_email>
+    <sku>ERP/KEY/005/2024</sku>
+    <product_name>LG UltraWide 34" Monitor  </product_name>
+    <quantity>3 un</quantity>
+    <unit_price>EUR 357,94</unit_price>
+    <total_amount>1995,57€</total_amount>
+    <status>processing</status>
   </sale>
   <sale>
     <sale_id>ECO -040 -2025</sale_id>
-    <sale_date>08/10/2025 11:37</sale_date>
-    <customer_id>CUST-1040</customer_id>
-    <customer_email>marco.carneiro0@mail.pt</customer_email>
-    <sku>ERP--MOU--006--2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity>3 un</quantity>
-    <unit_price>€151,12</unit_price>
-    <total_amount>EUR 220,47</total_amount>
+    <sale_date>02-10-2025 03:46:45</sale_date>
+    <customer_id>CUST_1040</customer_id>
+    <customer_email>frederica87@yahoo.com</customer_email>
+    <sku>ERP LAP 001 2024</sku>
+    <product_name>LG UltraWide 34" Monitor  </product_name>
+    <quantity>1 unidade</quantity>
+    <unit_price>EUR 135,42</unit_price>
+    <total_amount>EUR 585,32</total_amount>
     <status>pending</status>
   </sale>
   <sale>
-    <sale_id>ECO -041 -2025</sale_id>
-    <sale_date>04-10-2025 23:13:57</sale_date>
-    <customer_id>CUST 1041</customer_id>
-    <customer_email>  andre.marques10@outlook.com</customer_email>
-    <sku>ERP_MON_004_2024</sku>
-    <product_name>  LG UltraWide 34" Monitor  </product_name>
-    <quantity>2</quantity>
-    <unit_price>€899,46</unit_price>
-    <total_amount>EUR 2125,37</total_amount>
-    <status>pending</status>
+    <sale_id>ECO-041-2025</sale_id>
+    <sale_date>07/10/2025</sale_date>
+    <customer_id>CUST_1041</customer_id>
+    <customer_email>francisca22..sapo.pt</customer_email>
+    <sku>ERP KEY 005 2024</sku>
+    <product_name>Logitech MX Master 3S Mouse</product_name>
+    <quantity>3</quantity>
+    <unit_price>€894,46</unit_price>
+    <total_amount>214,42 EUR</total_amount>
+    <status>PENDING</status>
   </sale>
   <sale>
     <sale_id>ECO-042-2025</sale_id>
-    <sale_date>2025/10/05 17:30</sale_date>
-    <customer_id>CUST-1042</customer_id>
-    <customer_email>manel_mota@hotmail.com</customer_email>
-    <sku>ERP_KEY_005_2024</sku>
-    <product_name>  Logitech MX Master 3S Mouse</product_name>
-    <quantity>1</quantity>
-    <unit_price>217,88€</unit_price>
-    <total_amount>1330,12€</total_amount>
+    <sale_date>05/10/2025 17:01</sale_date>
+    <customer_id>CUST 1042</customer_id>
+    <customer_email>  julieta40@sapo.pt  </customer_email>
+    <sku>ERP MOU 006 2024</sku>
+    <product_name>Logitech MX Master 3S Mouse</product_name>
+    <quantity>1 un.</quantity>
+    <unit_price>463,04 EUR</unit_price>
+    <total_amount>1289,04 EUR</total_amount>
     <status>PENDING</status>
   </sale>
   <sale>
-    <sale_id>ECO0432025</sale_id>
-    <sale_date>08/10/2025</sale_date>
-    <customer_id>CUST-1043</customer_id>
-    <customer_email>bruna_machado0@gmail.com</customer_email>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>ASUS VivoBook 15 Laptop  </product_name>
-    <quantity>3</quantity>
-    <unit_price>€632,91</unit_price>
-    <total_amount>578,71 EUR</total_amount>
-    <status>COMPLETED</status>
+    <sale_id>ECO -043 -2025</sale_id>
+    <sale_date>2025/10/03 14:17</sale_date>
+    <customer_id>CUST 1043</customer_id>
+    <customer_email>amelia66@hotmail.com  </customer_email>
+    <sku>ERP/MON/004/2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity>3 un.</quantity>
+    <unit_price>1255,12€</unit_price>
+    <total_amount>EUR 2634,23</total_amount>
+    <status>PENDING</status>
   </sale>
   <sale>
     <sale_id>ECO-044-2025</sale_id>
-    <sale_date>07/10/2025</sale_date>
-    <customer_id>CUST_1044</customer_id>
-    <customer_email>  afonso.gaspar@outlook.com</customer_email>
-    <sku>ERP--LAP--001--2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB</product_name>
+    <sale_date>03/10/2025 05:27</sale_date>
+    <customer_id>CUST-1044</customer_id>
+    <customer_email>adriana_neto@gmail.com</customer_email>
+    <sku>ERP-TAB-003-2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra</product_name>
     <quantity>1 un</quantity>
-    <unit_price>€1162,86</unit_price>
-    <total_amount>1586,84</total_amount>
-    <status>Completed</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-045-2025</sale_id>
-    <sale_date>08/10/2025</sale_date>
-    <customer_id>CUST-1045</customer_id>
-    <customer_email>  vasco70@outlook.com</customer_email>
-    <sku>ERP PHONE 002 2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>€455,68</unit_price>
-    <total_amount>658,58</total_amount>
-    <status>Completed</status>
-  </sale>
-  <sale>
-    <sale_id>ECO -046 -2025</sale_id>
-    <sale_date>03/10/2025</sale_date>
-    <customer_id>CUST_1046</customer_id>
-    <customer_email>alexandra.silva@portugalmail.pt</customer_email>
-    <sku>ERP/MOU/006/2024</sku>
-    <product_name>  Logitech MX Master 3S Mouse  </product_name>
-    <quantity>1 un.</quantity>
-    <unit_price>161,94</unit_price>
-    <total_amount>551,31</total_amount>
-    <status>COMPLETED</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-047-2025</sale_id>
-    <sale_date>06-10-2025 18:01:05</sale_date>
-    <customer_id>CUST-1047</customer_id>
-    <customer_email>silvia67..outlook.com</customer_email>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>LG UltraWide 34" Monitor  </product_name>
-    <quantity>1 un.</quantity>
-    <unit_price>512,07€</unit_price>
-    <total_amount>599,76 EUR</total_amount>
-    <status>Completed</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-048-2025</sale_id>
-    <sale_date>04/10/2025 00:58</sale_date>
-    <customer_id>CUST-1048</customer_id>
-    <customer_email>bruno.coelho@portugalmail.pt</customer_email>
-    <sku>ERP--MON--004--2024</sku>
-    <product_name>  Logitech MX Master 3S Mouse</product_name>
-    <quantity>1 un</quantity>
-    <unit_price>EUR 274,08</unit_price>
-    <total_amount>€1968,53</total_amount>
-    <status>COMPLETED</status>
-  </sale>
-  <sale>
-    <sale_id>ECO0492025</sale_id>
-    <sale_date>05/10/2025 12:53</sale_date>
-    <customer_id>CUST 1049</customer_id>
-    <customer_email>elisa_cunha81@aeiou.pt</customer_email>
-    <sku>ERP_MON_004_2024</sku>
-    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
-    <quantity>2</quantity>
-    <unit_price>637,69</unit_price>
-    <total_amount>EUR 314,88</total_amount>
+    <unit_price>1442,82</unit_price>
+    <total_amount>2621,83€</total_amount>
     <status>PENDING</status>
   </sale>
   <sale>
-    <sale_id>ECO -050 -2025</sale_id>
-    <sale_date>2025-10-07T11:26:15Z</sale_date>
-    <customer_id>CUST_1050</customer_id>
-    <customer_email>josue80..yahoo.com</customer_email>
-    <sku>ERP_MON_004_2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity>1 un.</quantity>
-    <unit_price>379,23€</unit_price>
-    <total_amount>2086,77€</total_amount>
+    <sale_id>  ECO-045-2025  </sale_id>
+    <sale_date>08/10/2025 01:41</sale_date>
+    <customer_id>CUST_1045</customer_id>
+    <customer_email>leticia.ferreira..sapo.pt</customer_email>
+    <sku>ERP-MOU-006-2024  </sku>
+    <product_name>  LG UltraWide 34" Monitor  </product_name>
+    <quantity>1</quantity>
+    <unit_price>EUR 1335,01</unit_price>
+    <total_amount>796,57 EUR</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0462025</sale_id>
+    <sale_date>2025-10-08T16:10:00Z</sale_date>
+    <customer_id>CUST-1046</customer_id>
+    <customer_email>pedro52@gmail.com</customer_email>
+    <sku>ERP PHONE 002 2024</sku>
+    <product_name>  ASUS VivoBook 15 Laptop</product_name>
+    <quantity>1 un</quantity>
+    <unit_price>EUR 784,66</unit_price>
+    <total_amount>2532,64</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0472025</sale_id>
+    <sale_date>09-10-2025 02:04:32</sale_date>
+    <customer_id>CUST 1047</customer_id>
+    <customer_email>marco.amaral@outlook.com</customer_email>
+    <sku>  ERP-MOU-006-2024  </sku>
+    <product_name>Apple iPad Pro 12.9 512GB</product_name>
+    <quantity>3 unidades</quantity>
+    <unit_price>482,69 EUR</unit_price>
+    <total_amount>€1319,84</total_amount>
     <status>pending</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0482025</sale_id>
+    <sale_date>08-10-2025 07:24:31</sale_date>
+    <customer_id>CUST_1048</customer_id>
+    <customer_email>  rafael67@mail.pt</customer_email>
+    <sku>ERP--LAP--001--2024</sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard  </product_name>
+    <quantity>2 un</quantity>
+    <unit_price>383,07</unit_price>
+    <total_amount>2458,06</total_amount>
+    <status>completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO-049-2025</sale_id>
+    <sale_date>2025-10-05T16:51:24Z</sale_date>
+    <customer_id>CUST_1049</customer_id>
+    <customer_email>paula_abreu@live.com</customer_email>
+    <sku>ERP_TAB_003_2024</sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard  </product_name>
+    <quantity>1 un</quantity>
+    <unit_price>EUR 402,35</unit_price>
+    <total_amount>€2950,00</total_amount>
+    <status>COMPLETED</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0502025</sale_id>
+    <sale_date>2025-10-04T10:33:45Z</sale_date>
+    <customer_id>CUST 1050</customer_id>
+    <customer_email>elias53@gmail.com</customer_email>
+    <sku>ERP_MON_004_2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra</product_name>
+    <quantity>2 un</quantity>
+    <unit_price>869,41</unit_price>
+    <total_amount>€1781,20</total_amount>
+    <status>COMPLETED</status>
   </sale>
   <sale>
     <sale_id>ECO-051-2025</sale_id>
-    <sale_date>08/10/2025</sale_date>
-    <customer_id>CUST 1051</customer_id>
-    <customer_email>caetana49..live.com</customer_email>
-    <sku>ERP/TAB/003/2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
-    <quantity>1</quantity>
-    <unit_price>€1099,31</unit_price>
-    <total_amount>706,74 EUR</total_amount>
-    <status>PENDING</status>
+    <sale_date>04/10/2025 20:17</sale_date>
+    <customer_id>CUST-1051</customer_id>
+    <customer_email>luna32@outlook.com</customer_email>
+    <sku>ERP-KEY-005-2024  </sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard</product_name>
+    <quantity>1 unidade</quantity>
+    <unit_price>€496,36</unit_price>
+    <total_amount>1268,19</total_amount>
+    <status>pending</status>
   </sale>
   <sale>
-    <sale_id>  ECO-052-2025  </sale_id>
-    <sale_date>09-10-2025 23:43:22</sale_date>
-    <customer_id>CUST-1052</customer_id>
-    <customer_email>  norberto.macedo36@yahoo.com</customer_email>
-    <sku>ERP--MON--004--2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra</product_name>
+    <sale_id>ECO -052 -2025</sale_id>
+    <sale_date>04-10-2025 23:14:10</sale_date>
+    <customer_id>CUST 1052</customer_id>
+    <customer_email>diogo.teixeira..aeiou.pt</customer_email>
+    <sku>ERP-MON-004-2024</sku>
+    <product_name>  Logitech MX Keys Mechanical Keyboard  </product_name>
     <quantity>1 un.</quantity>
-    <unit_price>EUR 1269,71</unit_price>
-    <total_amount>EUR 2872,00</total_amount>
-    <status>processing</status>
+    <unit_price>344,24</unit_price>
+    <total_amount>EUR 1551,90</total_amount>
+    <status>PENDING</status>
   </sale>
   <sale>
     <sale_id>ECO -053 -2025</sale_id>
-    <sale_date>2025-10-02T09:47:45Z</sale_date>
+    <sale_date>09-10-2025 22:06:52</sale_date>
     <customer_id>CUST-1053</customer_id>
-    <customer_email>daniel.sa74@sapo.pt</customer_email>
-    <sku>ERP_MON_004_2024</sku>
+    <customer_email>valter32..live.com</customer_email>
+    <sku>ERP_LAP_001_2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra  </product_name>
+    <quantity>3 un.</quantity>
+    <unit_price>1267,61 EUR</unit_price>
+    <total_amount>764,73</total_amount>
+    <status>PENDING</status>
+  </sale>
+  <sale>
+    <sale_id>ECO-054-2025</sale_id>
+    <sale_date>04/10/2025 10:27</sale_date>
+    <customer_id>CUST 1054</customer_id>
+    <customer_email>joao23@gmail.com</customer_email>
+    <sku>ERP PHONE 002 2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra  </product_name>
+    <quantity>3</quantity>
+    <unit_price>1256,86</unit_price>
+    <total_amount>€1120,62</total_amount>
+    <status>PENDING</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0552025</sale_id>
+    <sale_date>2025-10-09T04:44:47Z</sale_date>
+    <customer_id>CUST-1055</customer_id>
+    <customer_email>elisa_andrade..outlook.com</customer_email>
+    <sku>ERP--LAP--001--2024</sku>
+    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
+    <quantity>3 un</quantity>
+    <unit_price>957,63€</unit_price>
+    <total_amount>187,02€</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO -056 -2025</sale_id>
+    <sale_date>2025-10-01T20:53:59Z</sale_date>
+    <customer_id>CUST 1056</customer_id>
+    <customer_email>amelia_pinto..gmail.com</customer_email>
+    <sku>ERP/TAB/003/2024</sku>
+    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
+    <quantity>3 un.</quantity>
+    <unit_price>423,91€</unit_price>
+    <total_amount>€707,10</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0572025</sale_id>
+    <sale_date>09/10/2025</sale_date>
+    <customer_id>CUST-1057</customer_id>
+    <customer_email>fabiana_amorim99@sapo.pt</customer_email>
+    <sku>ERP-KEY-005-2024</sku>
+    <product_name>Logitech MX Master 3S Mouse</product_name>
+    <quantity>3</quantity>
+    <unit_price>€1109,23</unit_price>
+    <total_amount>1804,67 EUR</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO0582025</sale_id>
+    <sale_date>09/10/2025</sale_date>
+    <customer_id>CUST 1058</customer_id>
+    <customer_email>nuria_andrade..yahoo.com</customer_email>
+    <sku>ERP MOU 006 2024</sku>
     <product_name>ASUS VivoBook 15 Laptop  </product_name>
     <quantity>1 unidade</quantity>
-    <unit_price>1107,06</unit_price>
-    <total_amount>2103,37 EUR</total_amount>
-    <status>PENDING</status>
-  </sale>
-  <sale>
-    <sale_id>ECO -054 -2025</sale_id>
-    <sale_date>05-10-2025 22:28:20</sale_date>
-    <customer_id>CUST-1054</customer_id>
-    <customer_email>  lara.araujo@yahoo.com  </customer_email>
-    <sku>ERP--KEY--005--2024</sku>
-    <product_name>  Logitech MX Master 3S Mouse  </product_name>
-    <quantity>2</quantity>
-    <unit_price>701,75 EUR</unit_price>
-    <total_amount>€1595,78</total_amount>
-    <status>COMPLETED</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-055-2025</sale_id>
-    <sale_date>2025-10-04T22:27:32Z</sale_date>
-    <customer_id>CUST_1055</customer_id>
-    <customer_email>jaime.maia@yahoo.com</customer_email>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>Samsung Galaxy S24 Ultra</product_name>
-    <quantity>1</quantity>
-    <unit_price>EUR 902,32</unit_price>
-    <total_amount>2487,45 EUR</total_amount>
+    <unit_price>EUR 913,17</unit_price>
+    <total_amount>603,50</total_amount>
     <status>processing</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-056-2025  </sale_id>
-    <sale_date>2025-10-04T18:16:37Z</sale_date>
-    <customer_id>CUST_1056</customer_id>
-    <customer_email>tatiana61@hotmail.com  </customer_email>
-    <sku>ERP--PHONE--002--2024</sku>
-    <product_name>Logitech MX Keys Mechanical Keyboard  </product_name>
-    <quantity>3 un.</quantity>
-    <unit_price>921,08 EUR</unit_price>
-    <total_amount>EUR 972,38</total_amount>
-    <status>completed</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-057-2025</sale_id>
-    <sale_date>2025/10/07 15:39</sale_date>
-    <customer_id>CUST-1057</customer_id>
-    <customer_email>filipa.soares@sapo.pt</customer_email>
-    <sku>ERP/MON/004/2024</sku>
-    <product_name>Apple iPad Pro 12.9 512GB</product_name>
-    <quantity>2 unidades</quantity>
-    <unit_price>1469,06</unit_price>
-    <total_amount>€1473,52</total_amount>
-    <status>PENDING</status>
-  </sale>
-  <sale>
-    <sale_id>ECO -058 -2025</sale_id>
-    <sale_date>03/10/2025 16:03</sale_date>
-    <customer_id>CUST_1058</customer_id>
-    <customer_email>barbara.tavares49@gmail.com</customer_email>
-    <sku>  ERP-PHONE-002-2024</sku>
-    <product_name>  Apple iPad Pro 12.9 512GB</product_name>
-    <quantity>2 un</quantity>
-    <unit_price>739,29 EUR</unit_price>
-    <total_amount>1021,59 EUR</total_amount>
-    <status>completed</status>
   </sale>
   <sale>
     <sale_id>ECO-059-2025</sale_id>
-    <sale_date>05-10-2025 22:18:03</sale_date>
+    <sale_date>2025-10-02T16:50:37Z</sale_date>
     <customer_id>CUST-1059</customer_id>
-    <customer_email>  vasco_vaz74@mail.pt  </customer_email>
-    <sku>  ERP-MON-004-2024</sku>
-    <product_name>  Samsung Galaxy S24 Ultra</product_name>
-    <quantity>1</quantity>
-    <unit_price>€1258,56</unit_price>
-    <total_amount>1193,98</total_amount>
+    <customer_email>francisco.gomes@hotmail.com</customer_email>
+    <sku>ERP--PHONE--002--2024</sku>
+    <product_name>Logitech MX Master 3S Mouse  </product_name>
+    <quantity>1 unidade</quantity>
+    <unit_price>EUR 1235,18</unit_price>
+    <total_amount>EUR 2021,74</total_amount>
     <status>COMPLETED</status>
   </sale>
   <sale>
-    <sale_id>ECO -060 -2025</sale_id>
-    <sale_date>2025-10-02T16:39:51Z</sale_date>
-    <customer_id>CUST 1060</customer_id>
-    <customer_email>fernando_mota96..hotmail.com</customer_email>
-    <sku>ERP/LAP/001/2024</sku>
-    <product_name>  Logitech MX Master 3S Mouse  </product_name>
-    <quantity>1 un.</quantity>
-    <unit_price>385,80 EUR</unit_price>
-    <total_amount>1231,21</total_amount>
+    <sale_id>ECO0602025</sale_id>
+    <sale_date>2025-10-06T07:21:40Z</sale_date>
+    <customer_id>CUST-1060</customer_id>
+    <customer_email>camila_moura..hotmail.com</customer_email>
+    <sku>ERP MON 004 2024</sku>
+    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
+    <quantity>1 unidade</quantity>
+    <unit_price>€335,31</unit_price>
+    <total_amount>€1831,59</total_amount>
+    <status>pending</status>
+  </sale>
+  <sale>
+    <sale_id>  ECO-061-2025  </sale_id>
+    <sale_date>05-10-2025 19:50:35</sale_date>
+    <customer_id>CUST 1061</customer_id>
+    <customer_email>sofia36@outlook.com</customer_email>
+    <sku>  ERP-KEY-005-2024  </sku>
+    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity>2</quantity>
+    <unit_price>625,95 EUR</unit_price>
+    <total_amount>1122,84</total_amount>
     <status>completed</status>
   </sale>
   <sale>
-    <sale_id>ECO -061 -2025</sale_id>
-    <sale_date>2025/10/02 04:42</sale_date>
-    <customer_id>CUST_1061</customer_id>
-    <customer_email>melissa_batista40@yahoo.com</customer_email>
-    <sku>ERP-PHONE-002-2024  </sku>
-    <product_name>  Samsung Galaxy S24 Ultra  </product_name>
-    <quantity>3 un</quantity>
-    <unit_price>306,51€</unit_price>
-    <total_amount>1338,46€</total_amount>
+    <sale_id>ECO -062 -2025</sale_id>
+    <sale_date>2025-10-05T13:23:13Z</sale_date>
+    <customer_id>CUST 1062</customer_id>
+    <customer_email>raul.andrade45@portugalmail.pt</customer_email>
+    <sku>ERP--MOU--006--2024</sku>
+    <product_name>Apple iPad Pro 12.9 512GB  </product_name>
+    <quantity>3 unidades</quantity>
+    <unit_price>1327,92€</unit_price>
+    <total_amount>EUR 1837,59</total_amount>
+    <status>Completed</status>
+  </sale>
+  <sale>
+    <sale_id>ECO-063-2025  </sale_id>
+    <sale_date>2025/10/09 01:03</sale_date>
+    <customer_id>CUST-1063</customer_id>
+    <customer_email>  julia10@live.com</customer_email>
+    <sku>ERP--KEY--005--2024</sku>
+    <product_name>  LG UltraWide 34" Monitor</product_name>
+    <quantity>2 unidades</quantity>
+    <unit_price>434,21 EUR</unit_price>
+    <total_amount>€1541,92</total_amount>
+    <status>pending</status>
+  </sale>
+  <sale>
+    <sale_id>ECO -064 -2025</sale_id>
+    <sale_date>2025-10-03T22:55:06Z</sale_date>
+    <customer_id>CUST-1064</customer_id>
+    <customer_email>  jorge_nobre44@gmail.com  </customer_email>
+    <sku>ERP--MOU--006--2024</sku>
+    <product_name>  LG UltraWide 34" Monitor</product_name>
+    <quantity>3 unidades</quantity>
+    <unit_price>335,92€</unit_price>
+    <total_amount>2142,37€</total_amount>
+    <status>COMPLETED</status>
+  </sale>
+  <sale>
+    <sale_id>ECO -065 -2025</sale_id>
+    <sale_date>04/10/2025 08:56</sale_date>
+    <customer_id>CUST_1065</customer_id>
+    <customer_email>duarte_raposo80@live.com</customer_email>
+    <sku>ERP--MON--004--2024</sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard  </product_name>
+    <quantity>1</quantity>
+    <unit_price>€1227,63</unit_price>
+    <total_amount>2590,26 EUR</total_amount>
+    <status>PENDING</status>
+  </sale>
+  <sale>
+    <sale_id>ECO -066 -2025</sale_id>
+    <sale_date>09/10/2025 08:26</sale_date>
+    <customer_id>CUST_1066</customer_id>
+    <customer_email>  luisa.goncalves32@outlook.com  </customer_email>
+    <sku>ERP/KEY/005/2024</sku>
+    <product_name>Logitech MX Master 3S Mouse</product_name>
+    <quantity>3 unidades</quantity>
+    <unit_price>118,19€</unit_price>
+    <total_amount>1451,28 EUR</total_amount>
     <status>processing</status>
   </sale>
   <sale>
-    <sale_id>ECO-062-2025</sale_id>
-    <sale_date>04/10/2025 18:23</sale_date>
-    <customer_id>CUST_1062</customer_id>
-    <customer_email>amelia40..live.com</customer_email>
-    <sku>ERP PHONE 002 2024</sku>
-    <product_name>  LG UltraWide 34" Monitor  </product_name>
-    <quantity>2</quantity>
-    <unit_price>1465,08 EUR</unit_price>
-    <total_amount>€2437,40</total_amount>
-    <status>completed</status>
-  </sale>
-  <sale>
-    <sale_id>  ECO-063-2025</sale_id>
-    <sale_date>2025-10-04T18:43:03Z</sale_date>
-    <customer_id>CUST 1063</customer_id>
-    <customer_email>leonardo.coelho..sapo.pt</customer_email>
-    <sku>ERP/MON/004/2024</sku>
-    <product_name>  Logitech MX Keys Mechanical Keyboard  </product_name>
-    <quantity>3 unidades</quantity>
-    <unit_price>€955,84</unit_price>
-    <total_amount>€945,73</total_amount>
-    <status>PENDING</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-064-2025</sale_id>
-    <sale_date>02/10/2025</sale_date>
-    <customer_id>CUST_1064</customer_id>
-    <customer_email>  helena_ramos48@sapo.pt</customer_email>
-    <sku>ERP/LAP/001/2024</sku>
-    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
-    <quantity>3 unidades</quantity>
-    <unit_price>456,97 EUR</unit_price>
-    <total_amount>275,42 EUR</total_amount>
-    <status>COMPLETED</status>
-  </sale>
-  <sale>
-    <sale_id>ECO0652025</sale_id>
-    <sale_date>2025-10-01T04:42:48Z</sale_date>
-    <customer_id>CUST 1065</customer_id>
-    <customer_email>gustavo89..portugalmail.pt</customer_email>
-    <sku>  ERP-LAP-001-2024  </sku>
-    <product_name>  Logitech MX Master 3S Mouse  </product_name>
-    <quantity>1 unidade</quantity>
-    <unit_price>EUR 681,95</unit_price>
-    <total_amount>EUR 2011,63</total_amount>
-    <status>pending</status>
-  </sale>
-  <sale>
-    <sale_id>ECO-066-2025</sale_id>
-    <sale_date>09/10/2025</sale_date>
-    <customer_id>CUST_1066</customer_id>
-    <customer_email>ruben.batista@sapo.pt</customer_email>
-    <sku>  ERP-KEY-005-2024  </sku>
-    <product_name>Logitech MX Master 3S Mouse  </product_name>
-    <quantity>1 un</quantity>
-    <unit_price>560,26</unit_price>
-    <total_amount>€2251,84</total_amount>
-    <status>pending</status>
-  </sale>
-  <sale>
-    <sale_id>ECO -067 -2025</sale_id>
-    <sale_date>01/10/2025</sale_date>
+    <sale_id>  ECO-067-2025</sale_id>
+    <sale_date>2025/10/02 20:23</sale_date>
     <customer_id>CUST-1067</customer_id>
-    <customer_email>barbara_rodrigues91..sapo.pt</customer_email>
-    <sku>ERP-KEY-005-2024</sku>
-    <product_name>LG UltraWide 34" Monitor</product_name>
-    <quantity>2</quantity>
-    <unit_price>1439,46 EUR</unit_price>
-    <total_amount>EUR 1110,81</total_amount>
-    <status>PENDING</status>
+    <customer_email>helio_magalhaes39..outlook.com</customer_email>
+    <sku>ERP_TAB_003_2024</sku>
+    <product_name>ASUS VivoBook 15 Laptop  </product_name>
+    <quantity>1 un</quantity>
+    <unit_price>EUR 1380,67</unit_price>
+    <total_amount>EUR 2008,02</total_amount>
+    <status>processing</status>
   </sale>
   <sale>
     <sale_id>ECO-068-2025</sale_id>
-    <sale_date>2025-10-06T18:24:14Z</sale_date>
+    <sale_date>2025-10-05T02:39:32Z</sale_date>
     <customer_id>CUST_1068</customer_id>
-    <customer_email>tomas67@live.com</customer_email>
-    <sku>ERP/LAP/001/2024</sku>
-    <product_name>  Logitech MX Keys Mechanical Keyboard</product_name>
-    <quantity>1 un</quantity>
-    <unit_price>EUR 1332,59</unit_price>
-    <total_amount>1805,50 EUR</total_amount>
+    <customer_email>lourenco94@sapo.pt</customer_email>
+    <sku>ERP/PHONE/002/2024</sku>
+    <product_name>Samsung Galaxy S24 Ultra</product_name>
+    <quantity>3 un</quantity>
+    <unit_price>370,71</unit_price>
+    <total_amount>2340,40€</total_amount>
     <status>COMPLETED</status>
   </sale>
   <sale>
-    <sale_id>ECO0692025</sale_id>
-    <sale_date>06/10/2025</sale_date>
+    <sale_id>ECO -069 -2025</sale_id>
+    <sale_date>02/10/2025 04:52</sale_date>
     <customer_id>CUST 1069</customer_id>
-    <customer_email>rafaela35@sapo.pt</customer_email>
-    <sku>ERP/KEY/005/2024</sku>
-    <product_name>  LG UltraWide 34" Monitor  </product_name>
-    <quantity>3 un</quantity>
-    <unit_price>1252,11€</unit_price>
-    <total_amount>2234,87</total_amount>
-    <status>PENDING</status>
+    <customer_email>leticia92@portugalmail.pt</customer_email>
+    <sku>ERP LAP 001 2024</sku>
+    <product_name>Logitech MX Keys Mechanical Keyboard</product_name>
+    <quantity>3</quantity>
+    <unit_price>181,27€</unit_price>
+    <total_amount>EUR 1321,45</total_amount>
+    <status>Completed</status>
   </sale>
   <sale>
-    <sale_id>ECO-070-2025</sale_id>
-    <sale_date>09/10/2025</sale_date>
-    <customer_id>CUST_1070</customer_id>
-    <customer_email>sara_batista23@gmail.com</customer_email>
-    <sku>ERP-KEY-005-2024</sku>
-    <product_name>  ASUS VivoBook 15 Laptop  </product_name>
-    <quantity>1 un</quantity>
-    <unit_price>486,68</unit_price>
-    <total_amount>EUR 769,96</total_amount>
-    <status>PENDING</status>
+    <sale_id>ECO -070 -2025</sale_id>
+    <sale_date>04/10/2025</sale_date>
+    <customer_id>CUST 1070</customer_id>
+    <customer_email>  vitor43@live.com  </customer_email>
+    <sku>ERP-MON-004-2024  </sku>
+    <product_name>  ASUS VivoBook 15 Laptop</product_name>
+    <quantity>2 unidades</quantity>
+    <unit_price>1207,05</unit_price>
+    <total_amount>€149,11</total_amount>
+    <status>completed</status>
   </sale>
 </ecommerce_sales>

@@ -33,7 +33,7 @@ namespace DataGenerator
                 var sells = Generator.SellsGenerator.Generate(70); // 70 vendas
                 Console.WriteLine($"{sells.Count} vendas geradas (com inconsistências)");
 
-                var stock = StockGenerator.Generate(50); // 50 registos de stock
+                var stock = StockGenerator.Generate(70); // 70 registos de stock
                 Console.WriteLine($"✓ {stock.Count} registros de stock gerados (com inconsistências)\n");
 
                 // Exportação para JSON
