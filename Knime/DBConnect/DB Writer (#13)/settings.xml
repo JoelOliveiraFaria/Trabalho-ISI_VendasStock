@@ -99,7 +99,7 @@
             <entry key="index" type="xint" value="2"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBDataPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBDataPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="Microsoft SQL Server 0c16fd8f-76a4-49de-855d-2aaaf9ecd749"/>
+            <entry key="port_object_summary" type="xstring" value="Microsoft SQL Server e550a1fc-4ace-40c2-9d83-4901efedf7b8"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_2"/>
@@ -107,6 +107,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="9ac3ddc8-2d6b-4b41-8c4e-945adc51e156"/>
+        <entry key="file_store_id" type="xstring" value="d1e6b4a7-826e-487e-81c5-d193633bb4d4"/>
     </config>
 </config>

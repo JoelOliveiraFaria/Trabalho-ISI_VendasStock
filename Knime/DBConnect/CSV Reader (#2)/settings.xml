@@ -73,21 +73,21 @@
                 <config key="C:\Users\joelo_k10i33y\Documents\GitHub\Trabalho-ISI_VendasStock\Knime\data\output\warehouse_stock_clean.csv">
                     <entry key="num_columns" type="xint" value="8"/>
                     <config key="0">
-                        <entry key="name" type="xstring" value="warehouse_id"/>
-                        <entry key="has_type" type="xboolean" value="true"/>
-                        <config key="type">
-                            <entry key="class" type="xstring" value="java.lang.String"/>
-                        </config>
-                    </config>
-                    <config key="1">
                         <entry key="name" type="xstring" value="sku"/>
                         <entry key="has_type" type="xboolean" value="true"/>
                         <config key="type">
                             <entry key="class" type="xstring" value="java.lang.String"/>
                         </config>
                     </config>
-                    <config key="2">
+                    <config key="1">
                         <entry key="name" type="xstring" value="product_name"/>
+                        <entry key="has_type" type="xboolean" value="true"/>
+                        <config key="type">
+                            <entry key="class" type="xstring" value="java.lang.String"/>
+                        </config>
+                    </config>
+                    <config key="2">
+                        <entry key="name" type="xstring" value="warehouse_id"/>
                         <entry key="has_type" type="xboolean" value="true"/>
                         <config key="type">
                             <entry key="class" type="xstring" value="java.lang.String"/>
@@ -134,30 +134,6 @@
                 <config key="columns">
                     <config key="0">
                         <config key="external_spec">
-                            <entry key="name" type="xstring" value="warehouse_id"/>
-                            <entry key="has_type" type="xboolean" value="true"/>
-                            <config key="type">
-                                <entry key="class" type="xstring" value="java.lang.String"/>
-                            </config>
-                        </config>
-                        <entry key="name" type="xstring" value="warehouse_id"/>
-                        <entry key="keep" type="xboolean" value="true"/>
-                        <entry key="position" type="xint" value="0"/>
-                        <config key="production_path">
-                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
-                            <entry key="_converter_src" type="xstring" value="java.lang.String"/>
-                            <entry key="_converter_dst" type="xstring" value="String"/>
-                            <entry key="_converter_name" type="xstring" value="String"/>
-                            <config key="_converter_config"/>
-                            <entry key="_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
-                            <entry key="_producer_src" type="xstring" value="java.lang.String"/>
-                            <entry key="_producer_dst" type="xstring" value="java.lang.String"/>
-                            <entry key="_producer_name" type="xstring" value="java.lang.String"/>
-                            <config key="_producer_config"/>
-                        </config>
-                    </config>
-                    <config key="1">
-                        <config key="external_spec">
                             <entry key="name" type="xstring" value="sku"/>
                             <entry key="has_type" type="xboolean" value="true"/>
                             <config key="type">
@@ -180,7 +156,7 @@
                             <config key="_producer_config"/>
                         </config>
                     </config>
-                    <config key="2">
+                    <config key="1">
                         <config key="external_spec">
                             <entry key="name" type="xstring" value="product_name"/>
                             <entry key="has_type" type="xboolean" value="true"/>
@@ -191,6 +167,30 @@
                         <entry key="name" type="xstring" value="product_name"/>
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="2"/>
+                        <config key="production_path">
+                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+                            <entry key="_converter_src" type="xstring" value="java.lang.String"/>
+                            <entry key="_converter_dst" type="xstring" value="String"/>
+                            <entry key="_converter_name" type="xstring" value="String"/>
+                            <config key="_converter_config"/>
+                            <entry key="_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+                            <entry key="_producer_src" type="xstring" value="java.lang.String"/>
+                            <entry key="_producer_dst" type="xstring" value="java.lang.String"/>
+                            <entry key="_producer_name" type="xstring" value="java.lang.String"/>
+                            <config key="_producer_config"/>
+                        </config>
+                    </config>
+                    <config key="2">
+                        <config key="external_spec">
+                            <entry key="name" type="xstring" value="warehouse_id"/>
+                            <entry key="has_type" type="xboolean" value="true"/>
+                            <config key="type">
+                                <entry key="class" type="xstring" value="java.lang.String"/>
+                            </config>
+                        </config>
+                        <entry key="name" type="xstring" value="warehouse_id"/>
+                        <entry key="keep" type="xboolean" value="true"/>
+                        <entry key="position" type="xint" value="0"/>
                         <config key="production_path">
                             <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
                             <entry key="_converter_src" type="xstring" value="java.lang.String"/>
@@ -441,6 +441,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="51d4ad8e-036c-4131-bfee-5bee081ee71a"/>
+        <entry key="file_store_id" type="xstring" value="a540a346-9f2b-4bd7-a02f-8097fb23f88b"/>
     </config>
 </config>

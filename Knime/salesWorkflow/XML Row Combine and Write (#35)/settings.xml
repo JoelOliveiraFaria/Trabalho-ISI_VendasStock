@@ -7,7 +7,7 @@
     </config>
     <config key="model">
         <entry key="inputColumn" type="xstring" value="XML"/>
-        <entry key="file" type="xstring" value="C:\Users\joelo_k10i33y\Documents\GitHub\Trabalho-ISI_VendasStock\data\output\ecommerce_sales_clean"/>
+        <entry key="file" type="xstring" value="C:\Users\joelo_k10i33y\Documents\GitHub\Trabalho-ISI_VendasStock\Knime\data\output\ecommerce_sales_clean"/>
         <entry key="overwriteExistingFiles" type="xboolean" value="true"/>
         <entry key="rootElement" type="xstring" value="ecommerce_sales"/>
         <config key="attributes">
@@ -18,7 +18,7 @@
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.xml.node.combinewriter.XMLCombineWriterNodeFactory"/>
     <entry key="node-name" type="xstring" value="XML Row Combine and Write"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME XML"/>
@@ -31,11 +31,11 @@
     <entry key="node-feature-version" type="xstring" value="5.6.0.v202507151412"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="XML Row Combine and Write"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="728b736b-b284-42d7-a807-f9e0b1bc7b46"/>
     </config>
 </config>
