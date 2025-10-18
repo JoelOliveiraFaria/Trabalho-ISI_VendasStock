@@ -5,19 +5,32 @@ using SalesAPI.Models;
 
 namespace SalesAPI.Controllers
 {
+    /// <summary>
+    /// Controlador API para gestão de inventário de armazém.
+    /// Fornece endpoints para consultar stock, identificar produtos com baixo inventário e obter estatísticas.
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class WarehouseStockController : ControllerBase
     {
         private readonly AppDbContext _context;
 
+        /// <summary>
+        /// Inicializa uma nova instância do controlador WarehouseStockController.
+        /// </summary>
+        /// <param name="context">Contexto de base de dados injetado via Dependency Injection</param>
         public WarehouseStockController(AppDbContext context)
         {
             _context = context;
         }
 
-        // GET: api/warehousestock
+        /// <summary>
+        /// Obtém a lista completa de stock de todos os armazéns.
+        /// </summary>
+        /// <returns>Lista de todos os produtos em stock com informações de status</returns>
+        /// <response code="200">Retorna a lista completa de stock</response>
         [HttpGet]
+        [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<IEnumerable<object>>> GetAllStock()
         {
             var stock = await _context.WarehouseStock.ToListAsync();
@@ -34,8 +47,16 @@ namespace SalesAPI.Controllers
             }));
         }
 
-        // GET: api/warehousestock/{warehouseId}
+        /// <summary>
+        /// Obtém o stock de um armazém específico.
+        /// </summary>
+        /// <param name="warehouseId">ID único do armazém</param>
+        /// <returns>Lista de produtos no armazém especificado</returns>
+        /// <response code="200">Retorna o stock do armazém</response>
+        /// <response code="404">Armazém não encontrado</response>
         [HttpGet("{warehouseId}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult> GetWarehouseStock(string warehouseId)
         {
             var stock = await _context.WarehouseStock
@@ -56,8 +77,13 @@ namespace SalesAPI.Controllers
             }));
         }
 
-        // GET: api/warehousestock/low-stock
+        /// <summary>
+        /// Obtém lista de produtos com stock abaixo do nível mínimo.
+        /// </summary>
+        /// <returns>Lista de produtos com baixo stock, ordenados por deficit de quantidade</returns>
+        /// <response code="200">Retorna produtos com stock baixo</response>
         [HttpGet("low-stock")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult> GetLowStock()
         {
             var stock = await _context.WarehouseStock.ToListAsync();
@@ -78,8 +104,13 @@ namespace SalesAPI.Controllers
             return Ok(lowStock);
         }
 
-        // GET: api/warehousestock/out-of-stock
+        /// <summary>
+        /// Obtém lista de produtos esgotados (quantidade zero).
+        /// </summary>
+        /// <returns>Lista de produtos sem stock disponível</returns>
+        /// <response code="200">Retorna produtos esgotados</response>
         [HttpGet("out-of-stock")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult> GetOutOfStock()
         {
             var outOfStock = await _context.WarehouseStock
@@ -96,8 +127,16 @@ namespace SalesAPI.Controllers
             return Ok(outOfStock);
         }
 
-        // GET: api/warehousestock/by-product/{sku}
+        /// <summary>
+        /// Obtém o stock de um produto específico em todos os armazéns.
+        /// </summary>
+        /// <param name="sku">SKU (código) do produto</param>
+        /// <returns>Quantidade total e distribuição do produto por armazém</returns>
+        /// <response code="200">Retorna informações de stock do produto</response>
+        /// <response code="404">Produto não encontrado em nenhum armazém</response>
         [HttpGet("by-product/{sku}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult> GetStockByProduct(string sku)
         {
             var stock = await _context.WarehouseStock
@@ -123,8 +162,13 @@ namespace SalesAPI.Controllers
             });
         }
 
-        // GET: api/warehousestock/stats
+        /// <summary>
+        /// Obtém estatísticas gerais do inventário de todos os armazéns.
+        /// </summary>
+        /// <returns>Métricas agregadas incluindo total de produtos, quantidades e contadores de alertas</returns>
+        /// <response code="200">Retorna estatísticas do inventário</response>
         [HttpGet("stats")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult> GetStockStats()
         {
             var stock = await _context.WarehouseStock.ToListAsync();
