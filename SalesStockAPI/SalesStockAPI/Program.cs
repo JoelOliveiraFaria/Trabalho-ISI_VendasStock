@@ -21,7 +21,7 @@ builder.Services.AddCors(options =>
     {
         policy.WithOrigins("http://localhost:3000", "http://localhost:5173") // Portas React/Vite
               .AllowAnyMethod() // Permite GET, POST, PUT, DELETE
-              .AllowAnyHeader(); // Permite qualquer cabeçalho
+              .AllowAnyHeader(); // Permite qualquer cabeçalhos
     });
 });
 
